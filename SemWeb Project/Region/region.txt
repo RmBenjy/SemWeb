@@ -1,0 +1,276 @@
+{{RegionInfobox
+|regioncolor=kanto
+|name=Kanto
+|jname=カントー
+|tmname=Kanto
+|image=PE Kanto Map.png
+|size=300px
+|caption=Artwork of Kanto from [[Generation VII]] by [[kawayoo]]<ref name="gen7-art">[https://twitter.com/PK__SAYONARA/status/1643013730966581248 Tweet by @PK__SAYONARA (reposted by @kawayoo)]</ref>
+|introduction={{2v2|Red|Green}}
+|professor=[[Professor Oak]]<br>[[Professor Cerise]] <small>({{aniseries|PTS}})</small>
+|firstpartner={{p|Bulbasaur}}, {{p|Charmander}}, and {{p|Squirtle}}<br>{{p|Pikachu}}{{sup/1|Y}}{{sup/7|P}} and {{p|Eevee}}{{sup/7|E}}
+|villain=[[Team Rocket]]<br>[[Explorers]] <small>(''{{aniseries|HZ|Horizons}}'')</small><br>[[Elite Four#Indigo Elite Four|Indigo Elite Four]] <small>({{pkmn|Adventures}})</small>
+|league=[[Indigo League]]
+|location=[[Indigo Plateau]]
+|pokelist=[[List of Pokémon by Kanto Pokédex number|Kanto Pokédex]]
+|series={{aniseries|PTS}}<br><small>&nbsp;''{{aniseries|OS|The Beginning}}''<br>&nbsp;''{{aniseries|RS|Ruby and Sapphire}}''<br>&nbsp;''{{aniseries|JN|Journeys}}''</small><br>{{aniseries|HZ}}<br>''[[Pokémon Origins]]''<br>''[[Pokémon Generations]]''<br>''[[Pokémon Evolutions]]''
+|season=[[S01|Indigo League]] (1)<br>[[S08|Advanced Battle]] (8)<br>[[S09|Battle Frontier]] (9)<br>[[S23|Journeys]] (23)<br>[[S24|Master Journeys]] (24)<br>[[S25|Ultimate Journeys]] (25)<br>[[Pokémon Horizons: The Series (season)|Horizons]]
+|generation={{gen|I}}, {{gen|II}}, {{gen|III}}, {{gen|IV}}, {{gen|VII}}
+|games={{2v2|Red|Green}}<sup>Ja</sup><br>[[Pokémon Blue Version (Japanese)|Blue<sup>Ja</sup>]]<br>{{2v2|Red|Blue}}<br>{{v2|Yellow}}<br>{{2v2|Gold|Silver}}<br>{{v2|Crystal}}<br>{{2v2|FireRed|LeafGreen}}<br>{{2v2|HeartGold|SoulSilver}}<br>{{LGPE|Let's Go, Pikachu! and Let's Go, Eevee!}}
+|manga=''[[PS001|A Glimpse of the Glow]]''
+}}
+{{RegionInfobox
+|regioncolor=Johto
+|name=Johto
+|jname=ジョウト
+|tmname=Johto
+|image=JohtoMap.png
+|size=300px
+|caption=Artwork of the Johto region from [[Generation IV]]
+|introduction={{game|Gold and Silver|s}}
+|professor=[[Professor Elm]]
+|firstpartner={{p|Chikorita}}, {{p|Cyndaquil}}, and {{p|Totodile}}
+|villain=[[Team Rocket]]
+|league=[[Johto League]]
+|location=[[Indigo Plateau]] <small>(games)</small><br>{{jo|Silver Town}} <small>({{aniseries|PTS}})</small>
+|pokelist=[[List of Pokémon by New Pokédex number|New Pokédex]]{{sup/2|GSC}}<br>[[List of Pokémon by Johto Pokédex number|Johto Pokédex]]{{sup/4|HGSS}}
+|series={{aniseries|PTS}}<br><small>&nbsp;''{{aniseries|GS|Gold and Silver}}''<br>&nbsp;''{{aniseries|JN|Journeys}}''</small><br>{{aniseries|HZ}}<br>''[[Pokémon Generations]]''<br>''[[Pokémon Evolutions]]''
+|season=[[S03|The Johto Journeys]] (3)<br>[[S04|Johto League Champions]] (4)<br>[[S05|Master Quest]] (5)<br>[[S23|Journeys]] (23)<br>[[S24|Master Journeys]] (24)
+|generation={{gen|II}}, {{gen|IV}}
+|games={{v2|Gold and Silver|s}}<br>{{v2|Crystal}}<br>{{v2|HeartGold and SoulSilver|s}}
+|manga=''[[PS090|The Legend]]''
+}}
+{{RegionInfobox
+|regioncolor=Johto
+|name=Johto
+|jname=ジョウト
+|tmname=Johto
+|image=JohtoMap.png
+|size=300px
+|caption=Artwork of the Johto region from [[Generation IV]]
+|introduction={{game|Gold and Silver|s}}
+|professor=[[Professor Elm]]
+|firstpartner={{p|Chikorita}}, {{p|Cyndaquil}}, and {{p|Totodile}}
+|villain=[[Team Rocket]]
+|league=[[Johto League]]
+|location=[[Indigo Plateau]] <small>(games)</small><br>{{jo|Silver Town}} <small>({{aniseries|PTS}})</small>
+|pokelist=[[List of Pokémon by New Pokédex number|New Pokédex]]{{sup/2|GSC}}<br>[[List of Pokémon by Johto Pokédex number|Johto Pokédex]]{{sup/4|HGSS}}
+|series={{aniseries|PTS}}<br><small>&nbsp;''{{aniseries|GS|Gold and Silver}}''<br>&nbsp;''{{aniseries|JN|Journeys}}''</small><br>{{aniseries|HZ}}<br>''[[Pokémon Generations]]''<br>''[[Pokémon Evolutions]]''
+|season=[[S03|The Johto Journeys]] (3)<br>[[S04|Johto League Champions]] (4)<br>[[S05|Master Quest]] (5)<br>[[S23|Journeys]] (23)<br>[[S24|Master Journeys]] (24)
+|generation={{gen|II}}, {{gen|IV}}
+|games={{v2|Gold and Silver|s}}<br>{{v2|Crystal}}<br>{{v2|HeartGold and SoulSilver|s}}
+|manga=''[[PS090|The Legend]]''
+}}
+{{RegionInfobox
+|regioncolor=Sinnoh
+|name=Sinnoh
+|jname=シンオウ
+|tmname=Sinnoh
+|image=Sinnoh BDSP artwork.png
+|size=300px
+|caption=Artwork of the Sinnoh region from {{g|Brilliant Diamond and Shining Pearl}}
+|introduction={{game|Diamond and Pearl|s}}
+|professor=[[Professor Rowan]]
+|firstpartner={{p|Turtwig}}, {{p|Chimchar}}, and {{p|Piplup}}
+|villain=[[Team Galactic]]<br>[[J]] <small>({{aniseries|PTS}})</small>
+|league=[[Sinnoh League]]
+|location={{si|Pokémon League}} <small>(games)</small><br>[[Lily of the Valley Island]] <small>({{aniseries|PTS}})</small>
+|pokelist=[[List of Pokémon by Sinnoh Pokédex number|Sinnoh Pokédex]]
+|series={{aniseries|PTS}}<br><small>&nbsp;''{{aniseries|DP|Diamond and Pearl}}''<br>&nbsp;''{{aniseries|JN|Journeys}}''</small><br>''[[Pokémon Generations]]''<br>''[[Pokémon Evolutions]]''
+|season=[[S10|Diamond and Pearl]] (10)<br>[[S11|Battle Dimension]] (11)<br>[[S12|Galactic Battles]] (12)<br> [[S13|Sinnoh League Victors]] (13)<br>[[S23|Journeys]] (23)<br>[[S24|Master Journeys]] (24)
+|generation={{Gen|IV}}, {{Gen|VIII}}
+|games={{v2|Diamond and Pearl|s}}<br>{{v2|Platinum}}<br>{{pkmn|Brilliant Diamond and Shining Pearl}}<br>{{pkmn|Legends: Arceus}} (as [[Hisui]])
+|manga=''[[PS338|Stagestruck Starly]]''
+}}
+{{RegionInfobox
+|regioncolor=Unova
+|name=Unova
+|jname=イッシュ
+|tmname=Issyu
+|image=Unova B2W2 alt.png
+|size=300
+|caption=Artwork of the Unova region from {{2v2|Black|White|2}}
+|introduction={{game|Black and White|s}}
+|professor=[[Professor Juniper]]<br>[[Professor Burnet]]
+|firstpartner={{p|Snivy}}, {{p|Tepig}}, and {{p|Oshawott}}
+|villain=[[Team Plasma]]<br>[[Team Rocket]] <small>({{aniseries|PTS}})</small>
+|league=[[Unova League]]
+|location={{un|Pokémon League}} <small>(Unova; games)</small><br>[[Vertress City]] <small>(Unova; {{aniseries|PTS}})</small>
+|pokelist=Unova Pokédex<br>&nbsp;([[List of Pokémon by Unova Pokédex number in Pokémon Black and White|Old Unova Pokédex]])<br>&nbsp;([[List of Pokémon by Unova Pokédex number in Pokémon Black 2 and White 2|New Unova Pokédex]])
+|series={{aniseries|PTS}}<br><small>&nbsp;''{{aniseries|BW|Black & White}}''<br>&nbsp;''{{aniseries|JN|Journeys}}''</small><br>''[[Pokémon Generations]]''<br>''[[Pokémon Evolutions]]''
+|season=[[S14|Black & White]] (14)<br>[[S15|Rival Destinies]] (15)<br>[[S16|Adventures in Unova]] (16)<br>[[S23|Journeys]] (23)<br>[[S24|Master Journeys]] (24)
+|generation={{Gen|V}}, {{Gen|IX}}
+|games={{v2|Black and White|s}}<br>{{2v2|Black|White|2}}<br>{{pkmn|Scarlet and Violet}} ([[The Indigo Disk]])
+|manga=''[[PS461|Fussing and Fighting]]''
+}}
+{{RegionInfobox
+|regioncolor=Unova
+|name=Unova
+|jname=イッシュ
+|tmname=Issyu
+|image=Unova B2W2 alt.png
+|size=300
+|caption=Artwork of the Unova region from {{2v2|Black|White|2}}
+|introduction={{game|Black and White|s}}
+|professor=[[Professor Juniper]]<br>[[Professor Burnet]]
+|firstpartner={{p|Snivy}}, {{p|Tepig}}, and {{p|Oshawott}}
+|villain=[[Team Plasma]]<br>[[Team Rocket]] <small>({{aniseries|PTS}})</small>
+|league=[[Unova League]]
+|location={{un|Pokémon League}} <small>(Unova; games)</small><br>[[Vertress City]] <small>(Unova; {{aniseries|PTS}})</small>
+|pokelist=Unova Pokédex<br>&nbsp;([[List of Pokémon by Unova Pokédex number in Pokémon Black and White|Old Unova Pokédex]])<br>&nbsp;([[List of Pokémon by Unova Pokédex number in Pokémon Black 2 and White 2|New Unova Pokédex]])
+|series={{aniseries|PTS}}<br><small>&nbsp;''{{aniseries|BW|Black & White}}''<br>&nbsp;''{{aniseries|JN|Journeys}}''</small><br>''[[Pokémon Generations]]''<br>''[[Pokémon Evolutions]]''
+|season=[[S14|Black & White]] (14)<br>[[S15|Rival Destinies]] (15)<br>[[S16|Adventures in Unova]] (16)<br>[[S23|Journeys]] (23)<br>[[S24|Master Journeys]] (24)
+|generation={{Gen|V}}, {{Gen|IX}}
+|games={{v2|Black and White|s}}<br>{{2v2|Black|White|2}}<br>{{pkmn|Scarlet and Violet}} ([[The Indigo Disk]])
+|manga=''[[PS461|Fussing and Fighting]]''
+}}
+{{RegionInfobox
+|regioncolor=alola
+|name=Alola
+|jname=アローラ
+|tmname=Alola
+|image=Alola USUM artwork.png
+|size=300
+|caption=Artwork of the Alola region from {{g|Ultra Sun and Ultra Moon}}
+|introduction={{g|Sun and Moon}}
+|professor=[[Professor Kukui]]<br>[[Professor Burnet]]<br>[[Samson Oak]]
+|firstpartner={{p|Rowlet}}, {{p|Litten}} and {{p|Popplio}}
+|villain=[[Team Skull]]<br>[[Aether Foundation]]<br>{{ga|Necrozma}}<br>[[Team Rainbow Rocket]]<br>[[Team Rocket]] <small>({{aniseries|PTS}})</small>
+|league=[[Alola League]]
+|location=[[Mount Lanakila]] <small>(games)</small><br>[[Manalo Stadium]] <small>({{aniseries|PTS}})</small>
+|dex=yes
+|pokelist=Alola Pokédex<br>&nbsp;([[List of Pokémon by Alola Pokédex number in Pokémon Sun and Moon|Sun and Moon]])<br>&nbsp;([[List of Pokémon by Alola Pokédex number in Pokémon Ultra Sun and Ultra Moon|Ultra Sun and Ultra Moon]])
+|generation={{Gen|VII}}
+|games={{pkmn|Sun and Moon}}<br>{{pkmn|Ultra Sun and Ultra Moon}}
+|series={{aniseries|PTS}}<br><small>&nbsp;''{{aniseries|SM|Sun & Moon}}''<br>&nbsp;''{{aniseries|JN|Journeys}}''</small><br>''[[Pokémon Evolutions]]''
+|season=[[S20|Sun & Moon]] (20)<br>[[S21|Ultra Adventures]] (21)<br>[[S22|Ultra Legends]] (22)<br>[[S23|Journeys]] (23)<br>[[S24|Master Journeys]] (24)<br>[[S25|Ultimate Journeys]] (25)
+|manga=''[[PASM01|The Grand Entrance and Delivery Boy Sun]]''
+}}
+{{RegionInfobox
+|regioncolor=galar
+|name=Galar
+|jname=ガラル
+|tmname=Galar
+|image=Galar artwork.png
+|size=300
+|caption=Artwork of the Galar region from {{g|Sword and Shield}}
+|introduction={{g|Sword and Shield}}
+|professor=[[Professor Magnolia]]<br>[[Sonia|Professor Sonia]]
+|firstpartner={{p|Grookey}}, {{p|Scorbunny}}, and {{p|Sobble}}
+|villain=[[Team Yell]]<br>[[Macro Cosmos]]<br>[[Sordward]] and [[Shielbert]]<br>[[Explorers]] <small>(''{{aniseries|HZ|Horizons}}'')</small>
+|league=[[Galar League]]
+|location=[[Wyndon Stadium]]
+|pokelist=[[List of Pokémon by Galar Pokédex number|Galar Pokédex]]<br>[[List of Pokémon by Isle of Armor Pokédex number|Isle of Armor Pokédex]]<br>[[List of Pokémon by Crown Tundra Pokédex number|Crown Tundra Pokédex]]
+|generation={{Gen|VIII}}
+|games={{pkmn|Sword and Shield}}
+|series={{aniseries|PTS}}<br><small>&nbsp;''{{aniseries|JN|Journeys}}''</small><br>{{aniseries|HZ}}<br>''[[Pokémon: Twilight Wings]]''
+|season=[[S23|Journeys]] (23)<br>[[S24|Master Journeys]] (24)<br>[[S25|Ultimate Journeys]] (25)<br>[[Pokémon Horizons: The Series (season)|Horizons]]
+|manga=''[[PASS01|Wow!! That's One Big Pokémon]]''
+}}
+{{RegionInfobox
+|regioncolor=Hisui
+|name=Hisui
+|jname=ヒスイ
+|tmname=Hisui
+|image=Legends Arceus Hisui.png
+|size=300px
+|caption=Artwork of the Hisui region from {{g|Legends: Arceus}} by [[You Iribi]]<ref name=HisuiMap>[https://web.archive.org/web/20231108090641/https://twitter.com/iribi_you/status/1488096658542194689 You Iribi's Twitter]</ref>
+|introduction={{g|Legends: Arceus}}
+|professor=[[Professor Laventon]]
+|firstpartner={{p|Rowlet}}, {{p|Cyndaquil}}, and {{p|Oshawott}}
+|villain=[[Miss Fortunes|Miss Fortune sisters]]<br>[[Volo]] and {{p|Giratina}}
+|pokelist=[[List of Pokémon by Hisui Pokédex number|Hisui Pokédex]]
+|generation={{Gen|VIII}}
+|games={{pkmn|Legends: Arceus}}
+|series={{aniseries|PTS}}<br><small>&nbsp;''{{aniseries|JN|Journeys}}'' (cameo)</small><br>{{aniseries|HZ}}  <small>(flashback)</small><br>''[[Pokémon: Hisuian Snow]]''
+|season=[[Pokémon: The Arceus Chronicles|The Arceus Chronicles]]
+}}
+{{RegionInfobox
+|regioncolor=paldea
+|name=Paldea
+|jname=パルデア
+|tmname=Paldea
+|image=Paldea artwork.png
+|size=300
+|caption=Artwork of the Paldea region from {{g|Scarlet and Violet}}
+|introduction={{g|Scarlet and Violet}}
+|professor=[[Professor Sada]]{{sup/9|S}}<br>[[Professor Turo]]{{sup/9|V}}
+|firstpartner={{p|Sprigatito}}, {{p|Fuecoco}}, and {{p|Quaxly}}
+|villain=[[Team Star]]<br>[[Zero Lab#Trainers|The Paradise Protection Protocol]]<br>[[Explorers]] <small>(''{{aniseries|HZ|Horizons}}'')</small>
+|league=[[Paldea League]]
+|location={{pal|Pokémon League}}
+|pokelist=[[List of Pokémon by Paldea Pokédex number|Paldea Pokédex]]
+|generation={{Gen|IX}}
+|games={{pkmn|Scarlet and Violet}}
+|series={{aniseries|PTS}}<br><small>&nbsp;''[[Team Rocket Expedition which stands by the evils of love and truth]]''</small><br>{{aniseries|HZ}}<br>''[[Pokémon: Paldean Winds]]''
+|season=[[Pokémon Horizons: The Series (season)|Horizons]]<br>[[Pokémon Horizons: Season 2—The Search for Laqua|The Search for Laqua]]
+|manga=[[PASV01]]
+}}
+{{RegionInfobox
+|regioncolor=Sevii
+|name=Sevii Islands
+|jname=ナナシマ
+|tmname=Nanashima
+|region=no
+|image=Sevii Islands.png
+|caption=Artwork of the Sevii Islands from FireRed and LeafGreen
+|introduction={{game|FireRed and LeafGreen|s}}
+|villain=[[Team Rocket]]
+|generation={{gen|III}}
+|games={{v2|FireRed and LeafGreen|s}}
+|series=[[Pokémon Chronicles]]
+|season=[[Pokémon Chronicles]]
+|manga=''[[PS270|Now You See Me...]]''
+}}
+{{RegionInfobox
+|region=no
+|regioncolor=Isle of Armor
+|name=Isle of Armor
+|jname=ヨロイ
+|tmname=Armor Island
+|image=Isle of Armor artwork.png
+|size=300
+|caption=Artwork of the Isle of Armor from {{g|Sword and Shield}}
+|introduction={{g|Sword and Shield}} ([[The Isle of Armor]])
+|generation={{gen|VIII}}
+|games={{g|Sword and Shield}} ([[The Isle of Armor]])
+|pokelist=[[List of Pokémon by Isle of Armor Pokédex number|Isle of Armor Pokédex]]
+|series=''[[Pokémon: Twilight Wings]]''
+}}
+{{RegionInfobox
+|region=no
+|regioncolor=Crown Tundra
+|name=Crown Tundra
+|jname=カンムリせつげん
+|tmname=Crown Snowfield
+|image=Crown Tundra artwork.png
+|size=300
+|caption=Artwork of the Crown Tundra from {{g|Sword and Shield}}
+|introduction={{g|Sword and Shield}} ([[The Crown Tundra]])
+|professor=[[Sonia|Professor Sonia]]
+|starter=None
+|villain={{p|Glastrier}}/{{p|Spectrier}}
+|generation={{gen|VIII}}
+|games={{g|Sword and Shield}} ([[The Crown Tundra]])
+|pokelist=[[List of Pokémon by Crown Tundra Pokédex number|Crown Tundra Pokédex]]
+|series={{aniseries|PTS}}<br><small>&nbsp;''{{aniseries|JN|Journeys}}''</small><br>''[[Pokémon: Twilight Wings]]''
+|season=[[S25|Ultimate Journeys]]
+}}
+{{RegionInfobox
+|regioncolor=Kitakami
+|region=no
+|name=Kitakami
+|jname=キタカミ
+|tmname=Kitakami
+|image=Mossui Town SV Concept Art.png
+|caption=Concept art
+|size=300
+|introduction=[[Pokémon Scarlet and Violet]] ([[The Teal Mask]])
+|professor=None
+|starter=None
+|villain=[[Loyal Three|The Loyal Three]]<br>{{ga|Pecharunt}}
+|generation={{gen|IX}}
+|games={{pkmn|Scarlet and Violet}} ([[The Teal Mask]])
+|pokelist=[[List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex]]
+|series={{aniseries|HZ}}<br>''[[Pokémon: Paldean Winds]] <small>(cameo)</small>
+}}

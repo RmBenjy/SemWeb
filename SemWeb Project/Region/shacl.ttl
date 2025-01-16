@@ -1,0 +1,112 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix pkmn: <http://example.org/pokemon/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+
+pkmn:RegionShape a sh:NodeShape ;
+    sh:targetClass pkmn:Region ;
+
+    sh:property [
+        sh:path schema:name ;
+        sh:nodeKind sh:Literal ;
+        sh:description "The region's English name." ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:name ;
+        sh:nodeKind sh:Literal ;
+        sh:description "The region's Japanese name, in Japanese script." ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pkmn:romanizedName ;
+        sh:datatype xsd:string ;
+        sh:description "The romanization of the region's Japanese name." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:region ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1;
+        sh:description "Optional. Set to no if a suffix other than 'region' is required." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:image ;
+        sh:datatype xsd:string ;
+        sh:description "The image to be used for the region in the infobox. Requires file extension." ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pkmn:imageSize ;
+        sh:datatype xsd:integer ;
+        sh:maxCount 1;
+        sh:description "Optional. The image size. Do not include px. Defaults to 250." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:imageCaption ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1;
+        sh:description "Optional. Override for the image caption. Defaults to Artwork of the <name> region." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:introduction ;
+        sh:datatype xsd:string ;
+        sh:description "The media in which this region debuted." ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pkmn:regionalProfessor ;
+        sh:datatype xsd:string ;
+        sh:description "Optional. The region's Pokémon Professor. Defaults to None." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:firstPartnerPokemon ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1;
+        sh:description "Optional. The first partner Pokémon offered in this region. Defaults to None." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:regionalVillains ;
+        sh:datatype xsd:string ;
+        sh:description "Optional. The region's villainous organization. Defaults to None." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:regionalLeague ;
+        sh:datatype xsd:string ;
+        sh:description "Optional. The region's league." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:notableLocation ;
+        sh:datatype xsd:string ;
+        sh:description "Optional. The location of the region's league." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:regionalPokedex ;
+        sh:datatype xsd:string ;
+        sh:description "Optional. The regional Pokédex." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:series ;
+        sh:datatype xsd:string ;
+        sh:description "The animation series that this region appears in." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:season ;
+        sh:datatype xsd:string ;
+        sh:description "The animation seasons that this region appears in." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:generation ;
+        sh:datatype xsd:string ;
+        sh:description "Optional. The generations this region appears in." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:games ;
+        sh:datatype xsd:string ;
+        sh:description "Optional. The games this region appears in." ;
+    ] ;
+    sh:property [
+        sh:path pkmn:manga ;
+        sh:datatype xsd:string ;
+        sh:description "Optional. The chapter that this region debuted in the Pokémon Adventures manga." ;
+    ] .

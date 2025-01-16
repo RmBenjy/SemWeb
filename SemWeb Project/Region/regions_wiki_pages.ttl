@@ -1,0 +1,98 @@
+@prefix base: <http://example.org/pokemon/regions/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix pokemon: <http://example.org/pokemon/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix resource: <http://example.org/pokemon/resource/regions/> .
+@prefix wiki: <https://bulbapedia.bulbagarden.net/wiki/> .
+
+wiki:Alola_%28region%29 a pokemon:WikiPage ;
+    rdfs:label "Alola (region)" ;
+    pokemon:describes resource:Alola ;
+    foaf:page wiki:Alola_\(region\) .
+
+wiki:Galar_%28region%29 a pokemon:WikiPage ;
+    rdfs:label "Galar (region)" ;
+    pokemon:describes resource:Galar ;
+    foaf:page wiki:Galar_\(region\) .
+
+wiki:Hisui_%28region%29 a pokemon:WikiPage ;
+    rdfs:label "Hisui (region)" ;
+    pokemon:describes resource:Hisui ;
+    foaf:page wiki:Hisui_\(region\) .
+
+wiki:Hoenn_%28region%29 a pokemon:WikiPage ;
+    rdfs:label "Hoenn (region)" ;
+    pokemon:describes resource:Hoenn ;
+    foaf:page wiki:Hoenn_\(region\) .
+
+wiki:Johto_%28region%29 a pokemon:WikiPage ;
+    rdfs:label "Johto (region)" ;
+    pokemon:describes resource:Johto ;
+    foaf:page wiki:Johto_\(region\) .
+
+wiki:Kalos_%28region%29 a pokemon:WikiPage ;
+    rdfs:label "Kalos (region)" ;
+    pokemon:describes resource:Kalos ;
+    foaf:page wiki:Kalos_\(region\) .
+
+wiki:Kanto_%28region%29 a pokemon:WikiPage ;
+    rdfs:label "Kanto (region)" ;
+    pokemon:describes resource:Kanto ;
+    foaf:page wiki:Kanto_\(region\) .
+
+wiki:Paldea_%28region%29 a pokemon:WikiPage ;
+    rdfs:label "Paldea (region)" ;
+    pokemon:describes resource:Paldea ;
+    foaf:page wiki:Paldea_\(region\) .
+
+wiki:Sinnoh_%28region%29 a pokemon:WikiPage ;
+    rdfs:label "Sinnoh (region)" ;
+    pokemon:describes resource:Sinnoh ;
+    foaf:page wiki:Sinnoh_\(region\) .
+
+wiki:Unova_%28region%29 a pokemon:WikiPage ;
+    rdfs:label "Unova (region)" ;
+    pokemon:describes resource:Unova ;
+    foaf:page wiki:Unova_\(region\) .
+
+resource:Alola a pokemon:RegionResource ;
+    rdfs:label "Alola" ;
+    owl:sameAs base:Alola .
+
+resource:Galar a pokemon:RegionResource ;
+    rdfs:label "Galar" ;
+    owl:sameAs base:Galar .
+
+resource:Hisui a pokemon:RegionResource ;
+    rdfs:label "Hisui" ;
+    owl:sameAs base:Hisui .
+
+resource:Hoenn a pokemon:RegionResource ;
+    rdfs:label "Hoenn" ;
+    owl:sameAs base:Hoenn .
+
+resource:Johto a pokemon:RegionResource ;
+    rdfs:label "Johto" ;
+    owl:sameAs base:Johto .
+
+resource:Kalos a pokemon:RegionResource ;
+    rdfs:label "Kalos" ;
+    owl:sameAs base:Kalos .
+
+resource:Kanto a pokemon:RegionResource ;
+    rdfs:label "Kanto" ;
+    owl:sameAs base:Kanto .
+
+resource:Paldea a pokemon:RegionResource ;
+    rdfs:label "Paldea" ;
+    owl:sameAs base:Paldea .
+
+resource:Sinnoh a pokemon:RegionResource ;
+    rdfs:label "Sinnoh" ;
+    owl:sameAs base:Sinnoh .
+
+resource:Unova a pokemon:RegionResource ;
+    rdfs:label "Unova" ;
+    owl:sameAs base:Unova .
+

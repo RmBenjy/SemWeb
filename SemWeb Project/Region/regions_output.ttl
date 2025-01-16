@@ -1,0 +1,201 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix pokemon: <http://example.org/pokemon/> .
+@prefix region: <http://example.org/pokemon/region/> .
+@prefix schema1: <http://schema.org/> .
+@prefix bulbapedia: <https://bulbapedia.bulbagarden.net/wiki/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dbpedia: <http://dbpedia.org/resource/> .
+
+region:Alola a pokemon:Region ;
+    pokemon:animeSeason "Sun & Moon (20)Ultra Adventures (21)Ultra Legends (22)Journeys (23)Master Journeys (24)Ultimate Journeys (25)" ;
+    pokemon:animeSeries "Pokémon Evolutions" ;
+    pokemon:image "Alola_USUM_artwork.png" ;
+    pokemon:imageSize 300 ;
+    pokemon:manga "The Grand Entrance and Delivery Boy Sun" ;
+    pokemon:notableLocation "Mount Lanakila Manalo Stadium" ;
+    pokemon:regionalLeague "Alola League" ;
+    pokemon:regionalPokedex "Alola Pokédex (Sun",
+        "Moon) (Ultra Sun",
+        "Ultra Moon)" ;
+    pokemon:regionalProfessor "Professor Kukui Professor Burnet Samson Oak" ;
+    pokemon:regionalVillains "Team Skull Aether Foundation Team Rainbow Rocket Team Rocket" ;
+    pokemon:romanizedName "Alola" ;
+    schema1:name "Alola"@en,
+        "アローラ"@ja ;
+    owl:sameAs dbpedia:Alola .
+
+region:Galar a pokemon:Region ;
+    pokemon:animeSeason "Journeys (23)Master Journeys (24)Ultimate Journeys (25)Horizons" ;
+    pokemon:animeSeries "Pokémon: Twilight Wings" ;
+    pokemon:image "Galar_artwork.png" ;
+    pokemon:imageSize 300 ;
+    pokemon:manga "Wow!! That's One Big Pokémon" ;
+    pokemon:notableLocation "Wyndon Stadium" ;
+    pokemon:regionalLeague "Galar League" ;
+    pokemon:regionalPokedex "Galar Pokédex Isle of Armor Pokédex Crown Tundra Pokédex" ;
+    pokemon:regionalProfessor "Professor Sonia" ;
+    pokemon:regionalVillains "Shielbert Explorers",
+        "Team Yell Macro Cosmos Sordward" ;
+    pokemon:romanizedName "Galar" ;
+    schema1:name "Galar"@en,
+        "ガラル"@ja ;
+    owl:sameAs dbpedia:Galar .
+
+region:Hisui a pokemon:Region ;
+    pokemon:image "Legends_Arceus_Hisui.png" ;
+    pokemon:imageSize 300 ;
+    pokemon:introduction "Pokémon Legends: Arceus" ;
+    pokemon:previousName region:Sinnoh ;
+    pokemon:romanizedName "Hisui" ;
+    pokemon:season "S23 Journeys" ;
+    pokemon:series "Generations" ;
+    schema1:name "Hisui"@en,
+        "ヒスイ"@ja ;
+    owl:sameAs dbpedia:Hisui .
+
+region:Hoenn a pokemon:Region ;
+    pokemon:animeSeason "Advanced (6)Advanced Challenge (7)Advanced Battle (8)Journeys (23)Master Journeys (24)Ultimate Journeys (25)" ;
+    pokemon:animeSeries "Pokémon Generations Pokémon Evolutions" ;
+    pokemon:image "Hoenn_Soaring_ORAS_Map.png" ;
+    pokemon:imageCaption "Artwork of the Hoenn region from Pokémon Omega Ruby and Alpha Sapphire illustrated by kawayoo" ;
+    pokemon:manga "Creeping Past Cacnea" ;
+    pokemon:notableLocation "Ever Grande City" ;
+    pokemon:regionalLeague "Hoenn League" ;
+    pokemon:regionalPokedex "Hoenn Pokédex Hoenn Pokédex" ;
+    pokemon:regionalProfessor "Professor Birch" ;
+    pokemon:regionalVillains "Team Magma Team Aqua" ;
+    pokemon:romanizedName "Hoenn" ;
+    schema1:name "Hoenn"@de,
+        "Hoenn"@en,
+        "Hoenn"@fr,
+        "Hoenn"@it,
+        "ホウエン"@ja,
+        "ホウエン地方"@ja,
+        "호연지방"@ko ;
+    owl:sameAs dbpedia:Hoenn .
+
+region:Johto a pokemon:Region ;
+    pokemon:animeSeason "The Johto Journeys (3)Johto League Champions (4)Master Quest (5)Journeys (23)Master Journeys (24)" ;
+    pokemon:animeSeries "Pokémon Generations Pokémon Evolutions" ;
+    pokemon:image "Stadium_2_Pok%C3%A9dex_map_Johto.png" ;
+    pokemon:imageCaption "Artwork of the Johto region from Generation IV" ;
+    pokemon:manga "The Legend" ;
+    pokemon:notableLocation "Indigo Plateau" ;
+    pokemon:regionalLeague "Johto League" ;
+    pokemon:regionalPokedex "New Pokédex Johto Pokédex" ;
+    pokemon:regionalProfessor "Professor Elm" ;
+    pokemon:regionalVillains "Team Rocket" ;
+    pokemon:romanizedName "Johto" ;
+    schema1:name "Johto"@de,
+        "Johto"@en,
+        "Johto"@fr,
+        "Johto"@it,
+        "ジョウト"@ja,
+        "ジョウト地方"@ja,
+        "성도지방"@ko ;
+    owl:sameAs dbpedia:Johto .
+
+region:Kalos a pokemon:Region ;
+    pokemon:animeSeason "XY (17)Kalos Quest (18)XYZ (19)Journeys (23)Master Journeys (24)Ultimate Journeys (25)" ;
+    pokemon:animeSeries "Pokémon Generations Pokémon Evolutions POKÉTOON" ;
+    pokemon:image "Kalos_Pok%C3%A9dex_map.png" ;
+    pokemon:imageSize 300 ;
+    pokemon:manga "An X-cuse to Come Out and Play" ;
+    pokemon:notableLocation "Lumiose City (anime)" ;
+    pokemon:regionalLeague "Kalos League" ;
+    pokemon:regionalPokedex "Kalos Pokédex" ;
+    pokemon:regionalProfessor "Professor Sycamore" ;
+    pokemon:regionalVillains "Team Flare" ;
+    pokemon:romanizedName "Kalos" ;
+    schema1:name "Kalos"@de,
+        "Kalos"@en,
+        "Kalos"@fr,
+        "Kalos"@it,
+        "カロス"@ja,
+        "カロス地方"@ja,
+        "칼로스지방"@ko ;
+    owl:sameAs dbpedia:Kalos .
+
+region:Kanto a pokemon:Region ;
+    pokemon:animeSeason "Indigo League (1)Advanced Battle (8)Battle Frontier (9)Journeys (23)Master Journeys (24)Ultimate Journeys (25)Horizons" ;
+    pokemon:animeSeries "Pokémon Origins Pokémon Generations Pokémon Evolutions" ;
+    pokemon:firstPartnerPokemon "and" ;
+    pokemon:games "Ja Blue Ja" ;
+    pokemon:image "Stadium_2_Pok%C3%A9dex_map_Kanto.png" ;
+    pokemon:imageCaption "Artwork of Kanto from Generation VII by kawayoo" ;
+    pokemon:manga "A Glimpse of the Glow" ;
+    pokemon:notableLocation "Indigo Plateau" ;
+    pokemon:regionalLeague "Indigo League" ;
+    pokemon:regionalPokedex "Kanto Pokédex" ;
+    pokemon:regionalProfessor "Professor Oak Professor Cerise" ;
+    pokemon:regionalVillains "Indigo Elite Four" ;
+    pokemon:romanizedName "Kanto" ;
+    schema1:name "Kanto"@de,
+        "Kanto"@en,
+        "Kanto"@fr,
+        "Kanto"@it,
+        "カントー"@ja,
+        "カントー地方"@ja,
+        "관동지방"@ko ;
+    owl:sameAs dbpedia:Kanto .
+
+region:Paldea a pokemon:Region ;
+    pokemon:animeSeason "Horizons The Search for Laqua" ;
+    pokemon:animeSeries "Team Rocket Expedition which stands by the evils of love",
+        "truth Pokémon: Paldean Winds" ;
+    pokemon:image "Paldea_artwork.png" ;
+    pokemon:imageSize 300 ;
+    pokemon:manga "PASV01" ;
+    pokemon:regionalLeague "Paldea League" ;
+    pokemon:regionalPokedex "Paldea Pokédex" ;
+    pokemon:regionalProfessor "Professor Sada Professor Turo" ;
+    pokemon:regionalVillains "The Paradise Protection Protocol Explorers" ;
+    pokemon:romanizedName "Paldea" ;
+    schema1:name "Paldea"@en,
+        "パルデア"@ja ;
+    owl:sameAs dbpedia:Paldea .
+
+region:Unova a pokemon:Region ;
+    pokemon:image "Unova_world_map.png" ;
+    pokemon:imageSize 300 ;
+    pokemon:introduction "Pokémon Black and White" ;
+    pokemon:manga "Fussing and Fighting" ;
+    pokemon:notableLocation "Vertress City" ;
+    pokemon:regionalLeague "Unova League" ;
+    pokemon:regionalPokedex "Unova Pokédex" ;
+    pokemon:regionalProfessor "Professor Juniper" ;
+    pokemon:regionalVillains "Team Plasma" ;
+    pokemon:romanizedName "Unova" ;
+    pokemon:season "S14 Black & White, S15 Rival Destinies" ;
+    pokemon:series "Generations, Evolutions" ;
+    schema1:name "Unovský"@cs,
+        "Einall"@de,
+        "Unova"@en,
+        "Unys"@fr,
+        "Unima"@it,
+        "イッシュ"@ja,
+        "イッシュ地方"@ja,
+        "하나지방"@ko ;
+    owl:sameAs dbpedia:Unova .
+
+region:Sinnoh a pokemon:Region ;
+    pokemon:image "Sinnoh_BDSP_artwork.png" ;
+    pokemon:introduction "Pokémon Diamond and Pearl" ;
+    pokemon:manga "Stagestruck Starly" ;
+    pokemon:notableLocation "Spear Pillar" ;
+    pokemon:regionalLeague "Sinnoh League" ;
+    pokemon:regionalPokedex "Sinnoh Pokédex" ;
+    pokemon:regionalProfessor "Professor Rowan" ;
+    pokemon:regionalVillains "Team Galactic" ;
+    pokemon:romanizedName "Sinnoh" ;
+    pokemon:season "S10 Diamond and Pearl, S11 Battle Dimension" ;
+    pokemon:series "Generations, Evolutions" ;
+    schema1:name "Sinnoh"@de,
+        "Sinnoh"@en,
+        "Sinnoh"@fr,
+        "Sinnoh"@it,
+        "シンオウ"@ja,
+        "シンオウ地方"@ja,
+        "신오지방"@ko ;
+    owl:sameAs dbpedia:Sinnoh .
+
