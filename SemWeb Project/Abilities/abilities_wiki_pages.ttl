@@ -1,0 +1,2752 @@
+@prefix base: <http://example.org/pokemon/abilities/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix pokemon: <http://example.org/pokemon/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix resource: <http://example.org/pokemon/resource/abilities/> .
+@prefix wiki: <https://bulbapedia.bulbagarden.net/wiki/> .
+
+wiki:Adaptability_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Adaptability (ability)" ;
+    pokemon:describes resource:Adaptability ;
+    foaf:page wiki:Adaptability_\(ability\) .
+
+wiki:Aerilate_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Aerilate (ability)" ;
+    pokemon:describes resource:Aerilate ;
+    foaf:page wiki:Aerilate_\(ability\) .
+
+wiki:Aftermath_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Aftermath (ability)" ;
+    pokemon:describes resource:Aftermath ;
+    foaf:page wiki:Aftermath_\(ability\) .
+
+wiki:Air%20Lock_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Air Lock (ability)" ;
+    pokemon:describes resource:Air_Lock ;
+    foaf:page wiki:Air_Lock_\(ability\) .
+
+wiki:Analytic_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Analytic (ability)" ;
+    pokemon:describes resource:Analytic ;
+    foaf:page wiki:Analytic_\(ability\) .
+
+wiki:Anger%20Point_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Anger Point (ability)" ;
+    pokemon:describes resource:Anger_Point ;
+    foaf:page wiki:Anger_Point_\(ability\) .
+
+wiki:Anger%20Shell_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Anger Shell (ability)" ;
+    pokemon:describes resource:Anger_Shell ;
+    foaf:page wiki:Anger_Shell_\(ability\) .
+
+wiki:Anticipation_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Anticipation (ability)" ;
+    pokemon:describes resource:Anticipation ;
+    foaf:page wiki:Anticipation_\(ability\) .
+
+wiki:Arena%20Trap_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Arena Trap (ability)" ;
+    pokemon:describes resource:Arena_Trap ;
+    foaf:page wiki:Arena_Trap_\(ability\) .
+
+wiki:Armor%20Tail_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Armor Tail (ability)" ;
+    pokemon:describes resource:Armor_Tail ;
+    foaf:page wiki:Armor_Tail_\(ability\) .
+
+wiki:Aroma%20Veil_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Aroma Veil (ability)" ;
+    pokemon:describes resource:Aroma_Veil ;
+    foaf:page wiki:Aroma_Veil_\(ability\) .
+
+wiki:As%20One_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "As One (ability)" ;
+    pokemon:describes resource:As_One ;
+    foaf:page wiki:As_One_\(ability\) .
+
+wiki:Aura%20Break_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Aura Break (ability)" ;
+    pokemon:describes resource:Aura_Break ;
+    foaf:page wiki:Aura_Break_\(ability\) .
+
+wiki:Bad%20Dreams_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Bad Dreams (ability)" ;
+    pokemon:describes resource:Bad_Dreams ;
+    foaf:page wiki:Bad_Dreams_\(ability\) .
+
+wiki:Ball%20Fetch_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Ball Fetch (ability)" ;
+    pokemon:describes resource:Ball_Fetch ;
+    foaf:page wiki:Ball_Fetch_\(ability\) .
+
+wiki:Battery_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Battery (ability)" ;
+    pokemon:describes resource:Battery ;
+    foaf:page wiki:Battery_\(ability\) .
+
+wiki:Battle%20Armor_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Battle Armor (ability)" ;
+    pokemon:describes resource:Battle_Armor ;
+    foaf:page wiki:Battle_Armor_\(ability\) .
+
+wiki:Battle%20Bond_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Battle Bond (ability)" ;
+    pokemon:describes resource:Battle_Bond ;
+    foaf:page wiki:Battle_Bond_\(ability\) .
+
+wiki:Beads%20of%20Ruin_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Beads of Ruin (ability)" ;
+    pokemon:describes resource:Beads_of_Ruin ;
+    foaf:page wiki:Beads_of_Ruin_\(ability\) .
+
+wiki:Beast%20Boost_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Beast Boost (ability)" ;
+    pokemon:describes resource:Beast_Boost ;
+    foaf:page wiki:Beast_Boost_\(ability\) .
+
+wiki:Berserk_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Berserk (ability)" ;
+    pokemon:describes resource:Berserk ;
+    foaf:page wiki:Berserk_\(ability\) .
+
+wiki:Big%20Pecks_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Big Pecks (ability)" ;
+    pokemon:describes resource:Big_Pecks ;
+    foaf:page wiki:Big_Pecks_\(ability\) .
+
+wiki:Blaze_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Blaze (ability)" ;
+    pokemon:describes resource:Blaze ;
+    foaf:page wiki:Blaze_\(ability\) .
+
+wiki:Bulletproof_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Bulletproof (ability)" ;
+    pokemon:describes resource:Bulletproof ;
+    foaf:page wiki:Bulletproof_\(ability\) .
+
+wiki:Cheek%20Pouch_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Cheek Pouch (ability)" ;
+    pokemon:describes resource:Cheek_Pouch ;
+    foaf:page wiki:Cheek_Pouch_\(ability\) .
+
+wiki:Chilling%20Neigh_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Chilling Neigh (ability)" ;
+    pokemon:describes resource:Chilling_Neigh ;
+    foaf:page wiki:Chilling_Neigh_\(ability\) .
+
+wiki:Chlorophyll_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Chlorophyll (ability)" ;
+    pokemon:describes resource:Chlorophyll ;
+    foaf:page wiki:Chlorophyll_\(ability\) .
+
+wiki:Clear%20Body_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Clear Body (ability)" ;
+    pokemon:describes resource:Clear_Body ;
+    foaf:page wiki:Clear_Body_\(ability\) .
+
+wiki:Cloud%20Nine_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Cloud Nine (ability)" ;
+    pokemon:describes resource:Cloud_Nine ;
+    foaf:page wiki:Cloud_Nine_\(ability\) .
+
+wiki:Color%20Change_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Color Change (ability)" ;
+    pokemon:describes resource:Color_Change ;
+    foaf:page wiki:Color_Change_\(ability\) .
+
+wiki:Comatose_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Comatose (ability)" ;
+    pokemon:describes resource:Comatose ;
+    foaf:page wiki:Comatose_\(ability\) .
+
+wiki:Commander_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Commander (ability)" ;
+    pokemon:describes resource:Commander ;
+    foaf:page wiki:Commander_\(ability\) .
+
+wiki:Competitive_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Competitive (ability)" ;
+    pokemon:describes resource:Competitive ;
+    foaf:page wiki:Competitive_\(ability\) .
+
+wiki:Compound%20Eyes_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Compound Eyes (ability)" ;
+    pokemon:describes resource:Compound_Eyes ;
+    foaf:page wiki:Compound_Eyes_\(ability\) .
+
+wiki:Contrary_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Contrary (ability)" ;
+    pokemon:describes resource:Contrary ;
+    foaf:page wiki:Contrary_\(ability\) .
+
+wiki:Corrosion_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Corrosion (ability)" ;
+    pokemon:describes resource:Corrosion ;
+    foaf:page wiki:Corrosion_\(ability\) .
+
+wiki:Costar_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Costar (ability)" ;
+    pokemon:describes resource:Costar ;
+    foaf:page wiki:Costar_\(ability\) .
+
+wiki:Cotton%20Down_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Cotton Down (ability)" ;
+    pokemon:describes resource:Cotton_Down ;
+    foaf:page wiki:Cotton_Down_\(ability\) .
+
+wiki:Cud%20Chew_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Cud Chew (ability)" ;
+    pokemon:describes resource:Cud_Chew ;
+    foaf:page wiki:Cud_Chew_\(ability\) .
+
+wiki:Curious%20Medicine_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Curious Medicine (ability)" ;
+    pokemon:describes resource:Curious_Medicine ;
+    foaf:page wiki:Curious_Medicine_\(ability\) .
+
+wiki:Cursed%20Body_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Cursed Body (ability)" ;
+    pokemon:describes resource:Cursed_Body ;
+    foaf:page wiki:Cursed_Body_\(ability\) .
+
+wiki:Cute%20Charm_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Cute Charm (ability)" ;
+    pokemon:describes resource:Cute_Charm ;
+    foaf:page wiki:Cute_Charm_\(ability\) .
+
+wiki:Damp_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Damp (ability)" ;
+    pokemon:describes resource:Damp ;
+    foaf:page wiki:Damp_\(ability\) .
+
+wiki:Dancer_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Dancer (ability)" ;
+    pokemon:describes resource:Dancer ;
+    foaf:page wiki:Dancer_\(ability\) .
+
+wiki:Dark%20Aura_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Dark Aura (ability)" ;
+    pokemon:describes resource:Dark_Aura ;
+    foaf:page wiki:Dark_Aura_\(ability\) .
+
+wiki:Dauntless%20Shield_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Dauntless Shield (ability)" ;
+    pokemon:describes resource:Dauntless_Shield ;
+    foaf:page wiki:Dauntless_Shield_\(ability\) .
+
+wiki:Dazzling_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Dazzling (ability)" ;
+    pokemon:describes resource:Dazzling ;
+    foaf:page wiki:Dazzling_\(ability\) .
+
+wiki:Defeatist_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Defeatist (ability)" ;
+    pokemon:describes resource:Defeatist ;
+    foaf:page wiki:Defeatist_\(ability\) .
+
+wiki:Defiant_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Defiant (ability)" ;
+    pokemon:describes resource:Defiant ;
+    foaf:page wiki:Defiant_\(ability\) .
+
+wiki:Delta%20Stream_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Delta Stream (ability)" ;
+    pokemon:describes resource:Delta_Stream ;
+    foaf:page wiki:Delta_Stream_\(ability\) .
+
+wiki:Desolate%20Land_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Desolate Land (ability)" ;
+    pokemon:describes resource:Desolate_Land ;
+    foaf:page wiki:Desolate_Land_\(ability\) .
+
+wiki:Disguise_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Disguise (ability)" ;
+    pokemon:describes resource:Disguise ;
+    foaf:page wiki:Disguise_\(ability\) .
+
+wiki:Download_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Download (ability)" ;
+    pokemon:describes resource:Download ;
+    foaf:page wiki:Download_\(ability\) .
+
+wiki:Dragons%20Maw_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Dragons Maw (ability)" ;
+    pokemon:describes resource:Dragons_Maw ;
+    foaf:page wiki:Dragons_Maw_\(ability\) .
+
+wiki:Drizzle_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Drizzle (ability)" ;
+    pokemon:describes resource:Drizzle ;
+    foaf:page wiki:Drizzle_\(ability\) .
+
+wiki:Drought_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Drought (ability)" ;
+    pokemon:describes resource:Drought ;
+    foaf:page wiki:Drought_\(ability\) .
+
+wiki:Dry%20Skin_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Dry Skin (ability)" ;
+    pokemon:describes resource:Dry_Skin ;
+    foaf:page wiki:Dry_Skin_\(ability\) .
+
+wiki:Early%20Bird_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Early Bird (ability)" ;
+    pokemon:describes resource:Early_Bird ;
+    foaf:page wiki:Early_Bird_\(ability\) .
+
+wiki:Earth%20Eater_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Earth Eater (ability)" ;
+    pokemon:describes resource:Earth_Eater ;
+    foaf:page wiki:Earth_Eater_\(ability\) .
+
+wiki:Effect%20Spore_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Effect Spore (ability)" ;
+    pokemon:describes resource:Effect_Spore ;
+    foaf:page wiki:Effect_Spore_\(ability\) .
+
+wiki:Electric%20Surge_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Electric Surge (ability)" ;
+    pokemon:describes resource:Electric_Surge ;
+    foaf:page wiki:Electric_Surge_\(ability\) .
+
+wiki:Electromorphosis_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Electromorphosis (ability)" ;
+    pokemon:describes resource:Electromorphosis ;
+    foaf:page wiki:Electromorphosis_\(ability\) .
+
+wiki:Embody%20Aspect_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Embody Aspect (ability)" ;
+    pokemon:describes resource:Embody_Aspect ;
+    foaf:page wiki:Embody_Aspect_\(ability\) .
+
+wiki:Emergency%20Exit_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Emergency Exit (ability)" ;
+    pokemon:describes resource:Emergency_Exit ;
+    foaf:page wiki:Emergency_Exit_\(ability\) .
+
+wiki:Fairy%20Aura_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Fairy Aura (ability)" ;
+    pokemon:describes resource:Fairy_Aura ;
+    foaf:page wiki:Fairy_Aura_\(ability\) .
+
+wiki:Filter_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Filter (ability)" ;
+    pokemon:describes resource:Filter ;
+    foaf:page wiki:Filter_\(ability\) .
+
+wiki:Flame%20Body_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Flame Body (ability)" ;
+    pokemon:describes resource:Flame_Body ;
+    foaf:page wiki:Flame_Body_\(ability\) .
+
+wiki:Flare%20Boost_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Flare Boost (ability)" ;
+    pokemon:describes resource:Flare_Boost ;
+    foaf:page wiki:Flare_Boost_\(ability\) .
+
+wiki:Flash%20Fire_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Flash Fire (ability)" ;
+    pokemon:describes resource:Flash_Fire ;
+    foaf:page wiki:Flash_Fire_\(ability\) .
+
+wiki:Flower%20Gift_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Flower Gift (ability)" ;
+    pokemon:describes resource:Flower_Gift ;
+    foaf:page wiki:Flower_Gift_\(ability\) .
+
+wiki:Flower%20Veil_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Flower Veil (ability)" ;
+    pokemon:describes resource:Flower_Veil ;
+    foaf:page wiki:Flower_Veil_\(ability\) .
+
+wiki:Fluffy_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Fluffy (ability)" ;
+    pokemon:describes resource:Fluffy ;
+    foaf:page wiki:Fluffy_\(ability\) .
+
+wiki:Forecast_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Forecast (ability)" ;
+    pokemon:describes resource:Forecast ;
+    foaf:page wiki:Forecast_\(ability\) .
+
+wiki:Forewarn_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Forewarn (ability)" ;
+    pokemon:describes resource:Forewarn ;
+    foaf:page wiki:Forewarn_\(ability\) .
+
+wiki:Friend%20Guard_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Friend Guard (ability)" ;
+    pokemon:describes resource:Friend_Guard ;
+    foaf:page wiki:Friend_Guard_\(ability\) .
+
+wiki:Frisk_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Frisk (ability)" ;
+    pokemon:describes resource:Frisk ;
+    foaf:page wiki:Frisk_\(ability\) .
+
+wiki:Full%20Metal%20Body_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Full Metal Body (ability)" ;
+    pokemon:describes resource:Full_Metal_Body ;
+    foaf:page wiki:Full_Metal_Body_\(ability\) .
+
+wiki:Fur%20Coat_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Fur Coat (ability)" ;
+    pokemon:describes resource:Fur_Coat ;
+    foaf:page wiki:Fur_Coat_\(ability\) .
+
+wiki:Gale%20Wings_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Gale Wings (ability)" ;
+    pokemon:describes resource:Gale_Wings ;
+    foaf:page wiki:Gale_Wings_\(ability\) .
+
+wiki:Galvanize_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Galvanize (ability)" ;
+    pokemon:describes resource:Galvanize ;
+    foaf:page wiki:Galvanize_\(ability\) .
+
+wiki:Gluttony_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Gluttony (ability)" ;
+    pokemon:describes resource:Gluttony ;
+    foaf:page wiki:Gluttony_\(ability\) .
+
+wiki:Good%20as%20Gold_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Good as Gold (ability)" ;
+    pokemon:describes resource:Good_as_Gold ;
+    foaf:page wiki:Good_as_Gold_\(ability\) .
+
+wiki:Gooey_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Gooey (ability)" ;
+    pokemon:describes resource:Gooey ;
+    foaf:page wiki:Gooey_\(ability\) .
+
+wiki:Gorilla%20Tactics_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Gorilla Tactics (ability)" ;
+    pokemon:describes resource:Gorilla_Tactics ;
+    foaf:page wiki:Gorilla_Tactics_\(ability\) .
+
+wiki:Grass%20Pelt_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Grass Pelt (ability)" ;
+    pokemon:describes resource:Grass_Pelt ;
+    foaf:page wiki:Grass_Pelt_\(ability\) .
+
+wiki:Grassy%20Surge_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Grassy Surge (ability)" ;
+    pokemon:describes resource:Grassy_Surge ;
+    foaf:page wiki:Grassy_Surge_\(ability\) .
+
+wiki:Grim%20Neigh_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Grim Neigh (ability)" ;
+    pokemon:describes resource:Grim_Neigh ;
+    foaf:page wiki:Grim_Neigh_\(ability\) .
+
+wiki:Guard%20Dog_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Guard Dog (ability)" ;
+    pokemon:describes resource:Guard_Dog ;
+    foaf:page wiki:Guard_Dog_\(ability\) .
+
+wiki:Gulp%20Missile_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Gulp Missile (ability)" ;
+    pokemon:describes resource:Gulp_Missile ;
+    foaf:page wiki:Gulp_Missile_\(ability\) .
+
+wiki:Guts_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Guts (ability)" ;
+    pokemon:describes resource:Guts ;
+    foaf:page wiki:Guts_\(ability\) .
+
+wiki:Hadron%20Engine_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Hadron Engine (ability)" ;
+    pokemon:describes resource:Hadron_Engine ;
+    foaf:page wiki:Hadron_Engine_\(ability\) .
+
+wiki:Harvest_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Harvest (ability)" ;
+    pokemon:describes resource:Harvest ;
+    foaf:page wiki:Harvest_\(ability\) .
+
+wiki:Healer_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Healer (ability)" ;
+    pokemon:describes resource:Healer ;
+    foaf:page wiki:Healer_\(ability\) .
+
+wiki:Heatproof_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Heatproof (ability)" ;
+    pokemon:describes resource:Heatproof ;
+    foaf:page wiki:Heatproof_\(ability\) .
+
+wiki:Heavy%20Metal_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Heavy Metal (ability)" ;
+    pokemon:describes resource:Heavy_Metal ;
+    foaf:page wiki:Heavy_Metal_\(ability\) .
+
+wiki:Honey%20Gather_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Honey Gather (ability)" ;
+    pokemon:describes resource:Honey_Gather ;
+    foaf:page wiki:Honey_Gather_\(ability\) .
+
+wiki:Hospitality_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Hospitality (ability)" ;
+    pokemon:describes resource:Hospitality ;
+    foaf:page wiki:Hospitality_\(ability\) .
+
+wiki:Huge%20Power_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Huge Power (ability)" ;
+    pokemon:describes resource:Huge_Power ;
+    foaf:page wiki:Huge_Power_\(ability\) .
+
+wiki:Hunger%20Switch_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Hunger Switch (ability)" ;
+    pokemon:describes resource:Hunger_Switch ;
+    foaf:page wiki:Hunger_Switch_\(ability\) .
+
+wiki:Hustle_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Hustle (ability)" ;
+    pokemon:describes resource:Hustle ;
+    foaf:page wiki:Hustle_\(ability\) .
+
+wiki:Hydration_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Hydration (ability)" ;
+    pokemon:describes resource:Hydration ;
+    foaf:page wiki:Hydration_\(ability\) .
+
+wiki:Hyper%20Cutter_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Hyper Cutter (ability)" ;
+    pokemon:describes resource:Hyper_Cutter ;
+    foaf:page wiki:Hyper_Cutter_\(ability\) .
+
+wiki:Ice%20Body_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Ice Body (ability)" ;
+    pokemon:describes resource:Ice_Body ;
+    foaf:page wiki:Ice_Body_\(ability\) .
+
+wiki:Ice%20Face_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Ice Face (ability)" ;
+    pokemon:describes resource:Ice_Face ;
+    foaf:page wiki:Ice_Face_\(ability\) .
+
+wiki:Ice%20Scales_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Ice Scales (ability)" ;
+    pokemon:describes resource:Ice_Scales ;
+    foaf:page wiki:Ice_Scales_\(ability\) .
+
+wiki:Illuminate_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Illuminate (ability)" ;
+    pokemon:describes resource:Illuminate ;
+    foaf:page wiki:Illuminate_\(ability\) .
+
+wiki:Illusion_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Illusion (ability)" ;
+    pokemon:describes resource:Illusion ;
+    foaf:page wiki:Illusion_\(ability\) .
+
+wiki:Immunity_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Immunity (ability)" ;
+    pokemon:describes resource:Immunity ;
+    foaf:page wiki:Immunity_\(ability\) .
+
+wiki:Imposter_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Imposter (ability)" ;
+    pokemon:describes resource:Imposter ;
+    foaf:page wiki:Imposter_\(ability\) .
+
+wiki:Infiltrator_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Infiltrator (ability)" ;
+    pokemon:describes resource:Infiltrator ;
+    foaf:page wiki:Infiltrator_\(ability\) .
+
+wiki:Innards%20Out_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Innards Out (ability)" ;
+    pokemon:describes resource:Innards_Out ;
+    foaf:page wiki:Innards_Out_\(ability\) .
+
+wiki:Inner%20Focus_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Inner Focus (ability)" ;
+    pokemon:describes resource:Inner_Focus ;
+    foaf:page wiki:Inner_Focus_\(ability\) .
+
+wiki:Insomnia_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Insomnia (ability)" ;
+    pokemon:describes resource:Insomnia ;
+    foaf:page wiki:Insomnia_\(ability\) .
+
+wiki:Intimidate_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Intimidate (ability)" ;
+    pokemon:describes resource:Intimidate ;
+    foaf:page wiki:Intimidate_\(ability\) .
+
+wiki:Intrepid%20Sword_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Intrepid Sword (ability)" ;
+    pokemon:describes resource:Intrepid_Sword ;
+    foaf:page wiki:Intrepid_Sword_\(ability\) .
+
+wiki:Iron%20Barbs_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Iron Barbs (ability)" ;
+    pokemon:describes resource:Iron_Barbs ;
+    foaf:page wiki:Iron_Barbs_\(ability\) .
+
+wiki:Iron%20Fist_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Iron Fist (ability)" ;
+    pokemon:describes resource:Iron_Fist ;
+    foaf:page wiki:Iron_Fist_\(ability\) .
+
+wiki:Justified_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Justified (ability)" ;
+    pokemon:describes resource:Justified ;
+    foaf:page wiki:Justified_\(ability\) .
+
+wiki:Keen%20Eye_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Keen Eye (ability)" ;
+    pokemon:describes resource:Keen_Eye ;
+    foaf:page wiki:Keen_Eye_\(ability\) .
+
+wiki:Klutz_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Klutz (ability)" ;
+    pokemon:describes resource:Klutz ;
+    foaf:page wiki:Klutz_\(ability\) .
+
+wiki:Leaf%20Guard_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Leaf Guard (ability)" ;
+    pokemon:describes resource:Leaf_Guard ;
+    foaf:page wiki:Leaf_Guard_\(ability\) .
+
+wiki:Levitate_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Levitate (ability)" ;
+    pokemon:describes resource:Levitate ;
+    foaf:page wiki:Levitate_\(ability\) .
+
+wiki:Libero_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Libero (ability)" ;
+    pokemon:describes resource:Libero ;
+    foaf:page wiki:Libero_\(ability\) .
+
+wiki:Light%20Metal_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Light Metal (ability)" ;
+    pokemon:describes resource:Light_Metal ;
+    foaf:page wiki:Light_Metal_\(ability\) .
+
+wiki:Lightning%20Rod_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Lightning Rod (ability)" ;
+    pokemon:describes resource:Lightning_Rod ;
+    foaf:page wiki:Lightning_Rod_\(ability\) .
+
+wiki:Limber_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Limber (ability)" ;
+    pokemon:describes resource:Limber ;
+    foaf:page wiki:Limber_\(ability\) .
+
+wiki:Lingering%20Aroma_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Lingering Aroma (ability)" ;
+    pokemon:describes resource:Lingering_Aroma ;
+    foaf:page wiki:Lingering_Aroma_\(ability\) .
+
+wiki:Liquid%20Ooze_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Liquid Ooze (ability)" ;
+    pokemon:describes resource:Liquid_Ooze ;
+    foaf:page wiki:Liquid_Ooze_\(ability\) .
+
+wiki:Liquid%20Voice_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Liquid Voice (ability)" ;
+    pokemon:describes resource:Liquid_Voice ;
+    foaf:page wiki:Liquid_Voice_\(ability\) .
+
+wiki:Long%20Reach_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Long Reach (ability)" ;
+    pokemon:describes resource:Long_Reach ;
+    foaf:page wiki:Long_Reach_\(ability\) .
+
+wiki:Magic%20Bounce_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Magic Bounce (ability)" ;
+    pokemon:describes resource:Magic_Bounce ;
+    foaf:page wiki:Magic_Bounce_\(ability\) .
+
+wiki:Magic%20Guard_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Magic Guard (ability)" ;
+    pokemon:describes resource:Magic_Guard ;
+    foaf:page wiki:Magic_Guard_\(ability\) .
+
+wiki:Magician_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Magician (ability)" ;
+    pokemon:describes resource:Magician ;
+    foaf:page wiki:Magician_\(ability\) .
+
+wiki:Magma%20Armor_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Magma Armor (ability)" ;
+    pokemon:describes resource:Magma_Armor ;
+    foaf:page wiki:Magma_Armor_\(ability\) .
+
+wiki:Magnet%20Pull_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Magnet Pull (ability)" ;
+    pokemon:describes resource:Magnet_Pull ;
+    foaf:page wiki:Magnet_Pull_\(ability\) .
+
+wiki:Marvel%20Scale_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Marvel Scale (ability)" ;
+    pokemon:describes resource:Marvel_Scale ;
+    foaf:page wiki:Marvel_Scale_\(ability\) .
+
+wiki:Mega%20Launcher_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Mega Launcher (ability)" ;
+    pokemon:describes resource:Mega_Launcher ;
+    foaf:page wiki:Mega_Launcher_\(ability\) .
+
+wiki:Merciless_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Merciless (ability)" ;
+    pokemon:describes resource:Merciless ;
+    foaf:page wiki:Merciless_\(ability\) .
+
+wiki:Mimicry_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Mimicry (ability)" ;
+    pokemon:describes resource:Mimicry ;
+    foaf:page wiki:Mimicry_\(ability\) .
+
+wiki:Minds%20Eye_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Minds Eye (ability)" ;
+    pokemon:describes resource:Minds_Eye ;
+    foaf:page wiki:Minds_Eye_\(ability\) .
+
+wiki:Minus_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Minus (ability)" ;
+    pokemon:describes resource:Minus ;
+    foaf:page wiki:Minus_\(ability\) .
+
+wiki:Mirror%20Armor_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Mirror Armor (ability)" ;
+    pokemon:describes resource:Mirror_Armor ;
+    foaf:page wiki:Mirror_Armor_\(ability\) .
+
+wiki:Misty%20Surge_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Misty Surge (ability)" ;
+    pokemon:describes resource:Misty_Surge ;
+    foaf:page wiki:Misty_Surge_\(ability\) .
+
+wiki:Mold%20Breaker_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Mold Breaker (ability)" ;
+    pokemon:describes resource:Mold_Breaker ;
+    foaf:page wiki:Mold_Breaker_\(ability\) .
+
+wiki:Moody_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Moody (ability)" ;
+    pokemon:describes resource:Moody ;
+    foaf:page wiki:Moody_\(ability\) .
+
+wiki:Motor%20Drive_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Motor Drive (ability)" ;
+    pokemon:describes resource:Motor_Drive ;
+    foaf:page wiki:Motor_Drive_\(ability\) .
+
+wiki:Moxie_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Moxie (ability)" ;
+    pokemon:describes resource:Moxie ;
+    foaf:page wiki:Moxie_\(ability\) .
+
+wiki:Multiscale_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Multiscale (ability)" ;
+    pokemon:describes resource:Multiscale ;
+    foaf:page wiki:Multiscale_\(ability\) .
+
+wiki:Multitype_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Multitype (ability)" ;
+    pokemon:describes resource:Multitype ;
+    foaf:page wiki:Multitype_\(ability\) .
+
+wiki:Mummy_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Mummy (ability)" ;
+    pokemon:describes resource:Mummy ;
+    foaf:page wiki:Mummy_\(ability\) .
+
+wiki:Mycelium%20Might_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Mycelium Might (ability)" ;
+    pokemon:describes resource:Mycelium_Might ;
+    foaf:page wiki:Mycelium_Might_\(ability\) .
+
+wiki:Natural%20Cure_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Natural Cure (ability)" ;
+    pokemon:describes resource:Natural_Cure ;
+    foaf:page wiki:Natural_Cure_\(ability\) .
+
+wiki:Neuroforce_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Neuroforce (ability)" ;
+    pokemon:describes resource:Neuroforce ;
+    foaf:page wiki:Neuroforce_\(ability\) .
+
+wiki:Neutralizing%20Gas_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Neutralizing Gas (ability)" ;
+    pokemon:describes resource:Neutralizing_Gas ;
+    foaf:page wiki:Neutralizing_Gas_\(ability\) .
+
+wiki:No%20Guard_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "No Guard (ability)" ;
+    pokemon:describes resource:No_Guard ;
+    foaf:page wiki:No_Guard_\(ability\) .
+
+wiki:Normalize_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Normalize (ability)" ;
+    pokemon:describes resource:Normalize ;
+    foaf:page wiki:Normalize_\(ability\) .
+
+wiki:Oblivious_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Oblivious (ability)" ;
+    pokemon:describes resource:Oblivious ;
+    foaf:page wiki:Oblivious_\(ability\) .
+
+wiki:Opportunist_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Opportunist (ability)" ;
+    pokemon:describes resource:Opportunist ;
+    foaf:page wiki:Opportunist_\(ability\) .
+
+wiki:Orichalcum%20Pulse_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Orichalcum Pulse (ability)" ;
+    pokemon:describes resource:Orichalcum_Pulse ;
+    foaf:page wiki:Orichalcum_Pulse_\(ability\) .
+
+wiki:Overcoat_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Overcoat (ability)" ;
+    pokemon:describes resource:Overcoat ;
+    foaf:page wiki:Overcoat_\(ability\) .
+
+wiki:Overgrow_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Overgrow (ability)" ;
+    pokemon:describes resource:Overgrow ;
+    foaf:page wiki:Overgrow_\(ability\) .
+
+wiki:Own%20Tempo_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Own Tempo (ability)" ;
+    pokemon:describes resource:Own_Tempo ;
+    foaf:page wiki:Own_Tempo_\(ability\) .
+
+wiki:Parental%20Bond_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Parental Bond (ability)" ;
+    pokemon:describes resource:Parental_Bond ;
+    foaf:page wiki:Parental_Bond_\(ability\) .
+
+wiki:Pastel%20Veil_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Pastel Veil (ability)" ;
+    pokemon:describes resource:Pastel_Veil ;
+    foaf:page wiki:Pastel_Veil_\(ability\) .
+
+wiki:Perish%20Body_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Perish Body (ability)" ;
+    pokemon:describes resource:Perish_Body ;
+    foaf:page wiki:Perish_Body_\(ability\) .
+
+wiki:Pickpocket_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Pickpocket (ability)" ;
+    pokemon:describes resource:Pickpocket ;
+    foaf:page wiki:Pickpocket_\(ability\) .
+
+wiki:Pickup_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Pickup (ability)" ;
+    pokemon:describes resource:Pickup ;
+    foaf:page wiki:Pickup_\(ability\) .
+
+wiki:Pixilate_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Pixilate (ability)" ;
+    pokemon:describes resource:Pixilate ;
+    foaf:page wiki:Pixilate_\(ability\) .
+
+wiki:Plus_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Plus (ability)" ;
+    pokemon:describes resource:Plus ;
+    foaf:page wiki:Plus_\(ability\) .
+
+wiki:Poison%20Heal_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Poison Heal (ability)" ;
+    pokemon:describes resource:Poison_Heal ;
+    foaf:page wiki:Poison_Heal_\(ability\) .
+
+wiki:Poison%20Point_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Poison Point (ability)" ;
+    pokemon:describes resource:Poison_Point ;
+    foaf:page wiki:Poison_Point_\(ability\) .
+
+wiki:Poison%20Puppeteer_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Poison Puppeteer (ability)" ;
+    pokemon:describes resource:Poison_Puppeteer ;
+    foaf:page wiki:Poison_Puppeteer_\(ability\) .
+
+wiki:Poison%20Touch_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Poison Touch (ability)" ;
+    pokemon:describes resource:Poison_Touch ;
+    foaf:page wiki:Poison_Touch_\(ability\) .
+
+wiki:Power%20Construct_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Power Construct (ability)" ;
+    pokemon:describes resource:Power_Construct ;
+    foaf:page wiki:Power_Construct_\(ability\) .
+
+wiki:Power%20Spot_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Power Spot (ability)" ;
+    pokemon:describes resource:Power_Spot ;
+    foaf:page wiki:Power_Spot_\(ability\) .
+
+wiki:Power%20of%20Alchemy_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Power of Alchemy (ability)" ;
+    pokemon:describes resource:Power_of_Alchemy ;
+    foaf:page wiki:Power_of_Alchemy_\(ability\) .
+
+wiki:Prankster_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Prankster (ability)" ;
+    pokemon:describes resource:Prankster ;
+    foaf:page wiki:Prankster_\(ability\) .
+
+wiki:Pressure_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Pressure (ability)" ;
+    pokemon:describes resource:Pressure ;
+    foaf:page wiki:Pressure_\(ability\) .
+
+wiki:Primordial%20Sea_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Primordial Sea (ability)" ;
+    pokemon:describes resource:Primordial_Sea ;
+    foaf:page wiki:Primordial_Sea_\(ability\) .
+
+wiki:Prism%20Armor_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Prism Armor (ability)" ;
+    pokemon:describes resource:Prism_Armor ;
+    foaf:page wiki:Prism_Armor_\(ability\) .
+
+wiki:Propeller%20Tail_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Propeller Tail (ability)" ;
+    pokemon:describes resource:Propeller_Tail ;
+    foaf:page wiki:Propeller_Tail_\(ability\) .
+
+wiki:Protean_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Protean (ability)" ;
+    pokemon:describes resource:Protean ;
+    foaf:page wiki:Protean_\(ability\) .
+
+wiki:Protosynthesis_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Protosynthesis (ability)" ;
+    pokemon:describes resource:Protosynthesis ;
+    foaf:page wiki:Protosynthesis_\(ability\) .
+
+wiki:Psychic%20Surge_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Psychic Surge (ability)" ;
+    pokemon:describes resource:Psychic_Surge ;
+    foaf:page wiki:Psychic_Surge_\(ability\) .
+
+wiki:Punk%20Rock_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Punk Rock (ability)" ;
+    pokemon:describes resource:Punk_Rock ;
+    foaf:page wiki:Punk_Rock_\(ability\) .
+
+wiki:Pure%20Power_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Pure Power (ability)" ;
+    pokemon:describes resource:Pure_Power ;
+    foaf:page wiki:Pure_Power_\(ability\) .
+
+wiki:Purifying%20Salt_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Purifying Salt (ability)" ;
+    pokemon:describes resource:Purifying_Salt ;
+    foaf:page wiki:Purifying_Salt_\(ability\) .
+
+wiki:Quark%20Drive_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Quark Drive (ability)" ;
+    pokemon:describes resource:Quark_Drive ;
+    foaf:page wiki:Quark_Drive_\(ability\) .
+
+wiki:Queenly%20Majesty_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Queenly Majesty (ability)" ;
+    pokemon:describes resource:Queenly_Majesty ;
+    foaf:page wiki:Queenly_Majesty_\(ability\) .
+
+wiki:Quick%20Draw_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Quick Draw (ability)" ;
+    pokemon:describes resource:Quick_Draw ;
+    foaf:page wiki:Quick_Draw_\(ability\) .
+
+wiki:Quick%20Feet_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Quick Feet (ability)" ;
+    pokemon:describes resource:Quick_Feet ;
+    foaf:page wiki:Quick_Feet_\(ability\) .
+
+wiki:RKS%20System_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "RKS System (ability)" ;
+    pokemon:describes resource:RKS_System ;
+    foaf:page wiki:RKS_System_\(ability\) .
+
+wiki:Rain%20Dish_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Rain Dish (ability)" ;
+    pokemon:describes resource:Rain_Dish ;
+    foaf:page wiki:Rain_Dish_\(ability\) .
+
+wiki:Rattled_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Rattled (ability)" ;
+    pokemon:describes resource:Rattled ;
+    foaf:page wiki:Rattled_\(ability\) .
+
+wiki:Receiver_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Receiver (ability)" ;
+    pokemon:describes resource:Receiver ;
+    foaf:page wiki:Receiver_\(ability\) .
+
+wiki:Reckless_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Reckless (ability)" ;
+    pokemon:describes resource:Reckless ;
+    foaf:page wiki:Reckless_\(ability\) .
+
+wiki:Refrigerate_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Refrigerate (ability)" ;
+    pokemon:describes resource:Refrigerate ;
+    foaf:page wiki:Refrigerate_\(ability\) .
+
+wiki:Regenerator_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Regenerator (ability)" ;
+    pokemon:describes resource:Regenerator ;
+    foaf:page wiki:Regenerator_\(ability\) .
+
+wiki:Ripen_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Ripen (ability)" ;
+    pokemon:describes resource:Ripen ;
+    foaf:page wiki:Ripen_\(ability\) .
+
+wiki:Rivalry_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Rivalry (ability)" ;
+    pokemon:describes resource:Rivalry ;
+    foaf:page wiki:Rivalry_\(ability\) .
+
+wiki:Rock%20Head_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Rock Head (ability)" ;
+    pokemon:describes resource:Rock_Head ;
+    foaf:page wiki:Rock_Head_\(ability\) .
+
+wiki:Rocky%20Payload_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Rocky Payload (ability)" ;
+    pokemon:describes resource:Rocky_Payload ;
+    foaf:page wiki:Rocky_Payload_\(ability\) .
+
+wiki:Rough%20Skin_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Rough Skin (ability)" ;
+    pokemon:describes resource:Rough_Skin ;
+    foaf:page wiki:Rough_Skin_\(ability\) .
+
+wiki:Run%20Away_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Run Away (ability)" ;
+    pokemon:describes resource:Run_Away ;
+    foaf:page wiki:Run_Away_\(ability\) .
+
+wiki:Sand%20Force_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sand Force (ability)" ;
+    pokemon:describes resource:Sand_Force ;
+    foaf:page wiki:Sand_Force_\(ability\) .
+
+wiki:Sand%20Rush_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sand Rush (ability)" ;
+    pokemon:describes resource:Sand_Rush ;
+    foaf:page wiki:Sand_Rush_\(ability\) .
+
+wiki:Sand%20Spit_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sand Spit (ability)" ;
+    pokemon:describes resource:Sand_Spit ;
+    foaf:page wiki:Sand_Spit_\(ability\) .
+
+wiki:Sand%20Stream_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sand Stream (ability)" ;
+    pokemon:describes resource:Sand_Stream ;
+    foaf:page wiki:Sand_Stream_\(ability\) .
+
+wiki:Sand%20Veil_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sand Veil (ability)" ;
+    pokemon:describes resource:Sand_Veil ;
+    foaf:page wiki:Sand_Veil_\(ability\) .
+
+wiki:Sap%20Sipper_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sap Sipper (ability)" ;
+    pokemon:describes resource:Sap_Sipper ;
+    foaf:page wiki:Sap_Sipper_\(ability\) .
+
+wiki:Schooling_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Schooling (ability)" ;
+    pokemon:describes resource:Schooling ;
+    foaf:page wiki:Schooling_\(ability\) .
+
+wiki:Scrappy_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Scrappy (ability)" ;
+    pokemon:describes resource:Scrappy ;
+    foaf:page wiki:Scrappy_\(ability\) .
+
+wiki:Screen%20Cleaner_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Screen Cleaner (ability)" ;
+    pokemon:describes resource:Screen_Cleaner ;
+    foaf:page wiki:Screen_Cleaner_\(ability\) .
+
+wiki:Seed%20Sower_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Seed Sower (ability)" ;
+    pokemon:describes resource:Seed_Sower ;
+    foaf:page wiki:Seed_Sower_\(ability\) .
+
+wiki:Serene%20Grace_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Serene Grace (ability)" ;
+    pokemon:describes resource:Serene_Grace ;
+    foaf:page wiki:Serene_Grace_\(ability\) .
+
+wiki:Shadow%20Shield_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Shadow Shield (ability)" ;
+    pokemon:describes resource:Shadow_Shield ;
+    foaf:page wiki:Shadow_Shield_\(ability\) .
+
+wiki:Shadow%20Tag_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Shadow Tag (ability)" ;
+    pokemon:describes resource:Shadow_Tag ;
+    foaf:page wiki:Shadow_Tag_\(ability\) .
+
+wiki:Sharpness_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sharpness (ability)" ;
+    pokemon:describes resource:Sharpness ;
+    foaf:page wiki:Sharpness_\(ability\) .
+
+wiki:Shed%20Skin_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Shed Skin (ability)" ;
+    pokemon:describes resource:Shed_Skin ;
+    foaf:page wiki:Shed_Skin_\(ability\) .
+
+wiki:Sheer%20Force_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sheer Force (ability)" ;
+    pokemon:describes resource:Sheer_Force ;
+    foaf:page wiki:Sheer_Force_\(ability\) .
+
+wiki:Shell%20Armor_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Shell Armor (ability)" ;
+    pokemon:describes resource:Shell_Armor ;
+    foaf:page wiki:Shell_Armor_\(ability\) .
+
+wiki:Shield%20Dust_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Shield Dust (ability)" ;
+    pokemon:describes resource:Shield_Dust ;
+    foaf:page wiki:Shield_Dust_\(ability\) .
+
+wiki:Shields%20Down_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Shields Down (ability)" ;
+    pokemon:describes resource:Shields_Down ;
+    foaf:page wiki:Shields_Down_\(ability\) .
+
+wiki:Simple_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Simple (ability)" ;
+    pokemon:describes resource:Simple ;
+    foaf:page wiki:Simple_\(ability\) .
+
+wiki:Skill%20Link_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Skill Link (ability)" ;
+    pokemon:describes resource:Skill_Link ;
+    foaf:page wiki:Skill_Link_\(ability\) .
+
+wiki:Slow%20Start_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Slow Start (ability)" ;
+    pokemon:describes resource:Slow_Start ;
+    foaf:page wiki:Slow_Start_\(ability\) .
+
+wiki:Slush%20Rush_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Slush Rush (ability)" ;
+    pokemon:describes resource:Slush_Rush ;
+    foaf:page wiki:Slush_Rush_\(ability\) .
+
+wiki:Sniper_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sniper (ability)" ;
+    pokemon:describes resource:Sniper ;
+    foaf:page wiki:Sniper_\(ability\) .
+
+wiki:Snow%20Cloak_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Snow Cloak (ability)" ;
+    pokemon:describes resource:Snow_Cloak ;
+    foaf:page wiki:Snow_Cloak_\(ability\) .
+
+wiki:Snow%20Warning_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Snow Warning (ability)" ;
+    pokemon:describes resource:Snow_Warning ;
+    foaf:page wiki:Snow_Warning_\(ability\) .
+
+wiki:Solar%20Power_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Solar Power (ability)" ;
+    pokemon:describes resource:Solar_Power ;
+    foaf:page wiki:Solar_Power_\(ability\) .
+
+wiki:Solid%20Rock_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Solid Rock (ability)" ;
+    pokemon:describes resource:Solid_Rock ;
+    foaf:page wiki:Solid_Rock_\(ability\) .
+
+wiki:Soul%20Heart_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Soul Heart (ability)" ;
+    pokemon:describes resource:Soul_Heart ;
+    foaf:page wiki:Soul_Heart_\(ability\) .
+
+wiki:Soundproof_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Soundproof (ability)" ;
+    pokemon:describes resource:Soundproof ;
+    foaf:page wiki:Soundproof_\(ability\) .
+
+wiki:Speed%20Boost_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Speed Boost (ability)" ;
+    pokemon:describes resource:Speed_Boost ;
+    foaf:page wiki:Speed_Boost_\(ability\) .
+
+wiki:Stakeout_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Stakeout (ability)" ;
+    pokemon:describes resource:Stakeout ;
+    foaf:page wiki:Stakeout_\(ability\) .
+
+wiki:Stall_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Stall (ability)" ;
+    pokemon:describes resource:Stall ;
+    foaf:page wiki:Stall_\(ability\) .
+
+wiki:Stalwart_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Stalwart (ability)" ;
+    pokemon:describes resource:Stalwart ;
+    foaf:page wiki:Stalwart_\(ability\) .
+
+wiki:Stamina_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Stamina (ability)" ;
+    pokemon:describes resource:Stamina ;
+    foaf:page wiki:Stamina_\(ability\) .
+
+wiki:Stance%20Change_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Stance Change (ability)" ;
+    pokemon:describes resource:Stance_Change ;
+    foaf:page wiki:Stance_Change_\(ability\) .
+
+wiki:Static_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Static (ability)" ;
+    pokemon:describes resource:Static ;
+    foaf:page wiki:Static_\(ability\) .
+
+wiki:Steadfast_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Steadfast (ability)" ;
+    pokemon:describes resource:Steadfast ;
+    foaf:page wiki:Steadfast_\(ability\) .
+
+wiki:Steam%20Engine_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Steam Engine (ability)" ;
+    pokemon:describes resource:Steam_Engine ;
+    foaf:page wiki:Steam_Engine_\(ability\) .
+
+wiki:Steelworker_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Steelworker (ability)" ;
+    pokemon:describes resource:Steelworker ;
+    foaf:page wiki:Steelworker_\(ability\) .
+
+wiki:Steely%20Spirit_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Steely Spirit (ability)" ;
+    pokemon:describes resource:Steely_Spirit ;
+    foaf:page wiki:Steely_Spirit_\(ability\) .
+
+wiki:Stench_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Stench (ability)" ;
+    pokemon:describes resource:Stench ;
+    foaf:page wiki:Stench_\(ability\) .
+
+wiki:Sticky%20Hold_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sticky Hold (ability)" ;
+    pokemon:describes resource:Sticky_Hold ;
+    foaf:page wiki:Sticky_Hold_\(ability\) .
+
+wiki:Storm%20Drain_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Storm Drain (ability)" ;
+    pokemon:describes resource:Storm_Drain ;
+    foaf:page wiki:Storm_Drain_\(ability\) .
+
+wiki:Strong%20Jaw_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Strong Jaw (ability)" ;
+    pokemon:describes resource:Strong_Jaw ;
+    foaf:page wiki:Strong_Jaw_\(ability\) .
+
+wiki:Sturdy_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sturdy (ability)" ;
+    pokemon:describes resource:Sturdy ;
+    foaf:page wiki:Sturdy_\(ability\) .
+
+wiki:Suction%20Cups_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Suction Cups (ability)" ;
+    pokemon:describes resource:Suction_Cups ;
+    foaf:page wiki:Suction_Cups_\(ability\) .
+
+wiki:Super%20Luck_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Super Luck (ability)" ;
+    pokemon:describes resource:Super_Luck ;
+    foaf:page wiki:Super_Luck_\(ability\) .
+
+wiki:Supersweet%20Syrup_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Supersweet Syrup (ability)" ;
+    pokemon:describes resource:Supersweet_Syrup ;
+    foaf:page wiki:Supersweet_Syrup_\(ability\) .
+
+wiki:Supreme%20Overlord_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Supreme Overlord (ability)" ;
+    pokemon:describes resource:Supreme_Overlord ;
+    foaf:page wiki:Supreme_Overlord_\(ability\) .
+
+wiki:Surge%20Surfer_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Surge Surfer (ability)" ;
+    pokemon:describes resource:Surge_Surfer ;
+    foaf:page wiki:Surge_Surfer_\(ability\) .
+
+wiki:Swarm_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Swarm (ability)" ;
+    pokemon:describes resource:Swarm ;
+    foaf:page wiki:Swarm_\(ability\) .
+
+wiki:Sweet%20Veil_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sweet Veil (ability)" ;
+    pokemon:describes resource:Sweet_Veil ;
+    foaf:page wiki:Sweet_Veil_\(ability\) .
+
+wiki:Swift%20Swim_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Swift Swim (ability)" ;
+    pokemon:describes resource:Swift_Swim ;
+    foaf:page wiki:Swift_Swim_\(ability\) .
+
+wiki:Sword%20of%20Ruin_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Sword of Ruin (ability)" ;
+    pokemon:describes resource:Sword_of_Ruin ;
+    foaf:page wiki:Sword_of_Ruin_\(ability\) .
+
+wiki:Symbiosis_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Symbiosis (ability)" ;
+    pokemon:describes resource:Symbiosis ;
+    foaf:page wiki:Symbiosis_\(ability\) .
+
+wiki:Synchronize_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Synchronize (ability)" ;
+    pokemon:describes resource:Synchronize ;
+    foaf:page wiki:Synchronize_\(ability\) .
+
+wiki:Tablets%20of%20Ruin_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Tablets of Ruin (ability)" ;
+    pokemon:describes resource:Tablets_of_Ruin ;
+    foaf:page wiki:Tablets_of_Ruin_\(ability\) .
+
+wiki:Tangled%20Feet_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Tangled Feet (ability)" ;
+    pokemon:describes resource:Tangled_Feet ;
+    foaf:page wiki:Tangled_Feet_\(ability\) .
+
+wiki:Tangling%20Hair_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Tangling Hair (ability)" ;
+    pokemon:describes resource:Tangling_Hair ;
+    foaf:page wiki:Tangling_Hair_\(ability\) .
+
+wiki:Technician_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Technician (ability)" ;
+    pokemon:describes resource:Technician ;
+    foaf:page wiki:Technician_\(ability\) .
+
+wiki:Telepathy_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Telepathy (ability)" ;
+    pokemon:describes resource:Telepathy ;
+    foaf:page wiki:Telepathy_\(ability\) .
+
+wiki:Tera%20Shell_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Tera Shell (ability)" ;
+    pokemon:describes resource:Tera_Shell ;
+    foaf:page wiki:Tera_Shell_\(ability\) .
+
+wiki:Tera%20Shift_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Tera Shift (ability)" ;
+    pokemon:describes resource:Tera_Shift ;
+    foaf:page wiki:Tera_Shift_\(ability\) .
+
+wiki:Teraform%20Zero_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Teraform Zero (ability)" ;
+    pokemon:describes resource:Teraform_Zero ;
+    foaf:page wiki:Teraform_Zero_\(ability\) .
+
+wiki:Teravolt_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Teravolt (ability)" ;
+    pokemon:describes resource:Teravolt ;
+    foaf:page wiki:Teravolt_\(ability\) .
+
+wiki:Thermal%20Exchange_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Thermal Exchange (ability)" ;
+    pokemon:describes resource:Thermal_Exchange ;
+    foaf:page wiki:Thermal_Exchange_\(ability\) .
+
+wiki:Thick%20Fat_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Thick Fat (ability)" ;
+    pokemon:describes resource:Thick_Fat ;
+    foaf:page wiki:Thick_Fat_\(ability\) .
+
+wiki:Tinted%20Lens_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Tinted Lens (ability)" ;
+    pokemon:describes resource:Tinted_Lens ;
+    foaf:page wiki:Tinted_Lens_\(ability\) .
+
+wiki:Torrent_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Torrent (ability)" ;
+    pokemon:describes resource:Torrent ;
+    foaf:page wiki:Torrent_\(ability\) .
+
+wiki:Tough%20Claws_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Tough Claws (ability)" ;
+    pokemon:describes resource:Tough_Claws ;
+    foaf:page wiki:Tough_Claws_\(ability\) .
+
+wiki:Toxic%20Boost_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Toxic Boost (ability)" ;
+    pokemon:describes resource:Toxic_Boost ;
+    foaf:page wiki:Toxic_Boost_\(ability\) .
+
+wiki:Toxic%20Chain_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Toxic Chain (ability)" ;
+    pokemon:describes resource:Toxic_Chain ;
+    foaf:page wiki:Toxic_Chain_\(ability\) .
+
+wiki:Toxic%20Debris_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Toxic Debris (ability)" ;
+    pokemon:describes resource:Toxic_Debris .
+
+wiki:Trace_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Trace (ability)" ;
+    pokemon:describes resource:Trace ;
+    foaf:page wiki:Trace_\(ability\) .
+
+wiki:Transistor_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Transistor (ability)" ;
+    pokemon:describes resource:Transistor ;
+    foaf:page wiki:Transistor_\(ability\) .
+
+wiki:Triage_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Triage (ability)" ;
+    pokemon:describes resource:Triage ;
+    foaf:page wiki:Triage_\(ability\) .
+
+wiki:Truant_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Truant (ability)" ;
+    pokemon:describes resource:Truant ;
+    foaf:page wiki:Truant_\(ability\) .
+
+wiki:Turboblaze_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Turboblaze (ability)" ;
+    pokemon:describes resource:Turboblaze ;
+    foaf:page wiki:Turboblaze_\(ability\) .
+
+wiki:Unaware_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Unaware (ability)" ;
+    pokemon:describes resource:Unaware ;
+    foaf:page wiki:Unaware_\(ability\) .
+
+wiki:Unburden_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Unburden (ability)" ;
+    pokemon:describes resource:Unburden ;
+    foaf:page wiki:Unburden_\(ability\) .
+
+wiki:Unnerve_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Unnerve (ability)" ;
+    pokemon:describes resource:Unnerve ;
+    foaf:page wiki:Unnerve_\(ability\) .
+
+wiki:Unseen%20Fist_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Unseen Fist (ability)" ;
+    pokemon:describes resource:Unseen_Fist ;
+    foaf:page wiki:Unseen_Fist_\(ability\) .
+
+wiki:Vessel%20of%20Ruin_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Vessel of Ruin (ability)" ;
+    pokemon:describes resource:Vessel_of_Ruin ;
+    foaf:page wiki:Vessel_of_Ruin_\(ability\) .
+
+wiki:Victory%20Star_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Victory Star (ability)" ;
+    pokemon:describes resource:Victory_Star ;
+    foaf:page wiki:Victory_Star_\(ability\) .
+
+wiki:Vital%20Spirit_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Vital Spirit (ability)" ;
+    pokemon:describes resource:Vital_Spirit ;
+    foaf:page wiki:Vital_Spirit_\(ability\) .
+
+wiki:Volt%20Absorb_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Volt Absorb (ability)" ;
+    pokemon:describes resource:Volt_Absorb ;
+    foaf:page wiki:Volt_Absorb_\(ability\) .
+
+wiki:Water%20Absorb_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Water Absorb (ability)" ;
+    pokemon:describes resource:Water_Absorb ;
+    foaf:page wiki:Water_Absorb_\(ability\) .
+
+wiki:Water%20Bubble_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Water Bubble (ability)" ;
+    pokemon:describes resource:Water_Bubble ;
+    foaf:page wiki:Water_Bubble_\(ability\) .
+
+wiki:Water%20Compaction_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Water Compaction (ability)" ;
+    pokemon:describes resource:Water_Compaction ;
+    foaf:page wiki:Water_Compaction_\(ability\) .
+
+wiki:Water%20Veil_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Water Veil (ability)" ;
+    pokemon:describes resource:Water_Veil ;
+    foaf:page wiki:Water_Veil_\(ability\) .
+
+wiki:Weak%20Armor_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Weak Armor (ability)" ;
+    pokemon:describes resource:Weak_Armor ;
+    foaf:page wiki:Weak_Armor_\(ability\) .
+
+wiki:Well%20Baked%20Body_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Well Baked Body (ability)" ;
+    pokemon:describes resource:Well_Baked_Body ;
+    foaf:page wiki:Well_Baked_Body_\(ability\) .
+
+wiki:White%20Smoke_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "White Smoke (ability)" ;
+    pokemon:describes resource:White_Smoke ;
+    foaf:page wiki:White_Smoke_\(ability\) .
+
+wiki:Wimp%20Out_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Wimp Out (ability)" ;
+    pokemon:describes resource:Wimp_Out ;
+    foaf:page wiki:Wimp_Out_\(ability\) .
+
+wiki:Wind%20Power_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Wind Power (ability)" ;
+    pokemon:describes resource:Wind_Power ;
+    foaf:page wiki:Wind_Power_\(ability\) .
+
+wiki:Wind%20Rider_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Wind Rider (ability)" ;
+    pokemon:describes resource:Wind_Rider ;
+    foaf:page wiki:Wind_Rider_\(ability\) .
+
+wiki:Wonder%20Guard_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Wonder Guard (ability)" ;
+    pokemon:describes resource:Wonder_Guard ;
+    foaf:page wiki:Wonder_Guard_\(ability\) .
+
+wiki:Wonder%20Skin_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Wonder Skin (ability)" ;
+    pokemon:describes resource:Wonder_Skin ;
+    foaf:page wiki:Wonder_Skin_\(ability\) .
+
+wiki:Zen%20Mode_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Zen Mode (ability)" ;
+    pokemon:describes resource:Zen_Mode ;
+    foaf:page wiki:Zen_Mode_\(ability\) .
+
+wiki:Zero%20to%20Hero_%28ability%29 a pokemon:WikiPage ;
+    rdfs:label "Zero to Hero (ability)" ;
+    pokemon:describes resource:Zero_to_Hero ;
+    foaf:page wiki:Zero_to_Hero_\(ability\) .
+
+resource:Adaptability a pokemon:AbilityResource ;
+    rdfs:label "Adaptability" ;
+    owl:sameAs base:Adaptability .
+
+resource:Aerilate a pokemon:AbilityResource ;
+    rdfs:label "Aerilate" ;
+    owl:sameAs base:Aerilate .
+
+resource:Aftermath a pokemon:AbilityResource ;
+    rdfs:label "Aftermath" ;
+    owl:sameAs base:Aftermath .
+
+resource:Air_Lock a pokemon:AbilityResource ;
+    rdfs:label "Air Lock" ;
+    owl:sameAs base:Air_Lock .
+
+resource:Analytic a pokemon:AbilityResource ;
+    rdfs:label "Analytic" ;
+    owl:sameAs base:Analytic .
+
+resource:Anger_Point a pokemon:AbilityResource ;
+    rdfs:label "Anger Point" ;
+    owl:sameAs base:Anger_Point .
+
+resource:Anger_Shell a pokemon:AbilityResource ;
+    rdfs:label "Anger Shell" ;
+    owl:sameAs base:Anger_Shell .
+
+resource:Anticipation a pokemon:AbilityResource ;
+    rdfs:label "Anticipation" ;
+    owl:sameAs base:Anticipation .
+
+resource:Arena_Trap a pokemon:AbilityResource ;
+    rdfs:label "Arena Trap" ;
+    owl:sameAs base:Arena_Trap .
+
+resource:Armor_Tail a pokemon:AbilityResource ;
+    rdfs:label "Armor Tail" ;
+    owl:sameAs base:Armor_Tail .
+
+resource:Aroma_Veil a pokemon:AbilityResource ;
+    rdfs:label "Aroma Veil" ;
+    owl:sameAs base:Aroma_Veil .
+
+resource:As_One a pokemon:AbilityResource ;
+    rdfs:label "As One" ;
+    owl:sameAs base:As_One .
+
+resource:Aura_Break a pokemon:AbilityResource ;
+    rdfs:label "Aura Break" ;
+    owl:sameAs base:Aura_Break .
+
+resource:Bad_Dreams a pokemon:AbilityResource ;
+    rdfs:label "Bad Dreams" ;
+    owl:sameAs base:Bad_Dreams .
+
+resource:Ball_Fetch a pokemon:AbilityResource ;
+    rdfs:label "Ball Fetch" ;
+    owl:sameAs base:Ball_Fetch .
+
+resource:Battery a pokemon:AbilityResource ;
+    rdfs:label "Battery" ;
+    owl:sameAs base:Battery .
+
+resource:Battle_Armor a pokemon:AbilityResource ;
+    rdfs:label "Battle Armor" ;
+    owl:sameAs base:Battle_Armor .
+
+resource:Battle_Bond a pokemon:AbilityResource ;
+    rdfs:label "Battle Bond" ;
+    owl:sameAs base:Battle_Bond .
+
+resource:Beads_of_Ruin a pokemon:AbilityResource ;
+    rdfs:label "Beads of Ruin" ;
+    owl:sameAs base:Beads_of_Ruin .
+
+resource:Beast_Boost a pokemon:AbilityResource ;
+    rdfs:label "Beast Boost" ;
+    owl:sameAs base:Beast_Boost .
+
+resource:Berserk a pokemon:AbilityResource ;
+    rdfs:label "Berserk" ;
+    owl:sameAs base:Berserk .
+
+resource:Big_Pecks a pokemon:AbilityResource ;
+    rdfs:label "Big Pecks" ;
+    owl:sameAs base:Big_Pecks .
+
+resource:Blaze a pokemon:AbilityResource ;
+    rdfs:label "Blaze" ;
+    owl:sameAs base:Blaze .
+
+resource:Bulletproof a pokemon:AbilityResource ;
+    rdfs:label "Bulletproof" ;
+    owl:sameAs base:Bulletproof .
+
+resource:Cheek_Pouch a pokemon:AbilityResource ;
+    rdfs:label "Cheek Pouch" ;
+    owl:sameAs base:Cheek_Pouch .
+
+resource:Chilling_Neigh a pokemon:AbilityResource ;
+    rdfs:label "Chilling Neigh" ;
+    owl:sameAs base:Chilling_Neigh .
+
+resource:Chlorophyll a pokemon:AbilityResource ;
+    rdfs:label "Chlorophyll" ;
+    owl:sameAs base:Chlorophyll .
+
+resource:Clear_Body a pokemon:AbilityResource ;
+    rdfs:label "Clear Body" ;
+    owl:sameAs base:Clear_Body .
+
+resource:Cloud_Nine a pokemon:AbilityResource ;
+    rdfs:label "Cloud Nine" ;
+    owl:sameAs base:Cloud_Nine .
+
+resource:Color_Change a pokemon:AbilityResource ;
+    rdfs:label "Color Change" ;
+    owl:sameAs base:Color_Change .
+
+resource:Comatose a pokemon:AbilityResource ;
+    rdfs:label "Comatose" ;
+    owl:sameAs base:Comatose .
+
+resource:Commander a pokemon:AbilityResource ;
+    rdfs:label "Commander" ;
+    owl:sameAs base:Commander .
+
+resource:Competitive a pokemon:AbilityResource ;
+    rdfs:label "Competitive" ;
+    owl:sameAs base:Competitive .
+
+resource:Compound_Eyes a pokemon:AbilityResource ;
+    rdfs:label "Compound Eyes" ;
+    owl:sameAs base:Compound_Eyes .
+
+resource:Contrary a pokemon:AbilityResource ;
+    rdfs:label "Contrary" ;
+    owl:sameAs base:Contrary .
+
+resource:Corrosion a pokemon:AbilityResource ;
+    rdfs:label "Corrosion" ;
+    owl:sameAs base:Corrosion .
+
+resource:Costar a pokemon:AbilityResource ;
+    rdfs:label "Costar" ;
+    owl:sameAs base:Costar .
+
+resource:Cotton_Down a pokemon:AbilityResource ;
+    rdfs:label "Cotton Down" ;
+    owl:sameAs base:Cotton_Down .
+
+resource:Cud_Chew a pokemon:AbilityResource ;
+    rdfs:label "Cud Chew" ;
+    owl:sameAs base:Cud_Chew .
+
+resource:Curious_Medicine a pokemon:AbilityResource ;
+    rdfs:label "Curious Medicine" ;
+    owl:sameAs base:Curious_Medicine .
+
+resource:Cursed_Body a pokemon:AbilityResource ;
+    rdfs:label "Cursed Body" ;
+    owl:sameAs base:Cursed_Body .
+
+resource:Cute_Charm a pokemon:AbilityResource ;
+    rdfs:label "Cute Charm" ;
+    owl:sameAs base:Cute_Charm .
+
+resource:Damp a pokemon:AbilityResource ;
+    rdfs:label "Damp" ;
+    owl:sameAs base:Damp .
+
+resource:Dancer a pokemon:AbilityResource ;
+    rdfs:label "Dancer" ;
+    owl:sameAs base:Dancer .
+
+resource:Dark_Aura a pokemon:AbilityResource ;
+    rdfs:label "Dark Aura" ;
+    owl:sameAs base:Dark_Aura .
+
+resource:Dauntless_Shield a pokemon:AbilityResource ;
+    rdfs:label "Dauntless Shield" ;
+    owl:sameAs base:Dauntless_Shield .
+
+resource:Dazzling a pokemon:AbilityResource ;
+    rdfs:label "Dazzling" ;
+    owl:sameAs base:Dazzling .
+
+resource:Defeatist a pokemon:AbilityResource ;
+    rdfs:label "Defeatist" ;
+    owl:sameAs base:Defeatist .
+
+resource:Defiant a pokemon:AbilityResource ;
+    rdfs:label "Defiant" ;
+    owl:sameAs base:Defiant .
+
+resource:Delta_Stream a pokemon:AbilityResource ;
+    rdfs:label "Delta Stream" ;
+    owl:sameAs base:Delta_Stream .
+
+resource:Desolate_Land a pokemon:AbilityResource ;
+    rdfs:label "Desolate Land" ;
+    owl:sameAs base:Desolate_Land .
+
+resource:Disguise a pokemon:AbilityResource ;
+    rdfs:label "Disguise" ;
+    owl:sameAs base:Disguise .
+
+resource:Download a pokemon:AbilityResource ;
+    rdfs:label "Download" ;
+    owl:sameAs base:Download .
+
+resource:Dragons_Maw a pokemon:AbilityResource ;
+    rdfs:label "Dragons Maw" ;
+    owl:sameAs base:Dragons_Maw .
+
+resource:Drizzle a pokemon:AbilityResource ;
+    rdfs:label "Drizzle" ;
+    owl:sameAs base:Drizzle .
+
+resource:Drought a pokemon:AbilityResource ;
+    rdfs:label "Drought" ;
+    owl:sameAs base:Drought .
+
+resource:Dry_Skin a pokemon:AbilityResource ;
+    rdfs:label "Dry Skin" ;
+    owl:sameAs base:Dry_Skin .
+
+resource:Early_Bird a pokemon:AbilityResource ;
+    rdfs:label "Early Bird" ;
+    owl:sameAs base:Early_Bird .
+
+resource:Earth_Eater a pokemon:AbilityResource ;
+    rdfs:label "Earth Eater" ;
+    owl:sameAs base:Earth_Eater .
+
+resource:Effect_Spore a pokemon:AbilityResource ;
+    rdfs:label "Effect Spore" ;
+    owl:sameAs base:Effect_Spore .
+
+resource:Electric_Surge a pokemon:AbilityResource ;
+    rdfs:label "Electric Surge" ;
+    owl:sameAs base:Electric_Surge .
+
+resource:Electromorphosis a pokemon:AbilityResource ;
+    rdfs:label "Electromorphosis" ;
+    owl:sameAs base:Electromorphosis .
+
+resource:Embody_Aspect a pokemon:AbilityResource ;
+    rdfs:label "Embody Aspect" ;
+    owl:sameAs base:Embody_Aspect .
+
+resource:Emergency_Exit a pokemon:AbilityResource ;
+    rdfs:label "Emergency Exit" ;
+    owl:sameAs base:Emergency_Exit .
+
+resource:Fairy_Aura a pokemon:AbilityResource ;
+    rdfs:label "Fairy Aura" ;
+    owl:sameAs base:Fairy_Aura .
+
+resource:Filter a pokemon:AbilityResource ;
+    rdfs:label "Filter" ;
+    owl:sameAs base:Filter .
+
+resource:Flame_Body a pokemon:AbilityResource ;
+    rdfs:label "Flame Body" ;
+    owl:sameAs base:Flame_Body .
+
+resource:Flare_Boost a pokemon:AbilityResource ;
+    rdfs:label "Flare Boost" ;
+    owl:sameAs base:Flare_Boost .
+
+resource:Flash_Fire a pokemon:AbilityResource ;
+    rdfs:label "Flash Fire" ;
+    owl:sameAs base:Flash_Fire .
+
+resource:Flower_Gift a pokemon:AbilityResource ;
+    rdfs:label "Flower Gift" ;
+    owl:sameAs base:Flower_Gift .
+
+resource:Flower_Veil a pokemon:AbilityResource ;
+    rdfs:label "Flower Veil" ;
+    owl:sameAs base:Flower_Veil .
+
+resource:Fluffy a pokemon:AbilityResource ;
+    rdfs:label "Fluffy" ;
+    owl:sameAs base:Fluffy .
+
+resource:Forecast a pokemon:AbilityResource ;
+    rdfs:label "Forecast" ;
+    owl:sameAs base:Forecast .
+
+resource:Forewarn a pokemon:AbilityResource ;
+    rdfs:label "Forewarn" ;
+    owl:sameAs base:Forewarn .
+
+resource:Friend_Guard a pokemon:AbilityResource ;
+    rdfs:label "Friend Guard" ;
+    owl:sameAs base:Friend_Guard .
+
+resource:Frisk a pokemon:AbilityResource ;
+    rdfs:label "Frisk" ;
+    owl:sameAs base:Frisk .
+
+resource:Full_Metal_Body a pokemon:AbilityResource ;
+    rdfs:label "Full Metal Body" ;
+    owl:sameAs base:Full_Metal_Body .
+
+resource:Fur_Coat a pokemon:AbilityResource ;
+    rdfs:label "Fur Coat" ;
+    owl:sameAs base:Fur_Coat .
+
+resource:Gale_Wings a pokemon:AbilityResource ;
+    rdfs:label "Gale Wings" ;
+    owl:sameAs base:Gale_Wings .
+
+resource:Galvanize a pokemon:AbilityResource ;
+    rdfs:label "Galvanize" ;
+    owl:sameAs base:Galvanize .
+
+resource:Gluttony a pokemon:AbilityResource ;
+    rdfs:label "Gluttony" ;
+    owl:sameAs base:Gluttony .
+
+resource:Good_as_Gold a pokemon:AbilityResource ;
+    rdfs:label "Good as Gold" ;
+    owl:sameAs base:Good_as_Gold .
+
+resource:Gooey a pokemon:AbilityResource ;
+    rdfs:label "Gooey" ;
+    owl:sameAs base:Gooey .
+
+resource:Gorilla_Tactics a pokemon:AbilityResource ;
+    rdfs:label "Gorilla Tactics" ;
+    owl:sameAs base:Gorilla_Tactics .
+
+resource:Grass_Pelt a pokemon:AbilityResource ;
+    rdfs:label "Grass Pelt" ;
+    owl:sameAs base:Grass_Pelt .
+
+resource:Grassy_Surge a pokemon:AbilityResource ;
+    rdfs:label "Grassy Surge" ;
+    owl:sameAs base:Grassy_Surge .
+
+resource:Grim_Neigh a pokemon:AbilityResource ;
+    rdfs:label "Grim Neigh" ;
+    owl:sameAs base:Grim_Neigh .
+
+resource:Guard_Dog a pokemon:AbilityResource ;
+    rdfs:label "Guard Dog" ;
+    owl:sameAs base:Guard_Dog .
+
+resource:Gulp_Missile a pokemon:AbilityResource ;
+    rdfs:label "Gulp Missile" ;
+    owl:sameAs base:Gulp_Missile .
+
+resource:Guts a pokemon:AbilityResource ;
+    rdfs:label "Guts" ;
+    owl:sameAs base:Guts .
+
+resource:Hadron_Engine a pokemon:AbilityResource ;
+    rdfs:label "Hadron Engine" ;
+    owl:sameAs base:Hadron_Engine .
+
+resource:Harvest a pokemon:AbilityResource ;
+    rdfs:label "Harvest" ;
+    owl:sameAs base:Harvest .
+
+resource:Healer a pokemon:AbilityResource ;
+    rdfs:label "Healer" ;
+    owl:sameAs base:Healer .
+
+resource:Heatproof a pokemon:AbilityResource ;
+    rdfs:label "Heatproof" ;
+    owl:sameAs base:Heatproof .
+
+resource:Heavy_Metal a pokemon:AbilityResource ;
+    rdfs:label "Heavy Metal" ;
+    owl:sameAs base:Heavy_Metal .
+
+resource:Honey_Gather a pokemon:AbilityResource ;
+    rdfs:label "Honey Gather" ;
+    owl:sameAs base:Honey_Gather .
+
+resource:Hospitality a pokemon:AbilityResource ;
+    rdfs:label "Hospitality" ;
+    owl:sameAs base:Hospitality .
+
+resource:Huge_Power a pokemon:AbilityResource ;
+    rdfs:label "Huge Power" ;
+    owl:sameAs base:Huge_Power .
+
+resource:Hunger_Switch a pokemon:AbilityResource ;
+    rdfs:label "Hunger Switch" ;
+    owl:sameAs base:Hunger_Switch .
+
+resource:Hustle a pokemon:AbilityResource ;
+    rdfs:label "Hustle" ;
+    owl:sameAs base:Hustle .
+
+resource:Hydration a pokemon:AbilityResource ;
+    rdfs:label "Hydration" ;
+    owl:sameAs base:Hydration .
+
+resource:Hyper_Cutter a pokemon:AbilityResource ;
+    rdfs:label "Hyper Cutter" ;
+    owl:sameAs base:Hyper_Cutter .
+
+resource:Ice_Body a pokemon:AbilityResource ;
+    rdfs:label "Ice Body" ;
+    owl:sameAs base:Ice_Body .
+
+resource:Ice_Face a pokemon:AbilityResource ;
+    rdfs:label "Ice Face" ;
+    owl:sameAs base:Ice_Face .
+
+resource:Ice_Scales a pokemon:AbilityResource ;
+    rdfs:label "Ice Scales" ;
+    owl:sameAs base:Ice_Scales .
+
+resource:Illuminate a pokemon:AbilityResource ;
+    rdfs:label "Illuminate" ;
+    owl:sameAs base:Illuminate .
+
+resource:Illusion a pokemon:AbilityResource ;
+    rdfs:label "Illusion" ;
+    owl:sameAs base:Illusion .
+
+resource:Immunity a pokemon:AbilityResource ;
+    rdfs:label "Immunity" ;
+    owl:sameAs base:Immunity .
+
+resource:Imposter a pokemon:AbilityResource ;
+    rdfs:label "Imposter" ;
+    owl:sameAs base:Imposter .
+
+resource:Infiltrator a pokemon:AbilityResource ;
+    rdfs:label "Infiltrator" ;
+    owl:sameAs base:Infiltrator .
+
+resource:Innards_Out a pokemon:AbilityResource ;
+    rdfs:label "Innards Out" ;
+    owl:sameAs base:Innards_Out .
+
+resource:Inner_Focus a pokemon:AbilityResource ;
+    rdfs:label "Inner Focus" ;
+    owl:sameAs base:Inner_Focus .
+
+resource:Insomnia a pokemon:AbilityResource ;
+    rdfs:label "Insomnia" ;
+    owl:sameAs base:Insomnia .
+
+resource:Intimidate a pokemon:AbilityResource ;
+    rdfs:label "Intimidate" ;
+    owl:sameAs base:Intimidate .
+
+resource:Intrepid_Sword a pokemon:AbilityResource ;
+    rdfs:label "Intrepid Sword" ;
+    owl:sameAs base:Intrepid_Sword .
+
+resource:Iron_Barbs a pokemon:AbilityResource ;
+    rdfs:label "Iron Barbs" ;
+    owl:sameAs base:Iron_Barbs .
+
+resource:Iron_Fist a pokemon:AbilityResource ;
+    rdfs:label "Iron Fist" ;
+    owl:sameAs base:Iron_Fist .
+
+resource:Justified a pokemon:AbilityResource ;
+    rdfs:label "Justified" ;
+    owl:sameAs base:Justified .
+
+resource:Keen_Eye a pokemon:AbilityResource ;
+    rdfs:label "Keen Eye" ;
+    owl:sameAs base:Keen_Eye .
+
+resource:Klutz a pokemon:AbilityResource ;
+    rdfs:label "Klutz" ;
+    owl:sameAs base:Klutz .
+
+resource:Leaf_Guard a pokemon:AbilityResource ;
+    rdfs:label "Leaf Guard" ;
+    owl:sameAs base:Leaf_Guard .
+
+resource:Levitate a pokemon:AbilityResource ;
+    rdfs:label "Levitate" ;
+    owl:sameAs base:Levitate .
+
+resource:Libero a pokemon:AbilityResource ;
+    rdfs:label "Libero" ;
+    owl:sameAs base:Libero .
+
+resource:Light_Metal a pokemon:AbilityResource ;
+    rdfs:label "Light Metal" ;
+    owl:sameAs base:Light_Metal .
+
+resource:Lightning_Rod a pokemon:AbilityResource ;
+    rdfs:label "Lightning Rod" ;
+    owl:sameAs base:Lightning_Rod .
+
+resource:Limber a pokemon:AbilityResource ;
+    rdfs:label "Limber" ;
+    owl:sameAs base:Limber .
+
+resource:Lingering_Aroma a pokemon:AbilityResource ;
+    rdfs:label "Lingering Aroma" ;
+    owl:sameAs base:Lingering_Aroma .
+
+resource:Liquid_Ooze a pokemon:AbilityResource ;
+    rdfs:label "Liquid Ooze" ;
+    owl:sameAs base:Liquid_Ooze .
+
+resource:Liquid_Voice a pokemon:AbilityResource ;
+    rdfs:label "Liquid Voice" ;
+    owl:sameAs base:Liquid_Voice .
+
+resource:Long_Reach a pokemon:AbilityResource ;
+    rdfs:label "Long Reach" ;
+    owl:sameAs base:Long_Reach .
+
+resource:Magic_Bounce a pokemon:AbilityResource ;
+    rdfs:label "Magic Bounce" ;
+    owl:sameAs base:Magic_Bounce .
+
+resource:Magic_Guard a pokemon:AbilityResource ;
+    rdfs:label "Magic Guard" ;
+    owl:sameAs base:Magic_Guard .
+
+resource:Magician a pokemon:AbilityResource ;
+    rdfs:label "Magician" ;
+    owl:sameAs base:Magician .
+
+resource:Magma_Armor a pokemon:AbilityResource ;
+    rdfs:label "Magma Armor" ;
+    owl:sameAs base:Magma_Armor .
+
+resource:Magnet_Pull a pokemon:AbilityResource ;
+    rdfs:label "Magnet Pull" ;
+    owl:sameAs base:Magnet_Pull .
+
+resource:Marvel_Scale a pokemon:AbilityResource ;
+    rdfs:label "Marvel Scale" ;
+    owl:sameAs base:Marvel_Scale .
+
+resource:Mega_Launcher a pokemon:AbilityResource ;
+    rdfs:label "Mega Launcher" ;
+    owl:sameAs base:Mega_Launcher .
+
+resource:Merciless a pokemon:AbilityResource ;
+    rdfs:label "Merciless" ;
+    owl:sameAs base:Merciless .
+
+resource:Mimicry a pokemon:AbilityResource ;
+    rdfs:label "Mimicry" ;
+    owl:sameAs base:Mimicry .
+
+resource:Minds_Eye a pokemon:AbilityResource ;
+    rdfs:label "Minds Eye" ;
+    owl:sameAs base:Minds_Eye .
+
+resource:Minus a pokemon:AbilityResource ;
+    rdfs:label "Minus" ;
+    owl:sameAs base:Minus .
+
+resource:Mirror_Armor a pokemon:AbilityResource ;
+    rdfs:label "Mirror Armor" ;
+    owl:sameAs base:Mirror_Armor .
+
+resource:Misty_Surge a pokemon:AbilityResource ;
+    rdfs:label "Misty Surge" ;
+    owl:sameAs base:Misty_Surge .
+
+resource:Mold_Breaker a pokemon:AbilityResource ;
+    rdfs:label "Mold Breaker" ;
+    owl:sameAs base:Mold_Breaker .
+
+resource:Moody a pokemon:AbilityResource ;
+    rdfs:label "Moody" ;
+    owl:sameAs base:Moody .
+
+resource:Motor_Drive a pokemon:AbilityResource ;
+    rdfs:label "Motor Drive" ;
+    owl:sameAs base:Motor_Drive .
+
+resource:Moxie a pokemon:AbilityResource ;
+    rdfs:label "Moxie" ;
+    owl:sameAs base:Moxie .
+
+resource:Multiscale a pokemon:AbilityResource ;
+    rdfs:label "Multiscale" ;
+    owl:sameAs base:Multiscale .
+
+resource:Multitype a pokemon:AbilityResource ;
+    rdfs:label "Multitype" ;
+    owl:sameAs base:Multitype .
+
+resource:Mummy a pokemon:AbilityResource ;
+    rdfs:label "Mummy" ;
+    owl:sameAs base:Mummy .
+
+resource:Mycelium_Might a pokemon:AbilityResource ;
+    rdfs:label "Mycelium Might" ;
+    owl:sameAs base:Mycelium_Might .
+
+resource:Natural_Cure a pokemon:AbilityResource ;
+    rdfs:label "Natural Cure" ;
+    owl:sameAs base:Natural_Cure .
+
+resource:Neuroforce a pokemon:AbilityResource ;
+    rdfs:label "Neuroforce" ;
+    owl:sameAs base:Neuroforce .
+
+resource:Neutralizing_Gas a pokemon:AbilityResource ;
+    rdfs:label "Neutralizing Gas" ;
+    owl:sameAs base:Neutralizing_Gas .
+
+resource:No_Guard a pokemon:AbilityResource ;
+    rdfs:label "No Guard" ;
+    owl:sameAs base:No_Guard .
+
+resource:Normalize a pokemon:AbilityResource ;
+    rdfs:label "Normalize" ;
+    owl:sameAs base:Normalize .
+
+resource:Oblivious a pokemon:AbilityResource ;
+    rdfs:label "Oblivious" ;
+    owl:sameAs base:Oblivious .
+
+resource:Opportunist a pokemon:AbilityResource ;
+    rdfs:label "Opportunist" ;
+    owl:sameAs base:Opportunist .
+
+resource:Orichalcum_Pulse a pokemon:AbilityResource ;
+    rdfs:label "Orichalcum Pulse" ;
+    owl:sameAs base:Orichalcum_Pulse .
+
+resource:Overcoat a pokemon:AbilityResource ;
+    rdfs:label "Overcoat" ;
+    owl:sameAs base:Overcoat .
+
+resource:Overgrow a pokemon:AbilityResource ;
+    rdfs:label "Overgrow" ;
+    owl:sameAs base:Overgrow .
+
+resource:Own_Tempo a pokemon:AbilityResource ;
+    rdfs:label "Own Tempo" ;
+    owl:sameAs base:Own_Tempo .
+
+resource:Parental_Bond a pokemon:AbilityResource ;
+    rdfs:label "Parental Bond" ;
+    owl:sameAs base:Parental_Bond .
+
+resource:Pastel_Veil a pokemon:AbilityResource ;
+    rdfs:label "Pastel Veil" ;
+    owl:sameAs base:Pastel_Veil .
+
+resource:Perish_Body a pokemon:AbilityResource ;
+    rdfs:label "Perish Body" ;
+    owl:sameAs base:Perish_Body .
+
+resource:Pickpocket a pokemon:AbilityResource ;
+    rdfs:label "Pickpocket" ;
+    owl:sameAs base:Pickpocket .
+
+resource:Pickup a pokemon:AbilityResource ;
+    rdfs:label "Pickup" ;
+    owl:sameAs base:Pickup .
+
+resource:Pixilate a pokemon:AbilityResource ;
+    rdfs:label "Pixilate" ;
+    owl:sameAs base:Pixilate .
+
+resource:Plus a pokemon:AbilityResource ;
+    rdfs:label "Plus" ;
+    owl:sameAs base:Plus .
+
+resource:Poison_Heal a pokemon:AbilityResource ;
+    rdfs:label "Poison Heal" ;
+    owl:sameAs base:Poison_Heal .
+
+resource:Poison_Point a pokemon:AbilityResource ;
+    rdfs:label "Poison Point" ;
+    owl:sameAs base:Poison_Point .
+
+resource:Poison_Puppeteer a pokemon:AbilityResource ;
+    rdfs:label "Poison Puppeteer" ;
+    owl:sameAs base:Poison_Puppeteer .
+
+resource:Poison_Touch a pokemon:AbilityResource ;
+    rdfs:label "Poison Touch" ;
+    owl:sameAs base:Poison_Touch .
+
+resource:Power_Construct a pokemon:AbilityResource ;
+    rdfs:label "Power Construct" ;
+    owl:sameAs base:Power_Construct .
+
+resource:Power_Spot a pokemon:AbilityResource ;
+    rdfs:label "Power Spot" ;
+    owl:sameAs base:Power_Spot .
+
+resource:Power_of_Alchemy a pokemon:AbilityResource ;
+    rdfs:label "Power of Alchemy" ;
+    owl:sameAs base:Power_of_Alchemy .
+
+resource:Prankster a pokemon:AbilityResource ;
+    rdfs:label "Prankster" ;
+    owl:sameAs base:Prankster .
+
+resource:Pressure a pokemon:AbilityResource ;
+    rdfs:label "Pressure" ;
+    owl:sameAs base:Pressure .
+
+resource:Primordial_Sea a pokemon:AbilityResource ;
+    rdfs:label "Primordial Sea" ;
+    owl:sameAs base:Primordial_Sea .
+
+resource:Prism_Armor a pokemon:AbilityResource ;
+    rdfs:label "Prism Armor" ;
+    owl:sameAs base:Prism_Armor .
+
+resource:Propeller_Tail a pokemon:AbilityResource ;
+    rdfs:label "Propeller Tail" ;
+    owl:sameAs base:Propeller_Tail .
+
+resource:Protean a pokemon:AbilityResource ;
+    rdfs:label "Protean" ;
+    owl:sameAs base:Protean .
+
+resource:Protosynthesis a pokemon:AbilityResource ;
+    rdfs:label "Protosynthesis" ;
+    owl:sameAs base:Protosynthesis .
+
+resource:Psychic_Surge a pokemon:AbilityResource ;
+    rdfs:label "Psychic Surge" ;
+    owl:sameAs base:Psychic_Surge .
+
+resource:Punk_Rock a pokemon:AbilityResource ;
+    rdfs:label "Punk Rock" ;
+    owl:sameAs base:Punk_Rock .
+
+resource:Pure_Power a pokemon:AbilityResource ;
+    rdfs:label "Pure Power" ;
+    owl:sameAs base:Pure_Power .
+
+resource:Purifying_Salt a pokemon:AbilityResource ;
+    rdfs:label "Purifying Salt" ;
+    owl:sameAs base:Purifying_Salt .
+
+resource:Quark_Drive a pokemon:AbilityResource ;
+    rdfs:label "Quark Drive" ;
+    owl:sameAs base:Quark_Drive .
+
+resource:Queenly_Majesty a pokemon:AbilityResource ;
+    rdfs:label "Queenly Majesty" ;
+    owl:sameAs base:Queenly_Majesty .
+
+resource:Quick_Draw a pokemon:AbilityResource ;
+    rdfs:label "Quick Draw" ;
+    owl:sameAs base:Quick_Draw .
+
+resource:Quick_Feet a pokemon:AbilityResource ;
+    rdfs:label "Quick Feet" ;
+    owl:sameAs base:Quick_Feet .
+
+resource:RKS_System a pokemon:AbilityResource ;
+    rdfs:label "RKS System" ;
+    owl:sameAs base:RKS_System .
+
+resource:Rain_Dish a pokemon:AbilityResource ;
+    rdfs:label "Rain Dish" ;
+    owl:sameAs base:Rain_Dish .
+
+resource:Rattled a pokemon:AbilityResource ;
+    rdfs:label "Rattled" ;
+    owl:sameAs base:Rattled .
+
+resource:Receiver a pokemon:AbilityResource ;
+    rdfs:label "Receiver" ;
+    owl:sameAs base:Receiver .
+
+resource:Reckless a pokemon:AbilityResource ;
+    rdfs:label "Reckless" ;
+    owl:sameAs base:Reckless .
+
+resource:Refrigerate a pokemon:AbilityResource ;
+    rdfs:label "Refrigerate" ;
+    owl:sameAs base:Refrigerate .
+
+resource:Regenerator a pokemon:AbilityResource ;
+    rdfs:label "Regenerator" ;
+    owl:sameAs base:Regenerator .
+
+resource:Ripen a pokemon:AbilityResource ;
+    rdfs:label "Ripen" ;
+    owl:sameAs base:Ripen .
+
+resource:Rivalry a pokemon:AbilityResource ;
+    rdfs:label "Rivalry" ;
+    owl:sameAs base:Rivalry .
+
+resource:Rock_Head a pokemon:AbilityResource ;
+    rdfs:label "Rock Head" ;
+    owl:sameAs base:Rock_Head .
+
+resource:Rocky_Payload a pokemon:AbilityResource ;
+    rdfs:label "Rocky Payload" ;
+    owl:sameAs base:Rocky_Payload .
+
+resource:Rough_Skin a pokemon:AbilityResource ;
+    rdfs:label "Rough Skin" ;
+    owl:sameAs base:Rough_Skin .
+
+resource:Run_Away a pokemon:AbilityResource ;
+    rdfs:label "Run Away" ;
+    owl:sameAs base:Run_Away .
+
+resource:Sand_Force a pokemon:AbilityResource ;
+    rdfs:label "Sand Force" ;
+    owl:sameAs base:Sand_Force .
+
+resource:Sand_Rush a pokemon:AbilityResource ;
+    rdfs:label "Sand Rush" ;
+    owl:sameAs base:Sand_Rush .
+
+resource:Sand_Spit a pokemon:AbilityResource ;
+    rdfs:label "Sand Spit" ;
+    owl:sameAs base:Sand_Spit .
+
+resource:Sand_Stream a pokemon:AbilityResource ;
+    rdfs:label "Sand Stream" ;
+    owl:sameAs base:Sand_Stream .
+
+resource:Sand_Veil a pokemon:AbilityResource ;
+    rdfs:label "Sand Veil" ;
+    owl:sameAs base:Sand_Veil .
+
+resource:Sap_Sipper a pokemon:AbilityResource ;
+    rdfs:label "Sap Sipper" ;
+    owl:sameAs base:Sap_Sipper .
+
+resource:Schooling a pokemon:AbilityResource ;
+    rdfs:label "Schooling" ;
+    owl:sameAs base:Schooling .
+
+resource:Scrappy a pokemon:AbilityResource ;
+    rdfs:label "Scrappy" ;
+    owl:sameAs base:Scrappy .
+
+resource:Screen_Cleaner a pokemon:AbilityResource ;
+    rdfs:label "Screen Cleaner" ;
+    owl:sameAs base:Screen_Cleaner .
+
+resource:Seed_Sower a pokemon:AbilityResource ;
+    rdfs:label "Seed Sower" ;
+    owl:sameAs base:Seed_Sower .
+
+resource:Serene_Grace a pokemon:AbilityResource ;
+    rdfs:label "Serene Grace" ;
+    owl:sameAs base:Serene_Grace .
+
+resource:Shadow_Shield a pokemon:AbilityResource ;
+    rdfs:label "Shadow Shield" ;
+    owl:sameAs base:Shadow_Shield .
+
+resource:Shadow_Tag a pokemon:AbilityResource ;
+    rdfs:label "Shadow Tag" ;
+    owl:sameAs base:Shadow_Tag .
+
+resource:Sharpness a pokemon:AbilityResource ;
+    rdfs:label "Sharpness" ;
+    owl:sameAs base:Sharpness .
+
+resource:Shed_Skin a pokemon:AbilityResource ;
+    rdfs:label "Shed Skin" ;
+    owl:sameAs base:Shed_Skin .
+
+resource:Sheer_Force a pokemon:AbilityResource ;
+    rdfs:label "Sheer Force" ;
+    owl:sameAs base:Sheer_Force .
+
+resource:Shell_Armor a pokemon:AbilityResource ;
+    rdfs:label "Shell Armor" ;
+    owl:sameAs base:Shell_Armor .
+
+resource:Shield_Dust a pokemon:AbilityResource ;
+    rdfs:label "Shield Dust" ;
+    owl:sameAs base:Shield_Dust .
+
+resource:Shields_Down a pokemon:AbilityResource ;
+    rdfs:label "Shields Down" ;
+    owl:sameAs base:Shields_Down .
+
+resource:Simple a pokemon:AbilityResource ;
+    rdfs:label "Simple" ;
+    owl:sameAs base:Simple .
+
+resource:Skill_Link a pokemon:AbilityResource ;
+    rdfs:label "Skill Link" ;
+    owl:sameAs base:Skill_Link .
+
+resource:Slow_Start a pokemon:AbilityResource ;
+    rdfs:label "Slow Start" ;
+    owl:sameAs base:Slow_Start .
+
+resource:Slush_Rush a pokemon:AbilityResource ;
+    rdfs:label "Slush Rush" ;
+    owl:sameAs base:Slush_Rush .
+
+resource:Sniper a pokemon:AbilityResource ;
+    rdfs:label "Sniper" ;
+    owl:sameAs base:Sniper .
+
+resource:Snow_Cloak a pokemon:AbilityResource ;
+    rdfs:label "Snow Cloak" ;
+    owl:sameAs base:Snow_Cloak .
+
+resource:Snow_Warning a pokemon:AbilityResource ;
+    rdfs:label "Snow Warning" ;
+    owl:sameAs base:Snow_Warning .
+
+resource:Solar_Power a pokemon:AbilityResource ;
+    rdfs:label "Solar Power" ;
+    owl:sameAs base:Solar_Power .
+
+resource:Solid_Rock a pokemon:AbilityResource ;
+    rdfs:label "Solid Rock" ;
+    owl:sameAs base:Solid_Rock .
+
+resource:Soul_Heart a pokemon:AbilityResource ;
+    rdfs:label "Soul Heart" ;
+    owl:sameAs base:Soul_Heart .
+
+resource:Soundproof a pokemon:AbilityResource ;
+    rdfs:label "Soundproof" ;
+    owl:sameAs base:Soundproof .
+
+resource:Speed_Boost a pokemon:AbilityResource ;
+    rdfs:label "Speed Boost" ;
+    owl:sameAs base:Speed_Boost .
+
+resource:Stakeout a pokemon:AbilityResource ;
+    rdfs:label "Stakeout" ;
+    owl:sameAs base:Stakeout .
+
+resource:Stall a pokemon:AbilityResource ;
+    rdfs:label "Stall" ;
+    owl:sameAs base:Stall .
+
+resource:Stalwart a pokemon:AbilityResource ;
+    rdfs:label "Stalwart" ;
+    owl:sameAs base:Stalwart .
+
+resource:Stamina a pokemon:AbilityResource ;
+    rdfs:label "Stamina" ;
+    owl:sameAs base:Stamina .
+
+resource:Stance_Change a pokemon:AbilityResource ;
+    rdfs:label "Stance Change" ;
+    owl:sameAs base:Stance_Change .
+
+resource:Static a pokemon:AbilityResource ;
+    rdfs:label "Static" ;
+    owl:sameAs base:Static .
+
+resource:Steadfast a pokemon:AbilityResource ;
+    rdfs:label "Steadfast" ;
+    owl:sameAs base:Steadfast .
+
+resource:Steam_Engine a pokemon:AbilityResource ;
+    rdfs:label "Steam Engine" ;
+    owl:sameAs base:Steam_Engine .
+
+resource:Steelworker a pokemon:AbilityResource ;
+    rdfs:label "Steelworker" ;
+    owl:sameAs base:Steelworker .
+
+resource:Steely_Spirit a pokemon:AbilityResource ;
+    rdfs:label "Steely Spirit" ;
+    owl:sameAs base:Steely_Spirit .
+
+resource:Stench a pokemon:AbilityResource ;
+    rdfs:label "Stench" ;
+    owl:sameAs base:Stench .
+
+resource:Sticky_Hold a pokemon:AbilityResource ;
+    rdfs:label "Sticky Hold" ;
+    owl:sameAs base:Sticky_Hold .
+
+resource:Storm_Drain a pokemon:AbilityResource ;
+    rdfs:label "Storm Drain" ;
+    owl:sameAs base:Storm_Drain .
+
+resource:Strong_Jaw a pokemon:AbilityResource ;
+    rdfs:label "Strong Jaw" ;
+    owl:sameAs base:Strong_Jaw .
+
+resource:Sturdy a pokemon:AbilityResource ;
+    rdfs:label "Sturdy" ;
+    owl:sameAs base:Sturdy .
+
+resource:Suction_Cups a pokemon:AbilityResource ;
+    rdfs:label "Suction Cups" ;
+    owl:sameAs base:Suction_Cups .
+
+resource:Super_Luck a pokemon:AbilityResource ;
+    rdfs:label "Super Luck" ;
+    owl:sameAs base:Super_Luck .
+
+resource:Supersweet_Syrup a pokemon:AbilityResource ;
+    rdfs:label "Supersweet Syrup" ;
+    owl:sameAs base:Supersweet_Syrup .
+
+resource:Supreme_Overlord a pokemon:AbilityResource ;
+    rdfs:label "Supreme Overlord" ;
+    owl:sameAs base:Supreme_Overlord .
+
+resource:Surge_Surfer a pokemon:AbilityResource ;
+    rdfs:label "Surge Surfer" ;
+    owl:sameAs base:Surge_Surfer .
+
+resource:Swarm a pokemon:AbilityResource ;
+    rdfs:label "Swarm" ;
+    owl:sameAs base:Swarm .
+
+resource:Sweet_Veil a pokemon:AbilityResource ;
+    rdfs:label "Sweet Veil" ;
+    owl:sameAs base:Sweet_Veil .
+
+resource:Swift_Swim a pokemon:AbilityResource ;
+    rdfs:label "Swift Swim" ;
+    owl:sameAs base:Swift_Swim .
+
+resource:Sword_of_Ruin a pokemon:AbilityResource ;
+    rdfs:label "Sword of Ruin" ;
+    owl:sameAs base:Sword_of_Ruin .
+
+resource:Symbiosis a pokemon:AbilityResource ;
+    rdfs:label "Symbiosis" ;
+    owl:sameAs base:Symbiosis .
+
+resource:Synchronize a pokemon:AbilityResource ;
+    rdfs:label "Synchronize" ;
+    owl:sameAs base:Synchronize .
+
+resource:Tablets_of_Ruin a pokemon:AbilityResource ;
+    rdfs:label "Tablets of Ruin" ;
+    owl:sameAs base:Tablets_of_Ruin .
+
+resource:Tangled_Feet a pokemon:AbilityResource ;
+    rdfs:label "Tangled Feet" ;
+    owl:sameAs base:Tangled_Feet .
+
+resource:Tangling_Hair a pokemon:AbilityResource ;
+    rdfs:label "Tangling Hair" ;
+    owl:sameAs base:Tangling_Hair .
+
+resource:Technician a pokemon:AbilityResource ;
+    rdfs:label "Technician" ;
+    owl:sameAs base:Technician .
+
+resource:Telepathy a pokemon:AbilityResource ;
+    rdfs:label "Telepathy" ;
+    owl:sameAs base:Telepathy .
+
+resource:Tera_Shell a pokemon:AbilityResource ;
+    rdfs:label "Tera Shell" ;
+    owl:sameAs base:Tera_Shell .
+
+resource:Tera_Shift a pokemon:AbilityResource ;
+    rdfs:label "Tera Shift" ;
+    owl:sameAs base:Tera_Shift .
+
+resource:Teraform_Zero a pokemon:AbilityResource ;
+    rdfs:label "Teraform Zero" ;
+    owl:sameAs base:Teraform_Zero .
+
+resource:Teravolt a pokemon:AbilityResource ;
+    rdfs:label "Teravolt" ;
+    owl:sameAs base:Teravolt .
+
+resource:Thermal_Exchange a pokemon:AbilityResource ;
+    rdfs:label "Thermal Exchange" ;
+    owl:sameAs base:Thermal_Exchange .
+
+resource:Thick_Fat a pokemon:AbilityResource ;
+    rdfs:label "Thick Fat" ;
+    owl:sameAs base:Thick_Fat .
+
+resource:Tinted_Lens a pokemon:AbilityResource ;
+    rdfs:label "Tinted Lens" ;
+    owl:sameAs base:Tinted_Lens .
+
+resource:Torrent a pokemon:AbilityResource ;
+    rdfs:label "Torrent" ;
+    owl:sameAs base:Torrent .
+
+resource:Tough_Claws a pokemon:AbilityResource ;
+    rdfs:label "Tough Claws" ;
+    owl:sameAs base:Tough_Claws .
+
+resource:Toxic_Boost a pokemon:AbilityResource ;
+    rdfs:label "Toxic Boost" ;
+    owl:sameAs base:Toxic_Boost .
+
+resource:Toxic_Chain a pokemon:AbilityResource ;
+    rdfs:label "Toxic Chain" ;
+    owl:sameAs base:Toxic_Chain .
+
+resource:Toxic_Debris a pokemon:AbilityResource ;
+    rdfs:label "Toxic Debris" ;
+    owl:sameAs base:Toxic_Debris .
+
+resource:Trace a pokemon:AbilityResource ;
+    rdfs:label "Trace" ;
+    owl:sameAs base:Trace .
+
+resource:Transistor a pokemon:AbilityResource ;
+    rdfs:label "Transistor" ;
+    owl:sameAs base:Transistor .
+
+resource:Triage a pokemon:AbilityResource ;
+    rdfs:label "Triage" ;
+    owl:sameAs base:Triage .
+
+resource:Truant a pokemon:AbilityResource ;
+    rdfs:label "Truant" ;
+    owl:sameAs base:Truant .
+
+resource:Turboblaze a pokemon:AbilityResource ;
+    rdfs:label "Turboblaze" ;
+    owl:sameAs base:Turboblaze .
+
+resource:Unaware a pokemon:AbilityResource ;
+    rdfs:label "Unaware" ;
+    owl:sameAs base:Unaware .
+
+resource:Unburden a pokemon:AbilityResource ;
+    rdfs:label "Unburden" ;
+    owl:sameAs base:Unburden .
+
+resource:Unnerve a pokemon:AbilityResource ;
+    rdfs:label "Unnerve" ;
+    owl:sameAs base:Unnerve .
+
+resource:Unseen_Fist a pokemon:AbilityResource ;
+    rdfs:label "Unseen Fist" ;
+    owl:sameAs base:Unseen_Fist .
+
+resource:Vessel_of_Ruin a pokemon:AbilityResource ;
+    rdfs:label "Vessel of Ruin" ;
+    owl:sameAs base:Vessel_of_Ruin .
+
+resource:Victory_Star a pokemon:AbilityResource ;
+    rdfs:label "Victory Star" ;
+    owl:sameAs base:Victory_Star .
+
+resource:Vital_Spirit a pokemon:AbilityResource ;
+    rdfs:label "Vital Spirit" ;
+    owl:sameAs base:Vital_Spirit .
+
+resource:Volt_Absorb a pokemon:AbilityResource ;
+    rdfs:label "Volt Absorb" ;
+    owl:sameAs base:Volt_Absorb .
+
+resource:Water_Absorb a pokemon:AbilityResource ;
+    rdfs:label "Water Absorb" ;
+    owl:sameAs base:Water_Absorb .
+
+resource:Water_Bubble a pokemon:AbilityResource ;
+    rdfs:label "Water Bubble" ;
+    owl:sameAs base:Water_Bubble .
+
+resource:Water_Compaction a pokemon:AbilityResource ;
+    rdfs:label "Water Compaction" ;
+    owl:sameAs base:Water_Compaction .
+
+resource:Water_Veil a pokemon:AbilityResource ;
+    rdfs:label "Water Veil" ;
+    owl:sameAs base:Water_Veil .
+
+resource:Weak_Armor a pokemon:AbilityResource ;
+    rdfs:label "Weak Armor" ;
+    owl:sameAs base:Weak_Armor .
+
+resource:Well_Baked_Body a pokemon:AbilityResource ;
+    rdfs:label "Well Baked Body" ;
+    owl:sameAs base:Well_Baked_Body .
+
+resource:White_Smoke a pokemon:AbilityResource ;
+    rdfs:label "White Smoke" ;
+    owl:sameAs base:White_Smoke .
+
+resource:Wimp_Out a pokemon:AbilityResource ;
+    rdfs:label "Wimp Out" ;
+    owl:sameAs base:Wimp_Out .
+
+resource:Wind_Power a pokemon:AbilityResource ;
+    rdfs:label "Wind Power" ;
+    owl:sameAs base:Wind_Power .
+
+resource:Wind_Rider a pokemon:AbilityResource ;
+    rdfs:label "Wind Rider" ;
+    owl:sameAs base:Wind_Rider .
+
+resource:Wonder_Guard a pokemon:AbilityResource ;
+    rdfs:label "Wonder Guard" ;
+    owl:sameAs base:Wonder_Guard .
+
+resource:Wonder_Skin a pokemon:AbilityResource ;
+    rdfs:label "Wonder Skin" ;
+    owl:sameAs base:Wonder_Skin .
+
+resource:Zen_Mode a pokemon:AbilityResource ;
+    rdfs:label "Zen Mode" ;
+    owl:sameAs base:Zen_Mode .
+
+resource:Zero_to_Hero a pokemon:AbilityResource ;
+    rdfs:label "Zero to Hero" ;
+    owl:sameAs base:Zero_to_Hero .
+

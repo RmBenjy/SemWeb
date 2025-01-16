@@ -1,0 +1,77 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix pokemon: <http://example.org/pokemon/> .
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+pokemon:AbilityShape
+    a sh:NodeShape ;
+    sh:targetClass pokemon:Ability ;
+    sh:property [
+        sh:path schema:name ;
+        sh:nodeKind sh:Literal ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:japaneseName ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:japaneseTransliteration ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:generation ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+        sh:minInclusive 1 ;  # Some abilities were introduced earlier than Gen 3
+        sh:maxInclusive 9 ;  # Current max generation
+    ] ;
+    sh:property [
+        sh:path pokemon:description ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:flavorText ;
+        sh:nodeKind sh:Literal ;
+    ] ;
+    # Optional properties for flavor text in different generations
+    sh:property [
+        sh:path pokemon:flavorText3 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:flavorText4 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:flavorText5 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:flavorText6 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:flavorText7 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:flavorText8 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:flavorText9 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] .

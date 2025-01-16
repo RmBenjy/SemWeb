@@ -1,0 +1,90 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema: <http://schema.org/> .
+@prefix pokemon: <http://example.org/pokemon/> .
+
+# Location Shape
+pokemon:LocationShape
+    a sh:NodeShape ;
+    sh:targetClass pokemon:Location ;
+    
+    # Required Properties
+    sh:property [
+        sh:path schema:name ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path pokemon:japaneseName ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path pokemon:translatedName ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path pokemon:locationType ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path pokemon:region ;
+        sh:nodeKind sh:IRI ;
+        sh:minCount 1 ;
+        sh:maxCount 3 ;  # Can have up to 3 regions
+    ] ;
+    
+    # Optional Properties
+    sh:property [
+        sh:path schema:description ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path pokemon:slogan ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path schema:image ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path pokemon:mapDescription ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path pokemon:locationArea ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path pokemon:generation ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    
+    sh:property [
+        sh:path pokemon:otherInfo ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] .

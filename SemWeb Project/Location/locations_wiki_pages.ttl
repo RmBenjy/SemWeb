@@ -1,0 +1,2996 @@
+@prefix base: <http://example.org/pokemon/locations/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix pokemon: <http://example.org/pokemon/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix resource: <http://example.org/pokemon/resource/locations/> .
+@prefix wiki: <https://bulbapedia.bulbagarden.net/wiki/> .
+
+wiki:Abandoned%20Ship_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Abandoned Ship (location)" ;
+    pokemon:describes resource:Abandoned_Ship ;
+    foaf:page wiki:Abandoned_Ship_\(location\) .
+
+wiki:Abundant%20Shrine_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Abundant Shrine (location)" ;
+    pokemon:describes resource:Abundant_Shrine ;
+    foaf:page wiki:Abundant_Shrine_\(location\) .
+
+wiki:Aether%20House_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Aether House (location)" ;
+    pokemon:describes resource:Aether_House ;
+    foaf:page wiki:Aether_House_\(location\) .
+
+wiki:Aether%20Paradise_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Aether Paradise (location)" ;
+    pokemon:describes resource:Aether_Paradise ;
+    foaf:page wiki:Aether_Paradise_\(location\) .
+
+wiki:Akala%20Outskirts_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Akala Outskirts (location)" ;
+    pokemon:describes resource:Akala_Outskirts ;
+    foaf:page wiki:Akala_Outskirts_\(location\) .
+
+wiki:Alfornada%20Cavern_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Alfornada Cavern (location)" ;
+    pokemon:describes resource:Alfornada_Cavern ;
+    foaf:page wiki:Alfornada_Cavern_\(location\) .
+
+wiki:Ancient%20Tomb_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ancient Tomb (location)" ;
+    pokemon:describes resource:Ancient_Tomb ;
+    foaf:page wiki:Ancient_Tomb_\(location\) .
+
+wiki:Apple%20Hills_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Apple Hills (location)" ;
+    pokemon:describes resource:Apple_Hills ;
+    foaf:page wiki:Apple_Hills_\(location\) .
+
+wiki:Area%20Zero%20Underdepths_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Area Zero Underdepths (location)" ;
+    pokemon:describes resource:Area_Zero_Underdepths ;
+    foaf:page wiki:Area_Zero_Underdepths_\(location\) .
+
+wiki:Area%20Zero_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Area Zero (location)" ;
+    pokemon:describes resource:Area_Zero ;
+    foaf:page wiki:Area_Zero_\(location\) .
+
+wiki:Artisan%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Artisan Cave (location)" ;
+    pokemon:describes resource:Artisan_Cave ;
+    foaf:page wiki:Artisan_Cave_\(location\) .
+
+wiki:Asado%20Desert_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Asado Desert (location)" ;
+    pokemon:describes resource:Asado_Desert ;
+    foaf:page wiki:Asado_Desert_\(location\) .
+
+wiki:Azalea%20Town_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Azalea Town (location)" ;
+    pokemon:describes resource:Azalea_Town ;
+    foaf:page wiki:Azalea_Town_\(location\) .
+
+wiki:Battle%20Agency_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Battle Agency (location)" ;
+    pokemon:describes resource:Battle_Agency ;
+    foaf:page wiki:Battle_Agency_\(location\) .
+
+wiki:Battle%20Chateau_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Battle Chateau (location)" ;
+    pokemon:describes resource:Battle_Chateau ;
+    foaf:page wiki:Battle_Chateau_\(location\) .
+
+wiki:Battle%20Maison_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Battle Maison (location)" ;
+    pokemon:describes resource:Battle_Maison ;
+    foaf:page wiki:Battle_Maison_\(location\) .
+
+wiki:Battle%20Resort_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Battle Resort (location)" ;
+    pokemon:describes resource:Battle_Resort ;
+    foaf:page wiki:Battle_Resort_\(location\) .
+
+wiki:Battle%20Royal%20Dome_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Battle Royal Dome (location)" ;
+    pokemon:describes resource:Battle_Royal_Dome ;
+    foaf:page wiki:Battle_Royal_Dome_\(location\) .
+
+wiki:Battle%20Subway_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Battle Subway (location)" ;
+    pokemon:describes resource:Battle_Subway ;
+    foaf:page wiki:Battle_Subway_\(location\) .
+
+wiki:Battle%20Tent_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Battle Tent (location)" ;
+    pokemon:describes resource:Battle_Tent ;
+    foaf:page wiki:Battle_Tent_\(location\) .
+
+wiki:Battle%20Tree_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Battle Tree (location)" ;
+    pokemon:describes resource:Battle_Tree ;
+    foaf:page wiki:Battle_Tree_\(location\) .
+
+wiki:Bell%20Tower_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Bell Tower (location)" ;
+    pokemon:describes resource:Bell_Tower ;
+    foaf:page wiki:Bell_Tower_\(location\) .
+
+wiki:Bellchime%20Trail_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Bellchime Trail (location)" ;
+    pokemon:describes resource:Bellchime_Trail ;
+    foaf:page wiki:Bellchime_Trail_\(location\) .
+
+wiki:Berry%20Forest_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Berry Forest (location)" ;
+    pokemon:describes resource:Berry_Forest ;
+    foaf:page wiki:Berry_Forest_\(location\) .
+
+wiki:Big%20Stadium%20and%20Small%20Court_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Big Stadium and Small Court (location)" ;
+    pokemon:describes resource:Big_Stadium_and_Small_Court ;
+    foaf:page wiki:Big_Stadium_and_Small_Court_\(location\) .
+
+wiki:Big%20Wave%20Beach_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Big Wave Beach (location)" ;
+    pokemon:describes resource:Big_Wave_Beach ;
+    foaf:page wiki:Big_Wave_Beach_\(location\) .
+
+wiki:Birth%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Birth Island (location)" ;
+    pokemon:describes resource:Birth_Island ;
+    foaf:page wiki:Birth_Island_\(location\) .
+
+wiki:Blueberry%20Academy_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Blueberry Academy (location)" ;
+    pokemon:describes resource:Blueberry_Academy ;
+    foaf:page wiki:Blueberry_Academy_\(location\) .
+
+wiki:Bond%20Bridge_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Bond Bridge (location)" ;
+    pokemon:describes resource:Bond_Bridge ;
+    foaf:page wiki:Bond_Bridge_\(location\) .
+
+wiki:Brawlers%20%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Brawlers  Cave (location)" ;
+    pokemon:describes resource:Brawlers__Cave ;
+    foaf:page wiki:Brawlers_Cave_\(location\) .
+
+wiki:Canyon%20Biome_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Canyon Biome (location)" ;
+    pokemon:describes resource:Canyon_Biome ;
+    foaf:page wiki:Canyon_Biome_\(location\) .
+
+wiki:Canyon%20Entrance_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Canyon Entrance (location)" ;
+    pokemon:describes resource:Canyon_Entrance ;
+    foaf:page wiki:Canyon_Entrance_\(location\) .
+
+wiki:Canyon%20Plaza_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Canyon Plaza (location)" ;
+    pokemon:describes resource:Canyon_Plaza ;
+    foaf:page wiki:Canyon_Plaza_\(location\) .
+
+wiki:Cape%20Brink_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Cape Brink (location)" ;
+    pokemon:describes resource:Cape_Brink ;
+    foaf:page wiki:Cape_Brink_\(location\) .
+
+wiki:Caph%20Squad%20s%20Base_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Caph Squad s Base (location)" ;
+    pokemon:describes resource:Caph_Squad_s_Base ;
+    foaf:page wiki:Caph_Squad_s_Base_\(location\) .
+
+wiki:Casseroya%20Lake_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Casseroya Lake (location)" ;
+    pokemon:describes resource:Casseroya_Lake ;
+    foaf:page wiki:Casseroya_Lake_\(location\) .
+
+wiki:Castelia%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Castelia City (location)" ;
+    pokemon:describes resource:Castelia_City ;
+    foaf:page wiki:Castelia_City_\(location\) .
+
+wiki:Cave%20of%20Origin_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Cave of Origin (location)" ;
+    pokemon:describes resource:Cave_of_Origin ;
+    foaf:page wiki:Cave_of_Origin_\(location\) .
+
+wiki:Celadon%20Condominiums_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Celadon Condominiums (location)" ;
+    pokemon:describes resource:Celadon_Condominiums ;
+    foaf:page wiki:Celadon_Condominiums_\(location\) .
+
+wiki:Celadon%20Department%20Store_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Celadon Department Store (location)" ;
+    pokemon:describes resource:Celadon_Department_Store ;
+    foaf:page wiki:Celadon_Department_Store_\(location\) .
+
+wiki:Celadon%20Game%20Corner_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Celadon Game Corner (location)" ;
+    pokemon:describes resource:Celadon_Game_Corner ;
+    foaf:page wiki:Celadon_Game_Corner_\(location\) .
+
+wiki:Celestial%20Tower_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Celestial Tower (location)" ;
+    pokemon:describes resource:Celestial_Tower ;
+    foaf:page wiki:Celestial_Tower_\(location\) .
+
+wiki:Celestica%20Trail_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Celestica Trail (location)" ;
+    pokemon:describes resource:Celestica_Trail ;
+    foaf:page wiki:Celestica_Trail_\(location\) .
+
+wiki:Central%20Plaza_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Central Plaza (location)" ;
+    pokemon:describes resource:Central_Plaza ;
+    foaf:page wiki:Central_Plaza_\(location\) .
+
+wiki:Cerulean%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Cerulean Cave (location)" ;
+    pokemon:describes resource:Cerulean_Cave ;
+    foaf:page wiki:Cerulean_Cave_\(location\) .
+
+wiki:Challenge%20Beach_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Challenge Beach (location)" ;
+    pokemon:describes resource:Challenge_Beach ;
+    foaf:page wiki:Challenge_Beach_\(location\) .
+
+wiki:Challenge%20Road_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Challenge Road (location)" ;
+    pokemon:describes resource:Challenge_Road ;
+    foaf:page wiki:Challenge_Road_\(location\) .
+
+wiki:Chargestone%20Cavern_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Chargestone Cavern (location)" ;
+    pokemon:describes resource:Chargestone_Cavern ;
+    foaf:page wiki:Chargestone_Cavern_\(location\) .
+
+wiki:Chilling%20Waterhead_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Chilling Waterhead (location)" ;
+    pokemon:describes resource:Chilling_Waterhead ;
+    foaf:page wiki:Chilling_Waterhead_\(location\) .
+
+wiki:Cinnabar%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Cinnabar Island (location)" ;
+    pokemon:describes resource:Cinnabar_Island ;
+    foaf:page wiki:Cinnabar_Island_\(location\) .
+
+wiki:Citadark%20Isle_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Citadark Isle (location)" ;
+    pokemon:describes resource:Citadark_Isle ;
+    foaf:page wiki:Citadark_Isle_\(location\) .
+
+wiki:Clay%20Tunnel_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Clay Tunnel (location)" ;
+    pokemon:describes resource:Clay_Tunnel ;
+    foaf:page wiki:Clay_Tunnel_\(location\) .
+
+wiki:Cliff%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Cliff Cave (location)" ;
+    pokemon:describes resource:Cliff_Cave ;
+    foaf:page wiki:Cliff_Cave_\(location\) .
+
+wiki:Cliff%20Edge%20Gate_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Cliff Edge Gate (location)" ;
+    pokemon:describes resource:Cliff_Edge_Gate ;
+    foaf:page wiki:Cliff_Edge_Gate_\(location\) .
+
+wiki:Coastal%20Biome_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Coastal Biome (location)" ;
+    pokemon:describes resource:Coastal_Biome ;
+    foaf:page wiki:Coastal_Biome_\(location\) .
+
+wiki:Coastal%20Plaza_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Coastal Plaza (location)" ;
+    pokemon:describes resource:Coastal_Plaza ;
+    foaf:page wiki:Coastal_Plaza_\(location\) .
+
+wiki:Colonnade%20Hollow_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Colonnade Hollow (location)" ;
+    pokemon:describes resource:Colonnade_Hollow ;
+    foaf:page wiki:Colonnade_Hollow_\(location\) .
+
+wiki:Connecting%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Connecting Cave (location)" ;
+    pokemon:describes resource:Connecting_Cave ;
+    foaf:page wiki:Connecting_Cave_\(location\) .
+
+wiki:Crown%20Tundra_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Crown Tundra (location)" ;
+    pokemon:describes resource:Crown_Tundra ;
+    foaf:page wiki:Crown_Tundra_\(location\) .
+
+wiki:Dalizapa%20Passage_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Dalizapa Passage (location)" ;
+    pokemon:describes resource:Dalizapa_Passage ;
+    foaf:page wiki:Dalizapa_Passage_\(location\) .
+
+wiki:Deadwood%20Haunt_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Deadwood Haunt (location)" ;
+    pokemon:describes resource:Deadwood_Haunt ;
+    foaf:page wiki:Deadwood_Haunt_\(location\) .
+
+wiki:Desert%20Resort_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Desert Resort (location)" ;
+    pokemon:describes resource:Desert_Resort ;
+    foaf:page wiki:Desert_Resort_\(location\) .
+
+wiki:Desert%20Ruins_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Desert Ruins (location)" ;
+    pokemon:describes resource:Desert_Ruins ;
+    foaf:page wiki:Desert_Ruins_\(location\) .
+
+wiki:Desert%20Underpass_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Desert Underpass (location)" ;
+    pokemon:describes resource:Desert_Underpass ;
+    foaf:page wiki:Desert_Underpass_\(location\) .
+
+wiki:Devon%20Corporation_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Devon Corporation (location)" ;
+    pokemon:describes resource:Devon_Corporation ;
+    foaf:page wiki:Devon_Corporation_\(location\) .
+
+wiki:Distortion%20World_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Distortion World (location)" ;
+    pokemon:describes resource:Distortion_World ;
+    foaf:page wiki:Distortion_World_\(location\) .
+
+wiki:Dividing%20Peak%20Tunnel_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Dividing Peak Tunnel (location)" ;
+    pokemon:describes resource:Dividing_Peak_Tunnel ;
+    foaf:page wiki:Dividing_Peak_Tunnel_\(location\) .
+
+wiki:Dotted%20Hole_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Dotted Hole (location)" ;
+    pokemon:describes resource:Dotted_Hole ;
+    foaf:page wiki:Dotted_Hole_\(location\) .
+
+wiki:Dragon%20s%20Den_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Dragon s Den (location)" ;
+    pokemon:describes resource:Dragon_s_Den ;
+    foaf:page wiki:Dragon_s_Den_\(location\) .
+
+wiki:Dreaded%20Den_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Dreaded Den (location)" ;
+    pokemon:describes resource:Dreaded_Den ;
+    foaf:page wiki:Dreaded_Den_\(location\) .
+
+wiki:East%20Province%20%20Area%20One%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "East Province  Area One  (location)" ;
+    pokemon:describes resource:East_Province__Area_One_ ;
+    foaf:page wiki:East_Province_Area_One_\(location\) .
+
+wiki:East%20Province%20%20Area%20Three%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "East Province  Area Three  (location)" ;
+    pokemon:describes resource:East_Province__Area_Three_ ;
+    foaf:page wiki:East_Province_Area_Three_\(location\) .
+
+wiki:East%20Province%20%20Area%20Two%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "East Province  Area Two  (location)" ;
+    pokemon:describes resource:East_Province__Area_Two_ ;
+    foaf:page wiki:East_Province_Area_Two_\(location\) .
+
+wiki:Embedded%20Tower_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Embedded Tower (location)" ;
+    pokemon:describes resource:Embedded_Tower ;
+    foaf:page wiki:Embedded_Tower_\(location\) .
+
+wiki:Energy%20Plant_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Energy Plant (location)" ;
+    pokemon:describes resource:Energy_Plant ;
+    foaf:page wiki:Energy_Plant_\(location\) .
+
+wiki:Entralink_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Entralink (location)" ;
+    pokemon:describes resource:Entralink ;
+    foaf:page wiki:Entralink_\(location\) .
+
+wiki:Eterna%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Eterna City (location)" ;
+    pokemon:describes resource:Eterna_City ;
+    foaf:page wiki:Eterna_City_\(location\) .
+
+wiki:Eterna%20Forest_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Eterna Forest (location)" ;
+    pokemon:describes resource:Eterna_Forest ;
+    foaf:page wiki:Eterna_Forest_\(location\) .
+
+wiki:Faraway%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Faraway Island (location)" ;
+    pokemon:describes resource:Faraway_Island ;
+    foaf:page wiki:Faraway_Island_\(location\) .
+
+wiki:Fellhorn%20Gorge_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Fellhorn Gorge (location)" ;
+    pokemon:describes resource:Fellhorn_Gorge ;
+    foaf:page wiki:Fellhorn_Gorge_\(location\) .
+
+wiki:Festival%20Plaza_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Festival Plaza (location)" ;
+    pokemon:describes resource:Festival_Plaza ;
+    foaf:page wiki:Festival_Plaza_\(location\) .
+
+wiki:Fields%20of%20Honor_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Fields of Honor (location)" ;
+    pokemon:describes resource:Fields_of_Honor ;
+    foaf:page wiki:Fields_of_Honor_\(location\) .
+
+wiki:Firespit%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Firespit Island (location)" ;
+    pokemon:describes resource:Firespit_Island ;
+    foaf:page wiki:Firespit_Island_\(location\) .
+
+wiki:Five%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Five Island (location)" ;
+    pokemon:describes resource:Five_Island ;
+    foaf:page wiki:Five_Island_\(location\) .
+
+wiki:Five%20Isle%20Meadow_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Five Isle Meadow (location)" ;
+    pokemon:describes resource:Five_Isle_Meadow ;
+    foaf:page wiki:Five_Isle_Meadow_\(location\) .
+
+wiki:Floaroma%20Meadow_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Floaroma Meadow (location)" ;
+    pokemon:describes resource:Floaroma_Meadow ;
+    foaf:page wiki:Floaroma_Meadow_\(location\) .
+
+wiki:Floccesy%20Ranch_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Floccesy Ranch (location)" ;
+    pokemon:describes resource:Floccesy_Ranch ;
+    foaf:page wiki:Floccesy_Ranch_\(location\) .
+
+wiki:Flower%20Paradise_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Flower Paradise (location)" ;
+    pokemon:describes resource:Flower_Paradise ;
+    foaf:page wiki:Flower_Paradise_\(location\) .
+
+wiki:Friend%20Safari_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Friend Safari (location)" ;
+    pokemon:describes resource:Friend_Safari ;
+    foaf:page wiki:Friend_Safari_\(location\) .
+
+wiki:Frost%20Cavern_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Frost Cavern (location)" ;
+    pokemon:describes resource:Frost_Cavern ;
+    foaf:page wiki:Frost_Cavern_\(location\) .
+
+wiki:Fullmoon%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Fullmoon Island (location)" ;
+    pokemon:describes resource:Fullmoon_Island ;
+    foaf:page wiki:Fullmoon_Island_\(location\) .
+
+wiki:GO%20Park_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "GO Park (location)" ;
+    pokemon:describes resource:GO_Park ;
+    foaf:page wiki:GO_Park_\(location\) .
+
+wiki:Geosenge%20Town_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Geosenge Town (location)" ;
+    pokemon:describes resource:Geosenge_Town ;
+    foaf:page wiki:Geosenge_Town_\(location\) .
+
+wiki:Giant%20Chasm_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Giant Chasm (location)" ;
+    pokemon:describes resource:Giant_Chasm ;
+    foaf:page wiki:Giant_Chasm_\(location\) .
+
+wiki:Giant%20s%20Bed_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Giant s Bed (location)" ;
+    pokemon:describes resource:Giant_s_Bed ;
+    foaf:page wiki:Giant_s_Bed_\(location\) .
+
+wiki:Glaseado%20Mountain_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Glaseado Mountain (location)" ;
+    pokemon:describes resource:Glaseado_Mountain ;
+    foaf:page wiki:Glaseado_Mountain_\(location\) .
+
+wiki:Glimwood%20Tangle_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Glimwood Tangle (location)" ;
+    pokemon:describes resource:Glimwood_Tangle ;
+    foaf:page wiki:Glimwood_Tangle_\(location\) .
+
+wiki:Glittering%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Glittering Cave (location)" ;
+    pokemon:describes resource:Glittering_Cave ;
+    foaf:page wiki:Glittering_Cave_\(location\) .
+
+wiki:Global%20Terminal_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Global Terminal (location)" ;
+    pokemon:describes resource:Global_Terminal ;
+    foaf:page wiki:Global_Terminal_\(location\) .
+
+wiki:Global%20Wonder%20Station_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Global Wonder Station (location)" ;
+    pokemon:describes resource:Global_Wonder_Station ;
+    foaf:page wiki:Global_Wonder_Station_\(location\) .
+
+wiki:Goldenrod%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Goldenrod City (location)" ;
+    pokemon:describes resource:Goldenrod_City ;
+    foaf:page wiki:Goldenrod_City_\(location\) .
+
+wiki:Goldenrod%20Department%20Store_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Goldenrod Department Store (location)" ;
+    pokemon:describes resource:Goldenrod_Department_Store ;
+    foaf:page wiki:Goldenrod_Department_Store_\(location\) .
+
+wiki:Goldenrod%20Game%20Corner_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Goldenrod Game Corner (location)" ;
+    pokemon:describes resource:Goldenrod_Game_Corner ;
+    foaf:page wiki:Goldenrod_Game_Corner_\(location\) .
+
+wiki:Goldenrod%20Tunnel_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Goldenrod Tunnel (location)" ;
+    pokemon:describes resource:Goldenrod_Tunnel ;
+    foaf:page wiki:Goldenrod_Tunnel_\(location\) .
+
+wiki:Great%20Marsh_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Great Marsh (location)" ;
+    pokemon:describes resource:Great_Marsh ;
+    foaf:page wiki:Great_Marsh_\(location\) .
+
+wiki:Green%20Path_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Green Path (location)" ;
+    pokemon:describes resource:Green_Path ;
+    foaf:page wiki:Green_Path_\(location\) .
+
+wiki:Haina%20Desert_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Haina Desert (location)" ;
+    pokemon:describes resource:Haina_Desert ;
+    foaf:page wiki:Haina_Desert_\(location\) .
+
+wiki:Hano%20Grand%20Resort_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Hano Grand Resort (location)" ;
+    pokemon:describes resource:Hano_Grand_Resort ;
+    foaf:page wiki:Hano_Grand_Resort_\(location\) .
+
+wiki:Heahea%20Beach_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Heahea Beach (location)" ;
+    pokemon:describes resource:Heahea_Beach ;
+    foaf:page wiki:Heahea_Beach_\(location\) .
+
+wiki:Hearthome%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Hearthome City (location)" ;
+    pokemon:describes resource:Hearthome_City ;
+    foaf:page wiki:Hearthome_City_\(location\) .
+
+wiki:Hotel%20Grand%20Lake_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Hotel Grand Lake (location)" ;
+    pokemon:describes resource:Hotel_Grand_Lake ;
+    foaf:page wiki:Hotel_Grand_Lake_\(location\) .
+
+wiki:Ice%20Path_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ice Path (location)" ;
+    pokemon:describes resource:Ice_Path ;
+    foaf:page wiki:Ice_Path_\(location\) .
+
+wiki:Icefall%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Icefall Cave (location)" ;
+    pokemon:describes resource:Icefall_Cave ;
+    foaf:page wiki:Icefall_Cave_\(location\) .
+
+wiki:Indigo%20Plateau_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Indigo Plateau (location)" ;
+    pokemon:describes resource:Indigo_Plateau ;
+    foaf:page wiki:Indigo_Plateau_\(location\) .
+
+wiki:Infernal%20Pass_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Infernal Pass (location)" ;
+    pokemon:describes resource:Infernal_Pass ;
+    foaf:page wiki:Infernal_Pass_\(location\) .
+
+wiki:Inlet%20Grotto_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Inlet Grotto (location)" ;
+    pokemon:describes resource:Inlet_Grotto ;
+    foaf:page wiki:Inlet_Grotto_\(location\) .
+
+wiki:Island%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Island Cave (location)" ;
+    pokemon:describes resource:Island_Cave ;
+    foaf:page wiki:Island_Cave_\(location\) .
+
+wiki:Isle%20of%20Armor_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Isle of Armor (location)" ;
+    pokemon:describes resource:Isle_of_Armor ;
+    foaf:page wiki:Isle_of_Armor_\(location\) .
+
+wiki:Jagged%20Pass_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Jagged Pass (location)" ;
+    pokemon:describes resource:Jagged_Pass ;
+    foaf:page wiki:Jagged_Pass_\(location\) .
+
+wiki:Join%20Avenue_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Join Avenue (location)" ;
+    pokemon:describes resource:Join_Avenue ;
+    foaf:page wiki:Join_Avenue_\(location\) .
+
+wiki:Joyful%20Game%20Corner_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Joyful Game Corner (location)" ;
+    pokemon:describes resource:Joyful_Game_Corner ;
+    foaf:page wiki:Joyful_Game_Corner_\(location\) .
+
+wiki:Jubilife%20TV_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Jubilife TV (location)" ;
+    pokemon:describes resource:Jubilife_TV ;
+    foaf:page wiki:Jubilife_TV_\(location\) .
+
+wiki:Jubilife%20Village_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Jubilife Village (location)" ;
+    pokemon:describes resource:Jubilife_Village ;
+    foaf:page wiki:Jubilife_Village_\(location\) .
+
+wiki:Kanto%20Route%2025_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Kanto Route 25 (location)" ;
+    pokemon:describes resource:Kanto_Route_25 ;
+    foaf:page wiki:Kanto_Route_25_\(location\) .
+
+wiki:Kantonian%20Gym_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Kantonian Gym (location)" ;
+    pokemon:describes resource:Kantonian_Gym ;
+    foaf:page wiki:Kantonian_Gym_\(location\) .
+
+wiki:Kindle%20Road_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Kindle Road (location)" ;
+    pokemon:describes resource:Kindle_Road ;
+    foaf:page wiki:Kindle_Road_\(location\) .
+
+wiki:Kitakami%20Hall_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Kitakami Hall (location)" ;
+    pokemon:describes resource:Kitakami_Hall ;
+    foaf:page wiki:Kitakami_Hall_\(location\) .
+
+wiki:Kitakami%20Road_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Kitakami Road (location)" ;
+    pokemon:describes resource:Kitakami_Road ;
+    foaf:page wiki:Kitakami_Road_\(location\) .
+
+wiki:Kitakami%20Wilds_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Kitakami Wilds (location)" ;
+    pokemon:describes resource:Kitakami_Wilds ;
+    foaf:page wiki:Kitakami_Wilds_\(location\) .
+
+wiki:Lake%20Valor_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Lake Valor (location)" ;
+    pokemon:describes resource:Lake_Valor ;
+    foaf:page wiki:Lake_Valor_\(location\) .
+
+wiki:Lavender%20Town_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Lavender Town (location)" ;
+    pokemon:describes resource:Lavender_Town ;
+    foaf:page wiki:Lavender_Town_\(location\) .
+
+wiki:Lilycove%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Lilycove City (location)" ;
+    pokemon:describes resource:Lilycove_City ;
+    foaf:page wiki:Lilycove_City_\(location\) .
+
+wiki:Lilycove%20Department%20Store_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Lilycove Department Store (location)" ;
+    pokemon:describes resource:Lilycove_Department_Store ;
+    foaf:page wiki:Lilycove_Department_Store_\(location\) .
+
+wiki:Lilycove%20Museum_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Lilycove Museum (location)" ;
+    pokemon:describes resource:Lilycove_Museum ;
+    foaf:page wiki:Lilycove_Museum_\(location\) .
+
+wiki:Lost%20Tower_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Lost Tower (location)" ;
+    pokemon:describes resource:Lost_Tower ;
+    foaf:page wiki:Lost_Tower_\(location\) .
+
+wiki:Loyalty%20Plaza_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Loyalty Plaza (location)" ;
+    pokemon:describes resource:Loyalty_Plaza ;
+    foaf:page wiki:Loyalty_Plaza_\(location\) .
+
+wiki:Lumiose%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Lumiose City (location)" ;
+    pokemon:describes resource:Lumiose_City ;
+    foaf:page wiki:Lumiose_City_\(location\) .
+
+wiki:Lush%20Jungle_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Lush Jungle (location)" ;
+    pokemon:describes resource:Lush_Jungle ;
+    foaf:page wiki:Lush_Jungle_\(location\) .
+
+wiki:Lysandre%20Labs_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Lysandre Labs (location)" ;
+    pokemon:describes resource:Lysandre_Labs ;
+    foaf:page wiki:Lysandre_Labs_\(location\) .
+
+wiki:Mahalo%20Trail_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mahalo Trail (location)" ;
+    pokemon:describes resource:Mahalo_Trail ;
+    foaf:page wiki:Mahalo_Trail_\(location\) .
+
+wiki:Malie%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Malie City (location)" ;
+    pokemon:describes resource:Malie_City ;
+    foaf:page wiki:Malie_City_\(location\) .
+
+wiki:Marine%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Marine Cave (location)" ;
+    pokemon:describes resource:Marine_Cave ;
+    foaf:page wiki:Marine_Cave_\(location\) .
+
+wiki:Marine%20Tube_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Marine Tube (location)" ;
+    pokemon:describes resource:Marine_Tube ;
+    foaf:page wiki:Marine_Tube_\(location\) .
+
+wiki:Marvelous%20Bridge_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Marvelous Bridge (location)" ;
+    pokemon:describes resource:Marvelous_Bridge ;
+    foaf:page wiki:Marvelous_Bridge_\(location\) .
+
+wiki:Mauville%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mauville City (location)" ;
+    pokemon:describes resource:Mauville_City ;
+    foaf:page wiki:Mauville_City_\(location\) .
+
+wiki:Memorial%20Hill_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Memorial Hill (location)" ;
+    pokemon:describes resource:Memorial_Hill ;
+    foaf:page wiki:Memorial_Hill_\(location\) .
+
+wiki:Memorial%20Pillar_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Memorial Pillar (location)" ;
+    pokemon:describes resource:Memorial_Pillar ;
+    foaf:page wiki:Memorial_Pillar_\(location\) .
+
+wiki:Meteor%20Falls_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Meteor Falls (location)" ;
+    pokemon:describes resource:Meteor_Falls ;
+    foaf:page wiki:Meteor_Falls_\(location\) .
+
+wiki:Mirage%20Tower_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mirage Tower (location)" ;
+    pokemon:describes resource:Mirage_Tower ;
+    foaf:page wiki:Mirage_Tower_\(location\) .
+
+wiki:Mossdeep%20Space%20Center_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mossdeep Space Center (location)" ;
+    pokemon:describes resource:Mossdeep_Space_Center ;
+    foaf:page wiki:Mossdeep_Space_Center_\(location\) .
+
+wiki:Mossfell%20Confluence_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mossfell Confluence (location)" ;
+    pokemon:describes resource:Mossfell_Confluence ;
+    foaf:page wiki:Mossfell_Confluence_\(location\) .
+
+wiki:Motostoke%20Outskirts_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Motostoke Outskirts (location)" ;
+    pokemon:describes resource:Motostoke_Outskirts ;
+    foaf:page wiki:Motostoke_Outskirts_\(location\) .
+
+wiki:Mount%20Hokulani_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mount Hokulani (location)" ;
+    pokemon:describes resource:Mount_Hokulani ;
+    foaf:page wiki:Mount_Hokulani_\(location\) .
+
+wiki:Mount%20Lanakila_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mount Lanakila (location)" ;
+    pokemon:describes resource:Mount_Lanakila ;
+    foaf:page wiki:Mount_Lanakila_\(location\) .
+
+wiki:Mt%20%20Battle_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mt  Battle (location)" ;
+    pokemon:describes resource:Mt__Battle ;
+    foaf:page wiki:Mt_Battle_\(location\) .
+
+wiki:Mt%20%20Chimney_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mt  Chimney (location)" ;
+    pokemon:describes resource:Mt__Chimney ;
+    foaf:page wiki:Mt_Chimney_\(location\) .
+
+wiki:Mt%20%20Coronet_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mt  Coronet (location)" ;
+    pokemon:describes resource:Mt__Coronet ;
+    foaf:page wiki:Mt_Coronet_\(location\) .
+
+wiki:Mt%20%20Ember_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mt  Ember (location)" ;
+    pokemon:describes resource:Mt__Ember ;
+    foaf:page wiki:Mt_Ember_\(location\) .
+
+wiki:Mt%20%20Moon%20Square_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mt  Moon Square (location)" ;
+    pokemon:describes resource:Mt__Moon_Square ;
+    foaf:page wiki:Mt_Moon_Square_\(location\) .
+
+wiki:Mt%20%20Moon_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mt  Moon (location)" ;
+    pokemon:describes resource:Mt__Moon ;
+    foaf:page wiki:Mt_Moon_\(location\) .
+
+wiki:Mt%20%20Mortar_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mt  Mortar (location)" ;
+    pokemon:describes resource:Mt__Mortar ;
+    foaf:page wiki:Mt_Mortar_\(location\) .
+
+wiki:Mt%20%20Pyre_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mt  Pyre (location)" ;
+    pokemon:describes resource:Mt__Pyre ;
+    foaf:page wiki:Mt_Pyre_\(location\) .
+
+wiki:Mt%20%20Silver%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mt  Silver Cave (location)" ;
+    pokemon:describes resource:Mt__Silver_Cave ;
+    foaf:page wiki:Mt_Silver_Cave_\(location\) .
+
+wiki:Mt%20%20Silver_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Mt  Silver (location)" ;
+    pokemon:describes resource:Mt__Silver ;
+    foaf:page wiki:Mt_Silver_\(location\) .
+
+wiki:Naranja%20Academy_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Naranja Academy (location)" ;
+    pokemon:describes resource:Naranja_Academy ;
+    foaf:page wiki:Naranja_Academy_\(location\) .
+
+wiki:National%20Park_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "National Park (location)" ;
+    pokemon:describes resource:National_Park ;
+    foaf:page wiki:National_Park_\(location\) .
+
+wiki:Navel%20Rock_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Navel Rock (location)" ;
+    pokemon:describes resource:Navel_Rock ;
+    foaf:page wiki:Navel_Rock_\(location\) .
+
+wiki:Navi%20Squad%20s%20Base_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Navi Squad s Base (location)" ;
+    pokemon:describes resource:Navi_Squad_s_Base ;
+    foaf:page wiki:Navi_Squad_s_Base_\(location\) .
+
+wiki:New%20Mauville_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "New Mauville (location)" ;
+    pokemon:describes resource:New_Mauville ;
+    foaf:page wiki:New_Mauville_\(location\) .
+
+wiki:Newmoon%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Newmoon Island (location)" ;
+    pokemon:describes resource:Newmoon_Island ;
+    foaf:page wiki:Newmoon_Island_\(location\) .
+
+wiki:North%20Province%20%20Area%20One%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "North Province  Area One  (location)" ;
+    pokemon:describes resource:North_Province__Area_One_ ;
+    foaf:page wiki:North_Province_Area_One_\(location\) .
+
+wiki:North%20Province%20%20Area%20Three%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "North Province  Area Three  (location)" ;
+    pokemon:describes resource:North_Province__Area_Three_ ;
+    foaf:page wiki:North_Province_Area_Three_\(location\) .
+
+wiki:North%20Province%20%20Area%20Two%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "North Province  Area Two  (location)" ;
+    pokemon:describes resource:North_Province__Area_Two_ ;
+    foaf:page wiki:North_Province_Area_Two_\(location\) .
+
+wiki:Oceanic%20Museum_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Oceanic Museum (location)" ;
+    pokemon:describes resource:Oceanic_Museum ;
+    foaf:page wiki:Oceanic_Museum_\(location\) .
+
+wiki:Olivine%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Olivine City (location)" ;
+    pokemon:describes resource:Olivine_City ;
+    foaf:page wiki:Olivine_City_\(location\) .
+
+wiki:Oni%20Mountain_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Oni Mountain (location)" ;
+    pokemon:describes resource:Oni_Mountain ;
+    foaf:page wiki:Oni_Mountain_\(location\) .
+
+wiki:Oni%20s%20Maw_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Oni s Maw (location)" ;
+    pokemon:describes resource:Oni_s_Maw ;
+    foaf:page wiki:Oni_s_Maw_\(location\) .
+
+wiki:Oreburgh%20Gate_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Oreburgh Gate (location)" ;
+    pokemon:describes resource:Oreburgh_Gate ;
+    foaf:page wiki:Oreburgh_Gate_\(location\) .
+
+wiki:Oreburgh%20Mine_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Oreburgh Mine (location)" ;
+    pokemon:describes resource:Oreburgh_Mine ;
+    foaf:page wiki:Oreburgh_Mine_\(location\) .
+
+wiki:Oreburgh%20Mining%20Museum_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Oreburgh Mining Museum (location)" ;
+    pokemon:describes resource:Oreburgh_Mining_Museum ;
+    foaf:page wiki:Oreburgh_Mining_Museum_\(location\) .
+
+wiki:Outcast%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Outcast Island (location)" ;
+    pokemon:describes resource:Outcast_Island ;
+    foaf:page wiki:Outcast_Island_\(location\) .
+
+wiki:P2%20Laboratory_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "P2 Laboratory (location)" ;
+    pokemon:describes resource:P2_Laboratory ;
+    foaf:page wiki:P2_Laboratory_\(location\) .
+
+wiki:Paradise%20Barrens_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Paradise Barrens (location)" ;
+    pokemon:describes resource:Paradise_Barrens ;
+    foaf:page wiki:Paradise_Barrens_\(location\) .
+
+wiki:Pattern%20Bush_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pattern Bush (location)" ;
+    pokemon:describes resource:Pattern_Bush ;
+    foaf:page wiki:Pattern_Bush_\(location\) .
+
+wiki:Petalburg%20Woods_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Petalburg Woods (location)" ;
+    pokemon:describes resource:Petalburg_Woods ;
+    foaf:page wiki:Petalburg_Woods_\(location\) .
+
+wiki:Pewter%20Museum%20of%20Science_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pewter Museum of Science (location)" ;
+    pokemon:describes resource:Pewter_Museum_of_Science ;
+    foaf:page wiki:Pewter_Museum_of_Science_\(location\) .
+
+wiki:Pick%20a%20Peck%20of%20Colors%20Flower%20Shop_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pick a Peck of Colors Flower Shop (location)" ;
+    pokemon:describes resource:Pick_a_Peck_of_Colors_Flower_Shop ;
+    foaf:page wiki:Pick_a_Peck_of_Colors_Flower_Shop_\(location\) .
+
+wiki:Plasma%20Frigate_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Plasma Frigate (location)" ;
+    pokemon:describes resource:Plasma_Frigate ;
+    foaf:page wiki:Plasma_Frigate_\(location\) .
+
+wiki:Pledge%20Grove_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pledge Grove (location)" ;
+    pokemon:describes resource:Pledge_Grove ;
+    foaf:page wiki:Pledge_Grove_\(location\) .
+
+wiki:Po%20Town_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Po Town (location)" ;
+    pokemon:describes resource:Po_Town ;
+    foaf:page wiki:Po_Town_\(location\) .
+
+wiki:Poco%20Path_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Poco Path (location)" ;
+    pokemon:describes resource:Poco_Path ;
+    foaf:page wiki:Poco_Path_\(location\) .
+
+wiki:Pok%C3%A9%20Ball%20Factory_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Poké Ball Factory (location)" ;
+    pokemon:describes resource:Pok%C3%A9_Ball_Factory ;
+    foaf:page wiki:Pok%C3%A9_Ball_Factory_\(location\) .
+
+wiki:Pok%C3%A9%20Pelago_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Poké Pelago (location)" ;
+    pokemon:describes resource:Pok%C3%A9_Pelago ;
+    foaf:page wiki:Pok%C3%A9_Pelago_\(location\) .
+
+wiki:Pok%C3%A9%20Transfer%20Lab_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Poké Transfer Lab (location)" ;
+    pokemon:describes resource:Pok%C3%A9_Transfer_Lab ;
+    foaf:page wiki:Pok%C3%A9_Transfer_Lab_\(location\) .
+
+wiki:Pok%C3%A9athlon%20Dome_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokéathlon Dome (location)" ;
+    pokemon:describes resource:Pok%C3%A9athlon_Dome ;
+    foaf:page wiki:Pok%C3%A9athlon_Dome_\(location\) .
+
+wiki:Pok%C3%A9mon%20Communication%20Center_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokémon Communication Center (location)" ;
+    pokemon:describes resource:Pok%C3%A9mon_Communication_Center ;
+    foaf:page wiki:Pok%C3%A9mon_Communication_Center_\(location\) .
+
+wiki:Pok%C3%A9mon%20League%20%20Alola%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokémon League  Alola  (location)" ;
+    pokemon:describes resource:Pok%C3%A9mon_League__Alola_ ;
+    foaf:page wiki:Pok%C3%A9mon_League_Alola_\(location\) .
+
+wiki:Pok%C3%A9mon%20League%20%20Kalos%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokémon League  Kalos  (location)" ;
+    pokemon:describes resource:Pok%C3%A9mon_League__Kalos_ ;
+    foaf:page wiki:Pok%C3%A9mon_League_Kalos_\(location\) .
+
+wiki:Pok%C3%A9mon%20League%20%20Paldea%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokémon League  Paldea  (location)" ;
+    pokemon:describes resource:Pok%C3%A9mon_League__Paldea_ ;
+    foaf:page wiki:Pok%C3%A9mon_League_Paldea_\(location\) .
+
+wiki:Pok%C3%A9mon%20League%20%20Sinnoh%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokémon League  Sinnoh  (location)" ;
+    pokemon:describes resource:Pok%C3%A9mon_League__Sinnoh_ ;
+    foaf:page wiki:Pok%C3%A9mon_League_Sinnoh_\(location\) .
+
+wiki:Pok%C3%A9mon%20League%20%20Unova%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokémon League  Unova  (location)" ;
+    pokemon:describes resource:Pok%C3%A9mon_League__Unova_ ;
+    foaf:page wiki:Pok%C3%A9mon_League_Unova_\(location\) .
+
+wiki:Pok%C3%A9mon%20League%20Reception%20Gate_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokémon League Reception Gate (location)" ;
+    pokemon:describes resource:Pok%C3%A9mon_League_Reception_Gate ;
+    foaf:page wiki:Pok%C3%A9mon_League_Reception_Gate_\(location\) .
+
+wiki:Pok%C3%A9mon%20Village_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokémon Village (location)" ;
+    pokemon:describes resource:Pok%C3%A9mon_Village ;
+    foaf:page wiki:Pok%C3%A9mon_Village_\(location\) .
+
+wiki:Pok%C3%A9mon%20World%20Tournament_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokémon World Tournament (location)" ;
+    pokemon:describes resource:Pok%C3%A9mon_World_Tournament ;
+    foaf:page wiki:Pok%C3%A9mon_World_Tournament_\(location\) .
+
+wiki:Pok%C3%A9star%20Studios_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokéstar Studios (location)" ;
+    pokemon:describes resource:Pok%C3%A9star_Studios ;
+    foaf:page wiki:Pok%C3%A9star_Studios_\(location\) .
+
+wiki:Pok%C3%A9tch%20Company_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pokétch Company (location)" ;
+    pokemon:describes resource:Pok%C3%A9tch_Company ;
+    foaf:page wiki:Pok%C3%A9tch_Company_\(location\) .
+
+wiki:Polar%20Biome_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Polar Biome (location)" ;
+    pokemon:describes resource:Polar_Biome ;
+    foaf:page wiki:Polar_Biome_\(location\) .
+
+wiki:Polar%20Plaza_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Polar Plaza (location)" ;
+    pokemon:describes resource:Polar_Plaza ;
+    foaf:page wiki:Polar_Plaza_\(location\) .
+
+wiki:Poni%20Beach_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Poni Beach (location)" ;
+    pokemon:describes resource:Poni_Beach ;
+    foaf:page wiki:Poni_Beach_\(location\) .
+
+wiki:Poni%20Breaker%20Coast_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Poni Breaker Coast (location)" ;
+    pokemon:describes resource:Poni_Breaker_Coast ;
+    foaf:page wiki:Poni_Breaker_Coast_\(location\) .
+
+wiki:Pretty%20Petal%20flower%20shop_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pretty Petal flower shop (location)" ;
+    pokemon:describes resource:Pretty_Petal_flower_shop ;
+    foaf:page wiki:Pretty_Petal_flower_shop_\(location\) .
+
+wiki:Pyrite%20Bldg_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pyrite Bldg (location)" ;
+    pokemon:describes resource:Pyrite_Bldg ;
+    foaf:page wiki:Pyrite_Bldg_\(location\) .
+
+wiki:Pyrite%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Pyrite Cave (location)" ;
+    pokemon:describes resource:Pyrite_Cave ;
+    foaf:page wiki:Pyrite_Cave_\(location\) .
+
+wiki:Ramanas%20Park_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ramanas Park (location)" ;
+    pokemon:describes resource:Ramanas_Park ;
+    foaf:page wiki:Ramanas_Park_\(location\) .
+
+wiki:Ravaged%20Path_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ravaged Path (location)" ;
+    pokemon:describes resource:Ravaged_Path ;
+    foaf:page wiki:Ravaged_Path_\(location\) .
+
+wiki:Realgam%20Tower_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Realgam Tower (location)" ;
+    pokemon:describes resource:Realgam_Tower ;
+    foaf:page wiki:Realgam_Tower_\(location\) .
+
+wiki:Reflection%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Reflection Cave (location)" ;
+    pokemon:describes resource:Reflection_Cave ;
+    foaf:page wiki:Reflection_Cave_\(location\) .
+
+wiki:Resolution%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Resolution Cave (location)" ;
+    pokemon:describes resource:Resolution_Cave ;
+    foaf:page wiki:Resolution_Cave_\(location\) .
+
+wiki:Resort%20Gorgeous_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Resort Gorgeous (location)" ;
+    pokemon:describes resource:Resort_Gorgeous ;
+    foaf:page wiki:Resort_Gorgeous_\(location\) .
+
+wiki:Reveler%20s%20Road_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Reveler s Road (location)" ;
+    pokemon:describes resource:Reveler_s_Road ;
+    foaf:page wiki:Reveler_s_Road_\(location\) .
+
+wiki:Reversal%20Mountain_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Reversal Mountain (location)" ;
+    pokemon:describes resource:Reversal_Mountain ;
+    foaf:page wiki:Reversal_Mountain_\(location\) .
+
+wiki:Ribbon%20Syndicate_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ribbon Syndicate (location)" ;
+    pokemon:describes resource:Ribbon_Syndicate ;
+    foaf:page wiki:Ribbon_Syndicate_\(location\) .
+
+wiki:Royal%20Avenue_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Royal Avenue (location)" ;
+    pokemon:describes resource:Royal_Avenue ;
+    foaf:page wiki:Royal_Avenue_\(location\) .
+
+wiki:Ruchbah%20Squad%20s%20Base_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ruchbah Squad s Base (location)" ;
+    pokemon:describes resource:Ruchbah_Squad_s_Base ;
+    foaf:page wiki:Ruchbah_Squad_s_Base_\(location\) .
+
+wiki:Ruin%20Valley_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ruin Valley (location)" ;
+    pokemon:describes resource:Ruin_Valley ;
+    foaf:page wiki:Ruin_Valley_\(location\) .
+
+wiki:Rustboro%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Rustboro City (location)" ;
+    pokemon:describes resource:Rustboro_City ;
+    foaf:page wiki:Rustboro_City_\(location\) .
+
+wiki:S%20S%20%20Anne_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "S S  Anne (location)" ;
+    pokemon:describes resource:S_S__Anne ;
+    foaf:page wiki:S_S_Anne_\(location\) .
+
+wiki:S%20S%20%20Tidal_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "S S  Tidal (location)" ;
+    pokemon:describes resource:S_S__Tidal ;
+    foaf:page wiki:S_S_Tidal_\(location\) .
+
+wiki:Safari%20Zone%20Gate_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Safari Zone Gate (location)" ;
+    pokemon:describes resource:Safari_Zone_Gate ;
+    foaf:page wiki:Safari_Zone_Gate_\(location\) .
+
+wiki:Santalune%20Forest_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Santalune Forest (location)" ;
+    pokemon:describes resource:Santalune_Forest ;
+    foaf:page wiki:Santalune_Forest_\(location\) .
+
+wiki:Savanna%20Biome_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Savanna Biome (location)" ;
+    pokemon:describes resource:Savanna_Biome ;
+    foaf:page wiki:Savanna_Biome_\(location\) .
+
+wiki:Savanna%20Plaza_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Savanna Plaza (location)" ;
+    pokemon:describes resource:Savanna_Plaza ;
+    foaf:page wiki:Savanna_Plaza_\(location\) .
+
+wiki:Schedar%20Squad%20s%20Base_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Schedar Squad s Base (location)" ;
+    pokemon:describes resource:Schedar_Squad_s_Base ;
+    foaf:page wiki:Schedar_Squad_s_Base_\(location\) .
+
+wiki:Scorched%20Slab_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Scorched Slab (location)" ;
+    pokemon:describes resource:Scorched_Slab ;
+    foaf:page wiki:Scorched_Slab_\(location\) .
+
+wiki:Sea%20Cottage_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Sea Cottage (location)" ;
+    pokemon:describes resource:Sea_Cottage ;
+    foaf:page wiki:Sea_Cottage_\(location\) .
+
+wiki:Sea%20Mauville_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Sea Mauville (location)" ;
+    pokemon:describes resource:Sea_Mauville ;
+    foaf:page wiki:Sea_Mauville_\(location\) .
+
+wiki:Sea%20Spirit%20s%20Den_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Sea Spirit s Den (location)" ;
+    pokemon:describes resource:Sea_Spirit_s_Den ;
+    foaf:page wiki:Sea_Spirit_s_Den_\(location\) .
+
+wiki:Seafloor%20Cavern_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Seafloor Cavern (location)" ;
+    pokemon:describes resource:Seafloor_Cavern ;
+    foaf:page wiki:Seafloor_Cavern_\(location\) .
+
+wiki:Seafoam%20Islands_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Seafoam Islands (location)" ;
+    pokemon:describes resource:Seafoam_Islands ;
+    foaf:page wiki:Seafoam_Islands_\(location\) .
+
+wiki:Sealed%20Chamber_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Sealed Chamber (location)" ;
+    pokemon:describes resource:Sealed_Chamber ;
+    foaf:page wiki:Sealed_Chamber_\(location\) .
+
+wiki:Seaside%20Cycling%20Road_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Seaside Cycling Road (location)" ;
+    pokemon:describes resource:Seaside_Cycling_Road ;
+    foaf:page wiki:Seaside_Cycling_Road_\(location\) .
+
+wiki:Secret%20Shore_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Secret Shore (location)" ;
+    pokemon:describes resource:Secret_Shore ;
+    foaf:page wiki:Secret_Shore_\(location\) .
+
+wiki:Segin%20Squad%20s%20Base_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Segin Squad s Base (location)" ;
+    pokemon:describes resource:Segin_Squad_s_Base ;
+    foaf:page wiki:Segin_Squad_s_Base_\(location\) .
+
+wiki:Sendoff%20Spring_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Sendoff Spring (location)" ;
+    pokemon:describes resource:Sendoff_Spring ;
+    foaf:page wiki:Sendoff_Spring_\(location\) .
+
+wiki:Sevault%20Canyon_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Sevault Canyon (location)" ;
+    pokemon:describes resource:Sevault_Canyon ;
+    foaf:page wiki:Sevault_Canyon_\(location\) .
+
+wiki:Seven%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Seven Island (location)" ;
+    pokemon:describes resource:Seven_Island ;
+    foaf:page wiki:Seven_Island_\(location\) .
+
+wiki:Shalour%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Shalour City (location)" ;
+    pokemon:describes resource:Shalour_City ;
+    foaf:page wiki:Shalour_City_\(location\) .
+
+wiki:Shopping%20Mall%20Nine_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Shopping Mall Nine (location)" ;
+    pokemon:describes resource:Shopping_Mall_Nine ;
+    foaf:page wiki:Shopping_Mall_Nine_\(location\) .
+
+wiki:Silph%20Co%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Silph Co  (location)" ;
+    pokemon:describes resource:Silph_Co_ ;
+    foaf:page wiki:Silph_Co_\(location\) .
+
+wiki:Sinjoh%20Ruins_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Sinjoh Ruins (location)" ;
+    pokemon:describes resource:Sinjoh_Ruins ;
+    foaf:page wiki:Sinjoh_Ruins_\(location\) .
+
+wiki:Six%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Six Island (location)" ;
+    pokemon:describes resource:Six_Island ;
+    foaf:page wiki:Six_Island_\(location\) .
+
+wiki:Sky%20Pillar_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Sky Pillar (location)" ;
+    pokemon:describes resource:Sky_Pillar ;
+    foaf:page wiki:Sky_Pillar_\(location\) .
+
+wiki:Slateport%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Slateport City (location)" ;
+    pokemon:describes resource:Slateport_City ;
+    foaf:page wiki:Slateport_City_\(location\) .
+
+wiki:Slippery%20Slope_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Slippery Slope (location)" ;
+    pokemon:describes resource:Slippery_Slope ;
+    foaf:page wiki:Slippery_Slope_\(location\) .
+
+wiki:Snowpoint%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Snowpoint City (location)" ;
+    pokemon:describes resource:Snowpoint_City ;
+    foaf:page wiki:Snowpoint_City_\(location\) .
+
+wiki:Snowslide%20Slope_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Snowslide Slope (location)" ;
+    pokemon:describes resource:Snowslide_Slope ;
+    foaf:page wiki:Snowslide_Slope_\(location\) .
+
+wiki:Socarrat%20Trail_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Socarrat Trail (location)" ;
+    pokemon:describes resource:Socarrat_Trail ;
+    foaf:page wiki:Socarrat_Trail_\(location\) .
+
+wiki:South%20Province%20%20Area%20Five%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "South Province  Area Five  (location)" ;
+    pokemon:describes resource:South_Province__Area_Five_ ;
+    foaf:page wiki:South_Province_Area_Five_\(location\) .
+
+wiki:South%20Province%20%20Area%20Four%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "South Province  Area Four  (location)" ;
+    pokemon:describes resource:South_Province__Area_Four_ ;
+    foaf:page wiki:South_Province_Area_Four_\(location\) .
+
+wiki:South%20Province%20%20Area%20One%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "South Province  Area One  (location)" ;
+    pokemon:describes resource:South_Province__Area_One_ ;
+    foaf:page wiki:South_Province_Area_One_\(location\) .
+
+wiki:South%20Province%20%20Area%20Six%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "South Province  Area Six  (location)" ;
+    pokemon:describes resource:South_Province__Area_Six_ ;
+    foaf:page wiki:South_Province_Area_Six_\(location\) .
+
+wiki:South%20Province%20%20Area%20Three%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "South Province  Area Three  (location)" ;
+    pokemon:describes resource:South_Province__Area_Three_ ;
+    foaf:page wiki:South_Province_Area_Three_\(location\) .
+
+wiki:South%20Province%20%20Area%20Two%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "South Province  Area Two  (location)" ;
+    pokemon:describes resource:South_Province__Area_Two_ ;
+    foaf:page wiki:South_Province_Area_Two_\(location\) .
+
+wiki:Southern%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Southern Island (location)" ;
+    pokemon:describes resource:Southern_Island ;
+    foaf:page wiki:Southern_Island_\(location\) .
+
+wiki:Spear%20Pillar_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Spear Pillar (location)" ;
+    pokemon:describes resource:Spear_Pillar ;
+    foaf:page wiki:Spear_Pillar_\(location\) .
+
+wiki:Spring%20Path_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Spring Path (location)" ;
+    pokemon:describes resource:Spring_Path ;
+    foaf:page wiki:Spring_Path_\(location\) .
+
+wiki:Tagtree%20Thicket_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Tagtree Thicket (location)" ;
+    pokemon:describes resource:Tagtree_Thicket ;
+    foaf:page wiki:Tagtree_Thicket_\(location\) .
+
+wiki:Tanoby%20Chambers_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Tanoby Chambers (location)" ;
+    pokemon:describes resource:Tanoby_Chambers ;
+    foaf:page wiki:Tanoby_Chambers_\(location\) .
+
+wiki:Tanoby%20Ruins_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Tanoby Ruins (location)" ;
+    pokemon:describes resource:Tanoby_Ruins ;
+    foaf:page wiki:Tanoby_Ruins_\(location\) .
+
+wiki:Team%20Aqua%20Hideout_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Team Aqua Hideout (location)" ;
+    pokemon:describes resource:Team_Aqua_Hideout ;
+    foaf:page wiki:Team_Aqua_Hideout_\(location\) .
+
+wiki:Team%20Rocket%20HQ_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Team Rocket HQ (location)" ;
+    pokemon:describes resource:Team_Rocket_HQ ;
+    foaf:page wiki:Team_Rocket_HQ_\(location\) .
+
+wiki:Team%20Rocket%20Hideout_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Team Rocket Hideout (location)" ;
+    pokemon:describes resource:Team_Rocket_Hideout ;
+    foaf:page wiki:Team_Rocket_Hideout_\(location\) .
+
+wiki:Ten%20Carat%20Hill_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ten Carat Hill (location)" ;
+    pokemon:describes resource:Ten_Carat_Hill ;
+    foaf:page wiki:Ten_Carat_Hill_\(location\) .
+
+wiki:Terarium_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Terarium (location)" ;
+    pokemon:describes resource:Terarium ;
+    foaf:page wiki:Terarium_\(location\) .
+
+wiki:Terra%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Terra Cave (location)" ;
+    pokemon:describes resource:Terra_Cave ;
+    foaf:page wiki:Terra_Cave_\(location\) .
+
+wiki:The%20Heartwood_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "The Heartwood (location)" ;
+    pokemon:describes resource:The_Heartwood ;
+    foaf:page wiki:The_Heartwood_\(location\) .
+
+wiki:Three%20Isle%20Port_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Three Isle Port (location)" ;
+    pokemon:describes resource:Three_Isle_Port ;
+    foaf:page wiki:Three_Isle_Port_\(location\) .
+
+wiki:Three%20Point%20Pass_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Three Point Pass (location)" ;
+    pokemon:describes resource:Three_Point_Pass ;
+    foaf:page wiki:Three_Point_Pass_\(location\) .
+
+wiki:Thrifty%20Megamart%20%20Abandoned%20Site%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Thrifty Megamart  Abandoned Site  (location)" ;
+    pokemon:describes resource:Thrifty_Megamart__Abandoned_Site_ ;
+    foaf:page wiki:Thrifty_Megamart_Abandoned_Site_\(location\) .
+
+wiki:Timeless%20Woods_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Timeless Woods (location)" ;
+    pokemon:describes resource:Timeless_Woods ;
+    foaf:page wiki:Timeless_Woods_\(location\) .
+
+wiki:Tohjo%20Falls_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Tohjo Falls (location)" ;
+    pokemon:describes resource:Tohjo_Falls ;
+    foaf:page wiki:Tohjo_Falls_\(location\) .
+
+wiki:Torchlit%20Labyrinth_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Torchlit Labyrinth (location)" ;
+    pokemon:describes resource:Torchlit_Labyrinth ;
+    foaf:page wiki:Torchlit_Labyrinth_\(location\) .
+
+wiki:Trainer%20Hill_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Trainer Hill (location)" ;
+    pokemon:describes resource:Trainer_Hill ;
+    foaf:page wiki:Trainer_Hill_\(location\) .
+
+wiki:Trainer%20Tower_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Trainer Tower (location)" ;
+    pokemon:describes resource:Trainer_Tower ;
+    foaf:page wiki:Trainer_Tower_\(location\) .
+
+wiki:Trainers%20%20School%20%20Alola%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Trainers  School  Alola  (location)" ;
+    pokemon:describes resource:Trainers__School__Alola_ ;
+    foaf:page wiki:Trainers_School_Alola_\(location\) .
+
+wiki:Trainers%20%20School%20%20Sinnoh%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Trainers  School  Sinnoh  (location)" ;
+    pokemon:describes resource:Trainers__School__Sinnoh_ ;
+    foaf:page wiki:Trainers_School_Sinnoh_\(location\) .
+
+wiki:Treasure%20Beach_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Treasure Beach (location)" ;
+    pokemon:describes resource:Treasure_Beach ;
+    foaf:page wiki:Treasure_Beach_\(location\) .
+
+wiki:Trick%20House_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Trick House (location)" ;
+    pokemon:describes resource:Trick_House ;
+    foaf:page wiki:Trick_House_\(location\) .
+
+wiki:Trophy%20Garden_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Trophy Garden (location)" ;
+    pokemon:describes resource:Trophy_Garden ;
+    foaf:page wiki:Trophy_Garden_\(location\) .
+
+wiki:Two%20Island_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Two Island (location)" ;
+    pokemon:describes resource:Two_Island ;
+    foaf:page wiki:Two_Island_\(location\) .
+
+wiki:Ultra%20Crater_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ultra Crater (location)" ;
+    pokemon:describes resource:Ultra_Crater ;
+    foaf:page wiki:Ultra_Crater_\(location\) .
+
+wiki:Ultra%20Deep%20Sea_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ultra Deep Sea (location)" ;
+    pokemon:describes resource:Ultra_Deep_Sea ;
+    foaf:page wiki:Ultra_Deep_Sea_\(location\) .
+
+wiki:Ultra%20Desert_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ultra Desert (location)" ;
+    pokemon:describes resource:Ultra_Desert ;
+    foaf:page wiki:Ultra_Desert_\(location\) .
+
+wiki:Ultra%20Forest_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ultra Forest (location)" ;
+    pokemon:describes resource:Ultra_Forest ;
+    foaf:page wiki:Ultra_Forest_\(location\) .
+
+wiki:Ultra%20Jungle_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ultra Jungle (location)" ;
+    pokemon:describes resource:Ultra_Jungle ;
+    foaf:page wiki:Ultra_Jungle_\(location\) .
+
+wiki:Ultra%20Megalopolis_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ultra Megalopolis (location)" ;
+    pokemon:describes resource:Ultra_Megalopolis ;
+    foaf:page wiki:Ultra_Megalopolis_\(location\) .
+
+wiki:Ultra%20Plant_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ultra Plant (location)" ;
+    pokemon:describes resource:Ultra_Plant ;
+    foaf:page wiki:Ultra_Plant_\(location\) .
+
+wiki:Ultra%20Ruin_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ultra Ruin (location)" ;
+    pokemon:describes resource:Ultra_Ruin ;
+    foaf:page wiki:Ultra_Ruin_\(location\) .
+
+wiki:Ultra%20Space%20Wilds_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Ultra Space Wilds (location)" ;
+    pokemon:describes resource:Ultra_Space_Wilds ;
+    foaf:page wiki:Ultra_Space_Wilds_\(location\) .
+
+wiki:Undella%20Bay_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Undella Bay (location)" ;
+    pokemon:describes resource:Undella_Bay ;
+    foaf:page wiki:Undella_Bay_\(location\) .
+
+wiki:Underground_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Underground (location)" ;
+    pokemon:describes resource:Underground ;
+    foaf:page wiki:Underground_\(location\) .
+
+wiki:Union%20Cave_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Union Cave (location)" ;
+    pokemon:describes resource:Union_Cave ;
+    foaf:page wiki:Union_Cave_\(location\) .
+
+wiki:Unity%20Tower_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Unity Tower (location)" ;
+    pokemon:describes resource:Unity_Tower ;
+    foaf:page wiki:Unity_Tower_\(location\) .
+
+wiki:Uva%20Academy_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Uva Academy (location)" ;
+    pokemon:describes resource:Uva_Academy ;
+    foaf:page wiki:Uva_Academy_\(location\) .
+
+wiki:Valley%20Windworks_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Valley Windworks (location)" ;
+    pokemon:describes resource:Valley_Windworks ;
+    foaf:page wiki:Valley_Windworks_\(location\) .
+
+wiki:Valor%20Lakefront_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Valor Lakefront (location)" ;
+    pokemon:describes resource:Valor_Lakefront ;
+    foaf:page wiki:Valor_Lakefront_\(location\) .
+
+wiki:Vast%20Poni%20Canyon_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Vast Poni Canyon (location)" ;
+    pokemon:describes resource:Vast_Poni_Canyon ;
+    foaf:page wiki:Vast_Poni_Canyon_\(location\) .
+
+wiki:Veilstone%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Veilstone City (location)" ;
+    pokemon:describes resource:Veilstone_City ;
+    foaf:page wiki:Veilstone_City_\(location\) .
+
+wiki:Veilstone%20Department%20Store_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Veilstone Department Store (location)" ;
+    pokemon:describes resource:Veilstone_Department_Store ;
+    foaf:page wiki:Veilstone_Department_Store_\(location\) .
+
+wiki:Veilstone%20Game%20Corner_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Veilstone Game Corner (location)" ;
+    pokemon:describes resource:Veilstone_Game_Corner ;
+    foaf:page wiki:Veilstone_Game_Corner_\(location\) .
+
+wiki:Verity%20Lakefront_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Verity Lakefront (location)" ;
+    pokemon:describes resource:Verity_Lakefront ;
+    foaf:page wiki:Verity_Lakefront_\(location\) .
+
+wiki:Victory%20Road%20%20Black%202%20and%20White%202%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Victory Road  Black 2 and White 2  (location)" ;
+    pokemon:describes resource:Victory_Road__Black_2_and_White_2_ ;
+    foaf:page wiki:Victory_Road_Black_2_and_White_2_\(location\) .
+
+wiki:Victory%20Road%20%20Black%20and%20White%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Victory Road  Black and White  (location)" ;
+    pokemon:describes resource:Victory_Road__Black_and_White_ ;
+    foaf:page wiki:Victory_Road_Black_and_White_\(location\) .
+
+wiki:Victory%20Road%20%20Hoenn%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Victory Road  Hoenn  (location)" ;
+    pokemon:describes resource:Victory_Road__Hoenn_ ;
+    foaf:page wiki:Victory_Road_Hoenn_\(location\) .
+
+wiki:Victory%20Road%20%20Kalos%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Victory Road  Kalos  (location)" ;
+    pokemon:describes resource:Victory_Road__Kalos_ ;
+    foaf:page wiki:Victory_Road_Kalos_\(location\) .
+
+wiki:Victory%20Road%20%20Kanto%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Victory Road  Kanto  (location)" ;
+    pokemon:describes resource:Victory_Road__Kanto_ ;
+    foaf:page wiki:Victory_Road_Kanto_\(location\) .
+
+wiki:Victory%20Road%20%20Sinnoh%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Victory Road  Sinnoh  (location)" ;
+    pokemon:describes resource:Victory_Road__Sinnoh_ ;
+    foaf:page wiki:Victory_Road_Sinnoh_\(location\) .
+
+wiki:Village%20Bridge_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Village Bridge (location)" ;
+    pokemon:describes resource:Village_Bridge ;
+    foaf:page wiki:Village_Bridge_\(location\) .
+
+wiki:Violet%20City_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Violet City (location)" ;
+    pokemon:describes resource:Violet_City ;
+    foaf:page wiki:Violet_City_\(location\) .
+
+wiki:Virbank%20Complex_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Virbank Complex (location)" ;
+    pokemon:describes resource:Virbank_Complex ;
+    foaf:page wiki:Virbank_Complex_\(location\) .
+
+wiki:Viridian%20Forest_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Viridian Forest (location)" ;
+    pokemon:describes resource:Viridian_Forest ;
+    foaf:page wiki:Viridian_Forest_\(location\) .
+
+wiki:Vista%20Lighthouse_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Vista Lighthouse (location)" ;
+    pokemon:describes resource:Vista_Lighthouse ;
+    foaf:page wiki:Vista_Lighthouse_\(location\) .
+
+wiki:Water%20Path_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Water Path (location)" ;
+    pokemon:describes resource:Water_Path ;
+    foaf:page wiki:Water_Path_\(location\) .
+
+wiki:Weather%20Institute_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Weather Institute (location)" ;
+    pokemon:describes resource:Weather_Institute ;
+    foaf:page wiki:Weather_Institute_\(location\) .
+
+wiki:West%20Province%20%20Area%20One%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "West Province  Area One  (location)" ;
+    pokemon:describes resource:West_Province__Area_One_ ;
+    foaf:page wiki:West_Province_Area_One_\(location\) .
+
+wiki:West%20Province%20%20Area%20Three%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "West Province  Area Three  (location)" ;
+    pokemon:describes resource:West_Province__Area_Three_ ;
+    foaf:page wiki:West_Province_Area_Three_\(location\) .
+
+wiki:West%20Province%20%20Area%20Two%20_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "West Province  Area Two  (location)" ;
+    pokemon:describes resource:West_Province__Area_Two_ ;
+    foaf:page wiki:West_Province_Area_Two_\(location\) .
+
+wiki:Whirl%20Islands_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Whirl Islands (location)" ;
+    pokemon:describes resource:Whirl_Islands ;
+    foaf:page wiki:Whirl_Islands_\(location\) .
+
+wiki:Wild%20Area_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Wild Area (location)" ;
+    pokemon:describes resource:Wild_Area ;
+    foaf:page wiki:Wild_Area_\(location\) .
+
+wiki:Wistful%20Fields_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Wistful Fields (location)" ;
+    pokemon:describes resource:Wistful_Fields ;
+    foaf:page wiki:Wistful_Fields_\(location\) .
+
+wiki:Zero%20Gate_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Zero Gate (location)" ;
+    pokemon:describes resource:Zero_Gate ;
+    foaf:page wiki:Zero_Gate_\(location\) .
+
+wiki:Zero%20Lab_%28location%29 a pokemon:WikiPage ;
+    rdfs:label "Zero Lab (location)" ;
+    pokemon:describes resource:Zero_Lab ;
+    foaf:page wiki:Zero_Lab_\(location\) .
+
+resource:Abandoned_Ship a pokemon:LocationResource ;
+    rdfs:label "Abandoned Ship" ;
+    owl:sameAs base:Abandoned_Ship .
+
+resource:Abundant_Shrine a pokemon:LocationResource ;
+    rdfs:label "Abundant Shrine" ;
+    owl:sameAs base:Abundant_Shrine .
+
+resource:Aether_House a pokemon:LocationResource ;
+    rdfs:label "Aether House" ;
+    owl:sameAs base:Aether_House .
+
+resource:Aether_Paradise a pokemon:LocationResource ;
+    rdfs:label "Aether Paradise" ;
+    owl:sameAs base:Aether_Paradise .
+
+resource:Akala_Outskirts a pokemon:LocationResource ;
+    rdfs:label "Akala Outskirts" ;
+    owl:sameAs base:Akala_Outskirts .
+
+resource:Alfornada_Cavern a pokemon:LocationResource ;
+    rdfs:label "Alfornada Cavern" ;
+    owl:sameAs base:Alfornada_Cavern .
+
+resource:Ancient_Tomb a pokemon:LocationResource ;
+    rdfs:label "Ancient Tomb" ;
+    owl:sameAs base:Ancient_Tomb .
+
+resource:Apple_Hills a pokemon:LocationResource ;
+    rdfs:label "Apple Hills" ;
+    owl:sameAs base:Apple_Hills .
+
+resource:Area_Zero a pokemon:LocationResource ;
+    rdfs:label "Area Zero" ;
+    owl:sameAs base:Area_Zero .
+
+resource:Area_Zero_Underdepths a pokemon:LocationResource ;
+    rdfs:label "Area Zero Underdepths" ;
+    owl:sameAs base:Area_Zero_Underdepths .
+
+resource:Artisan_Cave a pokemon:LocationResource ;
+    rdfs:label "Artisan Cave" ;
+    owl:sameAs base:Artisan_Cave .
+
+resource:Asado_Desert a pokemon:LocationResource ;
+    rdfs:label "Asado Desert" ;
+    owl:sameAs base:Asado_Desert .
+
+resource:Azalea_Town a pokemon:LocationResource ;
+    rdfs:label "Azalea Town" ;
+    owl:sameAs base:Azalea_Town .
+
+resource:Battle_Agency a pokemon:LocationResource ;
+    rdfs:label "Battle Agency" ;
+    owl:sameAs base:Battle_Agency .
+
+resource:Battle_Chateau a pokemon:LocationResource ;
+    rdfs:label "Battle Chateau" ;
+    owl:sameAs base:Battle_Chateau .
+
+resource:Battle_Maison a pokemon:LocationResource ;
+    rdfs:label "Battle Maison" ;
+    owl:sameAs base:Battle_Maison .
+
+resource:Battle_Resort a pokemon:LocationResource ;
+    rdfs:label "Battle Resort" ;
+    owl:sameAs base:Battle_Resort .
+
+resource:Battle_Royal_Dome a pokemon:LocationResource ;
+    rdfs:label "Battle Royal Dome" ;
+    owl:sameAs base:Battle_Royal_Dome .
+
+resource:Battle_Subway a pokemon:LocationResource ;
+    rdfs:label "Battle Subway" ;
+    owl:sameAs base:Battle_Subway .
+
+resource:Battle_Tent a pokemon:LocationResource ;
+    rdfs:label "Battle Tent" ;
+    owl:sameAs base:Battle_Tent .
+
+resource:Battle_Tree a pokemon:LocationResource ;
+    rdfs:label "Battle Tree" ;
+    owl:sameAs base:Battle_Tree .
+
+resource:Bell_Tower a pokemon:LocationResource ;
+    rdfs:label "Bell Tower" ;
+    owl:sameAs base:Bell_Tower .
+
+resource:Bellchime_Trail a pokemon:LocationResource ;
+    rdfs:label "Bellchime Trail" ;
+    owl:sameAs base:Bellchime_Trail .
+
+resource:Berry_Forest a pokemon:LocationResource ;
+    rdfs:label "Berry Forest" ;
+    owl:sameAs base:Berry_Forest .
+
+resource:Big_Stadium_and_Small_Court a pokemon:LocationResource ;
+    rdfs:label "Big Stadium and Small Court" ;
+    owl:sameAs base:Big_Stadium_and_Small_Court .
+
+resource:Big_Wave_Beach a pokemon:LocationResource ;
+    rdfs:label "Big Wave Beach" ;
+    owl:sameAs base:Big_Wave_Beach .
+
+resource:Birth_Island a pokemon:LocationResource ;
+    rdfs:label "Birth Island" ;
+    owl:sameAs base:Birth_Island .
+
+resource:Blueberry_Academy a pokemon:LocationResource ;
+    rdfs:label "Blueberry Academy" ;
+    owl:sameAs base:Blueberry_Academy .
+
+resource:Bond_Bridge a pokemon:LocationResource ;
+    rdfs:label "Bond Bridge" ;
+    owl:sameAs base:Bond_Bridge .
+
+resource:Brawlers__Cave a pokemon:LocationResource ;
+    rdfs:label "Brawlers  Cave" ;
+    owl:sameAs base:Brawlers__Cave .
+
+resource:Canyon_Biome a pokemon:LocationResource ;
+    rdfs:label "Canyon Biome" ;
+    owl:sameAs base:Canyon_Biome .
+
+resource:Canyon_Entrance a pokemon:LocationResource ;
+    rdfs:label "Canyon Entrance" ;
+    owl:sameAs base:Canyon_Entrance .
+
+resource:Canyon_Plaza a pokemon:LocationResource ;
+    rdfs:label "Canyon Plaza" ;
+    owl:sameAs base:Canyon_Plaza .
+
+resource:Cape_Brink a pokemon:LocationResource ;
+    rdfs:label "Cape Brink" ;
+    owl:sameAs base:Cape_Brink .
+
+resource:Caph_Squad_s_Base a pokemon:LocationResource ;
+    rdfs:label "Caph Squad s Base" ;
+    owl:sameAs base:Caph_Squad_s_Base .
+
+resource:Casseroya_Lake a pokemon:LocationResource ;
+    rdfs:label "Casseroya Lake" ;
+    owl:sameAs base:Casseroya_Lake .
+
+resource:Castelia_City a pokemon:LocationResource ;
+    rdfs:label "Castelia City" ;
+    owl:sameAs base:Castelia_City .
+
+resource:Cave_of_Origin a pokemon:LocationResource ;
+    rdfs:label "Cave of Origin" ;
+    owl:sameAs base:Cave_of_Origin .
+
+resource:Celadon_Condominiums a pokemon:LocationResource ;
+    rdfs:label "Celadon Condominiums" ;
+    owl:sameAs base:Celadon_Condominiums .
+
+resource:Celadon_Department_Store a pokemon:LocationResource ;
+    rdfs:label "Celadon Department Store" ;
+    owl:sameAs base:Celadon_Department_Store .
+
+resource:Celadon_Game_Corner a pokemon:LocationResource ;
+    rdfs:label "Celadon Game Corner" ;
+    owl:sameAs base:Celadon_Game_Corner .
+
+resource:Celestial_Tower a pokemon:LocationResource ;
+    rdfs:label "Celestial Tower" ;
+    owl:sameAs base:Celestial_Tower .
+
+resource:Celestica_Trail a pokemon:LocationResource ;
+    rdfs:label "Celestica Trail" ;
+    owl:sameAs base:Celestica_Trail .
+
+resource:Central_Plaza a pokemon:LocationResource ;
+    rdfs:label "Central Plaza" ;
+    owl:sameAs base:Central_Plaza .
+
+resource:Cerulean_Cave a pokemon:LocationResource ;
+    rdfs:label "Cerulean Cave" ;
+    owl:sameAs base:Cerulean_Cave .
+
+resource:Challenge_Beach a pokemon:LocationResource ;
+    rdfs:label "Challenge Beach" ;
+    owl:sameAs base:Challenge_Beach .
+
+resource:Challenge_Road a pokemon:LocationResource ;
+    rdfs:label "Challenge Road" ;
+    owl:sameAs base:Challenge_Road .
+
+resource:Chargestone_Cavern a pokemon:LocationResource ;
+    rdfs:label "Chargestone Cavern" ;
+    owl:sameAs base:Chargestone_Cavern .
+
+resource:Chilling_Waterhead a pokemon:LocationResource ;
+    rdfs:label "Chilling Waterhead" ;
+    owl:sameAs base:Chilling_Waterhead .
+
+resource:Cinnabar_Island a pokemon:LocationResource ;
+    rdfs:label "Cinnabar Island" ;
+    owl:sameAs base:Cinnabar_Island .
+
+resource:Citadark_Isle a pokemon:LocationResource ;
+    rdfs:label "Citadark Isle" ;
+    owl:sameAs base:Citadark_Isle .
+
+resource:Clay_Tunnel a pokemon:LocationResource ;
+    rdfs:label "Clay Tunnel" ;
+    owl:sameAs base:Clay_Tunnel .
+
+resource:Cliff_Cave a pokemon:LocationResource ;
+    rdfs:label "Cliff Cave" ;
+    owl:sameAs base:Cliff_Cave .
+
+resource:Cliff_Edge_Gate a pokemon:LocationResource ;
+    rdfs:label "Cliff Edge Gate" ;
+    owl:sameAs base:Cliff_Edge_Gate .
+
+resource:Coastal_Biome a pokemon:LocationResource ;
+    rdfs:label "Coastal Biome" ;
+    owl:sameAs base:Coastal_Biome .
+
+resource:Coastal_Plaza a pokemon:LocationResource ;
+    rdfs:label "Coastal Plaza" ;
+    owl:sameAs base:Coastal_Plaza .
+
+resource:Colonnade_Hollow a pokemon:LocationResource ;
+    rdfs:label "Colonnade Hollow" ;
+    owl:sameAs base:Colonnade_Hollow .
+
+resource:Connecting_Cave a pokemon:LocationResource ;
+    rdfs:label "Connecting Cave" ;
+    owl:sameAs base:Connecting_Cave .
+
+resource:Crown_Tundra a pokemon:LocationResource ;
+    rdfs:label "Crown Tundra" ;
+    owl:sameAs base:Crown_Tundra .
+
+resource:Dalizapa_Passage a pokemon:LocationResource ;
+    rdfs:label "Dalizapa Passage" ;
+    owl:sameAs base:Dalizapa_Passage .
+
+resource:Deadwood_Haunt a pokemon:LocationResource ;
+    rdfs:label "Deadwood Haunt" ;
+    owl:sameAs base:Deadwood_Haunt .
+
+resource:Desert_Resort a pokemon:LocationResource ;
+    rdfs:label "Desert Resort" ;
+    owl:sameAs base:Desert_Resort .
+
+resource:Desert_Ruins a pokemon:LocationResource ;
+    rdfs:label "Desert Ruins" ;
+    owl:sameAs base:Desert_Ruins .
+
+resource:Desert_Underpass a pokemon:LocationResource ;
+    rdfs:label "Desert Underpass" ;
+    owl:sameAs base:Desert_Underpass .
+
+resource:Devon_Corporation a pokemon:LocationResource ;
+    rdfs:label "Devon Corporation" ;
+    owl:sameAs base:Devon_Corporation .
+
+resource:Distortion_World a pokemon:LocationResource ;
+    rdfs:label "Distortion World" ;
+    owl:sameAs base:Distortion_World .
+
+resource:Dividing_Peak_Tunnel a pokemon:LocationResource ;
+    rdfs:label "Dividing Peak Tunnel" ;
+    owl:sameAs base:Dividing_Peak_Tunnel .
+
+resource:Dotted_Hole a pokemon:LocationResource ;
+    rdfs:label "Dotted Hole" ;
+    owl:sameAs base:Dotted_Hole .
+
+resource:Dragon_s_Den a pokemon:LocationResource ;
+    rdfs:label "Dragon s Den" ;
+    owl:sameAs base:Dragon_s_Den .
+
+resource:Dreaded_Den a pokemon:LocationResource ;
+    rdfs:label "Dreaded Den" ;
+    owl:sameAs base:Dreaded_Den .
+
+resource:East_Province__Area_One_ a pokemon:LocationResource ;
+    rdfs:label "East Province  Area One " ;
+    owl:sameAs base:East_Province__Area_One_ .
+
+resource:East_Province__Area_Three_ a pokemon:LocationResource ;
+    rdfs:label "East Province  Area Three " ;
+    owl:sameAs base:East_Province__Area_Three_ .
+
+resource:East_Province__Area_Two_ a pokemon:LocationResource ;
+    rdfs:label "East Province  Area Two " ;
+    owl:sameAs base:East_Province__Area_Two_ .
+
+resource:Embedded_Tower a pokemon:LocationResource ;
+    rdfs:label "Embedded Tower" ;
+    owl:sameAs base:Embedded_Tower .
+
+resource:Energy_Plant a pokemon:LocationResource ;
+    rdfs:label "Energy Plant" ;
+    owl:sameAs base:Energy_Plant .
+
+resource:Entralink a pokemon:LocationResource ;
+    rdfs:label "Entralink" ;
+    owl:sameAs base:Entralink .
+
+resource:Eterna_City a pokemon:LocationResource ;
+    rdfs:label "Eterna City" ;
+    owl:sameAs base:Eterna_City .
+
+resource:Eterna_Forest a pokemon:LocationResource ;
+    rdfs:label "Eterna Forest" ;
+    owl:sameAs base:Eterna_Forest .
+
+resource:Faraway_Island a pokemon:LocationResource ;
+    rdfs:label "Faraway Island" ;
+    owl:sameAs base:Faraway_Island .
+
+resource:Fellhorn_Gorge a pokemon:LocationResource ;
+    rdfs:label "Fellhorn Gorge" ;
+    owl:sameAs base:Fellhorn_Gorge .
+
+resource:Festival_Plaza a pokemon:LocationResource ;
+    rdfs:label "Festival Plaza" ;
+    owl:sameAs base:Festival_Plaza .
+
+resource:Fields_of_Honor a pokemon:LocationResource ;
+    rdfs:label "Fields of Honor" ;
+    owl:sameAs base:Fields_of_Honor .
+
+resource:Firespit_Island a pokemon:LocationResource ;
+    rdfs:label "Firespit Island" ;
+    owl:sameAs base:Firespit_Island .
+
+resource:Five_Island a pokemon:LocationResource ;
+    rdfs:label "Five Island" ;
+    owl:sameAs base:Five_Island .
+
+resource:Five_Isle_Meadow a pokemon:LocationResource ;
+    rdfs:label "Five Isle Meadow" ;
+    owl:sameAs base:Five_Isle_Meadow .
+
+resource:Floaroma_Meadow a pokemon:LocationResource ;
+    rdfs:label "Floaroma Meadow" ;
+    owl:sameAs base:Floaroma_Meadow .
+
+resource:Floccesy_Ranch a pokemon:LocationResource ;
+    rdfs:label "Floccesy Ranch" ;
+    owl:sameAs base:Floccesy_Ranch .
+
+resource:Flower_Paradise a pokemon:LocationResource ;
+    rdfs:label "Flower Paradise" ;
+    owl:sameAs base:Flower_Paradise .
+
+resource:Friend_Safari a pokemon:LocationResource ;
+    rdfs:label "Friend Safari" ;
+    owl:sameAs base:Friend_Safari .
+
+resource:Frost_Cavern a pokemon:LocationResource ;
+    rdfs:label "Frost Cavern" ;
+    owl:sameAs base:Frost_Cavern .
+
+resource:Fullmoon_Island a pokemon:LocationResource ;
+    rdfs:label "Fullmoon Island" ;
+    owl:sameAs base:Fullmoon_Island .
+
+resource:GO_Park a pokemon:LocationResource ;
+    rdfs:label "GO Park" ;
+    owl:sameAs base:GO_Park .
+
+resource:Geosenge_Town a pokemon:LocationResource ;
+    rdfs:label "Geosenge Town" ;
+    owl:sameAs base:Geosenge_Town .
+
+resource:Giant_Chasm a pokemon:LocationResource ;
+    rdfs:label "Giant Chasm" ;
+    owl:sameAs base:Giant_Chasm .
+
+resource:Giant_s_Bed a pokemon:LocationResource ;
+    rdfs:label "Giant s Bed" ;
+    owl:sameAs base:Giant_s_Bed .
+
+resource:Glaseado_Mountain a pokemon:LocationResource ;
+    rdfs:label "Glaseado Mountain" ;
+    owl:sameAs base:Glaseado_Mountain .
+
+resource:Glimwood_Tangle a pokemon:LocationResource ;
+    rdfs:label "Glimwood Tangle" ;
+    owl:sameAs base:Glimwood_Tangle .
+
+resource:Glittering_Cave a pokemon:LocationResource ;
+    rdfs:label "Glittering Cave" ;
+    owl:sameAs base:Glittering_Cave .
+
+resource:Global_Terminal a pokemon:LocationResource ;
+    rdfs:label "Global Terminal" ;
+    owl:sameAs base:Global_Terminal .
+
+resource:Global_Wonder_Station a pokemon:LocationResource ;
+    rdfs:label "Global Wonder Station" ;
+    owl:sameAs base:Global_Wonder_Station .
+
+resource:Goldenrod_City a pokemon:LocationResource ;
+    rdfs:label "Goldenrod City" ;
+    owl:sameAs base:Goldenrod_City .
+
+resource:Goldenrod_Department_Store a pokemon:LocationResource ;
+    rdfs:label "Goldenrod Department Store" ;
+    owl:sameAs base:Goldenrod_Department_Store .
+
+resource:Goldenrod_Game_Corner a pokemon:LocationResource ;
+    rdfs:label "Goldenrod Game Corner" ;
+    owl:sameAs base:Goldenrod_Game_Corner .
+
+resource:Goldenrod_Tunnel a pokemon:LocationResource ;
+    rdfs:label "Goldenrod Tunnel" ;
+    owl:sameAs base:Goldenrod_Tunnel .
+
+resource:Great_Marsh a pokemon:LocationResource ;
+    rdfs:label "Great Marsh" ;
+    owl:sameAs base:Great_Marsh .
+
+resource:Green_Path a pokemon:LocationResource ;
+    rdfs:label "Green Path" ;
+    owl:sameAs base:Green_Path .
+
+resource:Haina_Desert a pokemon:LocationResource ;
+    rdfs:label "Haina Desert" ;
+    owl:sameAs base:Haina_Desert .
+
+resource:Hano_Grand_Resort a pokemon:LocationResource ;
+    rdfs:label "Hano Grand Resort" ;
+    owl:sameAs base:Hano_Grand_Resort .
+
+resource:Heahea_Beach a pokemon:LocationResource ;
+    rdfs:label "Heahea Beach" ;
+    owl:sameAs base:Heahea_Beach .
+
+resource:Hearthome_City a pokemon:LocationResource ;
+    rdfs:label "Hearthome City" ;
+    owl:sameAs base:Hearthome_City .
+
+resource:Hotel_Grand_Lake a pokemon:LocationResource ;
+    rdfs:label "Hotel Grand Lake" ;
+    owl:sameAs base:Hotel_Grand_Lake .
+
+resource:Ice_Path a pokemon:LocationResource ;
+    rdfs:label "Ice Path" ;
+    owl:sameAs base:Ice_Path .
+
+resource:Icefall_Cave a pokemon:LocationResource ;
+    rdfs:label "Icefall Cave" ;
+    owl:sameAs base:Icefall_Cave .
+
+resource:Indigo_Plateau a pokemon:LocationResource ;
+    rdfs:label "Indigo Plateau" ;
+    owl:sameAs base:Indigo_Plateau .
+
+resource:Infernal_Pass a pokemon:LocationResource ;
+    rdfs:label "Infernal Pass" ;
+    owl:sameAs base:Infernal_Pass .
+
+resource:Inlet_Grotto a pokemon:LocationResource ;
+    rdfs:label "Inlet Grotto" ;
+    owl:sameAs base:Inlet_Grotto .
+
+resource:Island_Cave a pokemon:LocationResource ;
+    rdfs:label "Island Cave" ;
+    owl:sameAs base:Island_Cave .
+
+resource:Isle_of_Armor a pokemon:LocationResource ;
+    rdfs:label "Isle of Armor" ;
+    owl:sameAs base:Isle_of_Armor .
+
+resource:Jagged_Pass a pokemon:LocationResource ;
+    rdfs:label "Jagged Pass" ;
+    owl:sameAs base:Jagged_Pass .
+
+resource:Join_Avenue a pokemon:LocationResource ;
+    rdfs:label "Join Avenue" ;
+    owl:sameAs base:Join_Avenue .
+
+resource:Joyful_Game_Corner a pokemon:LocationResource ;
+    rdfs:label "Joyful Game Corner" ;
+    owl:sameAs base:Joyful_Game_Corner .
+
+resource:Jubilife_TV a pokemon:LocationResource ;
+    rdfs:label "Jubilife TV" ;
+    owl:sameAs base:Jubilife_TV .
+
+resource:Jubilife_Village a pokemon:LocationResource ;
+    rdfs:label "Jubilife Village" ;
+    owl:sameAs base:Jubilife_Village .
+
+resource:Kanto_Route_25 a pokemon:LocationResource ;
+    rdfs:label "Kanto Route 25" ;
+    owl:sameAs base:Kanto_Route_25 .
+
+resource:Kantonian_Gym a pokemon:LocationResource ;
+    rdfs:label "Kantonian Gym" ;
+    owl:sameAs base:Kantonian_Gym .
+
+resource:Kindle_Road a pokemon:LocationResource ;
+    rdfs:label "Kindle Road" ;
+    owl:sameAs base:Kindle_Road .
+
+resource:Kitakami_Hall a pokemon:LocationResource ;
+    rdfs:label "Kitakami Hall" ;
+    owl:sameAs base:Kitakami_Hall .
+
+resource:Kitakami_Road a pokemon:LocationResource ;
+    rdfs:label "Kitakami Road" ;
+    owl:sameAs base:Kitakami_Road .
+
+resource:Kitakami_Wilds a pokemon:LocationResource ;
+    rdfs:label "Kitakami Wilds" ;
+    owl:sameAs base:Kitakami_Wilds .
+
+resource:Lake_Valor a pokemon:LocationResource ;
+    rdfs:label "Lake Valor" ;
+    owl:sameAs base:Lake_Valor .
+
+resource:Lavender_Town a pokemon:LocationResource ;
+    rdfs:label "Lavender Town" ;
+    owl:sameAs base:Lavender_Town .
+
+resource:Lilycove_City a pokemon:LocationResource ;
+    rdfs:label "Lilycove City" ;
+    owl:sameAs base:Lilycove_City .
+
+resource:Lilycove_Department_Store a pokemon:LocationResource ;
+    rdfs:label "Lilycove Department Store" ;
+    owl:sameAs base:Lilycove_Department_Store .
+
+resource:Lilycove_Museum a pokemon:LocationResource ;
+    rdfs:label "Lilycove Museum" ;
+    owl:sameAs base:Lilycove_Museum .
+
+resource:Lost_Tower a pokemon:LocationResource ;
+    rdfs:label "Lost Tower" ;
+    owl:sameAs base:Lost_Tower .
+
+resource:Loyalty_Plaza a pokemon:LocationResource ;
+    rdfs:label "Loyalty Plaza" ;
+    owl:sameAs base:Loyalty_Plaza .
+
+resource:Lumiose_City a pokemon:LocationResource ;
+    rdfs:label "Lumiose City" ;
+    owl:sameAs base:Lumiose_City .
+
+resource:Lush_Jungle a pokemon:LocationResource ;
+    rdfs:label "Lush Jungle" ;
+    owl:sameAs base:Lush_Jungle .
+
+resource:Lysandre_Labs a pokemon:LocationResource ;
+    rdfs:label "Lysandre Labs" ;
+    owl:sameAs base:Lysandre_Labs .
+
+resource:Mahalo_Trail a pokemon:LocationResource ;
+    rdfs:label "Mahalo Trail" ;
+    owl:sameAs base:Mahalo_Trail .
+
+resource:Malie_City a pokemon:LocationResource ;
+    rdfs:label "Malie City" ;
+    owl:sameAs base:Malie_City .
+
+resource:Marine_Cave a pokemon:LocationResource ;
+    rdfs:label "Marine Cave" ;
+    owl:sameAs base:Marine_Cave .
+
+resource:Marine_Tube a pokemon:LocationResource ;
+    rdfs:label "Marine Tube" ;
+    owl:sameAs base:Marine_Tube .
+
+resource:Marvelous_Bridge a pokemon:LocationResource ;
+    rdfs:label "Marvelous Bridge" ;
+    owl:sameAs base:Marvelous_Bridge .
+
+resource:Mauville_City a pokemon:LocationResource ;
+    rdfs:label "Mauville City" ;
+    owl:sameAs base:Mauville_City .
+
+resource:Memorial_Hill a pokemon:LocationResource ;
+    rdfs:label "Memorial Hill" ;
+    owl:sameAs base:Memorial_Hill .
+
+resource:Memorial_Pillar a pokemon:LocationResource ;
+    rdfs:label "Memorial Pillar" ;
+    owl:sameAs base:Memorial_Pillar .
+
+resource:Meteor_Falls a pokemon:LocationResource ;
+    rdfs:label "Meteor Falls" ;
+    owl:sameAs base:Meteor_Falls .
+
+resource:Mirage_Tower a pokemon:LocationResource ;
+    rdfs:label "Mirage Tower" ;
+    owl:sameAs base:Mirage_Tower .
+
+resource:Mossdeep_Space_Center a pokemon:LocationResource ;
+    rdfs:label "Mossdeep Space Center" ;
+    owl:sameAs base:Mossdeep_Space_Center .
+
+resource:Mossfell_Confluence a pokemon:LocationResource ;
+    rdfs:label "Mossfell Confluence" ;
+    owl:sameAs base:Mossfell_Confluence .
+
+resource:Motostoke_Outskirts a pokemon:LocationResource ;
+    rdfs:label "Motostoke Outskirts" ;
+    owl:sameAs base:Motostoke_Outskirts .
+
+resource:Mount_Hokulani a pokemon:LocationResource ;
+    rdfs:label "Mount Hokulani" ;
+    owl:sameAs base:Mount_Hokulani .
+
+resource:Mount_Lanakila a pokemon:LocationResource ;
+    rdfs:label "Mount Lanakila" ;
+    owl:sameAs base:Mount_Lanakila .
+
+resource:Mt__Battle a pokemon:LocationResource ;
+    rdfs:label "Mt  Battle" ;
+    owl:sameAs base:Mt__Battle .
+
+resource:Mt__Chimney a pokemon:LocationResource ;
+    rdfs:label "Mt  Chimney" ;
+    owl:sameAs base:Mt__Chimney .
+
+resource:Mt__Coronet a pokemon:LocationResource ;
+    rdfs:label "Mt  Coronet" ;
+    owl:sameAs base:Mt__Coronet .
+
+resource:Mt__Ember a pokemon:LocationResource ;
+    rdfs:label "Mt  Ember" ;
+    owl:sameAs base:Mt__Ember .
+
+resource:Mt__Moon a pokemon:LocationResource ;
+    rdfs:label "Mt  Moon" ;
+    owl:sameAs base:Mt__Moon .
+
+resource:Mt__Moon_Square a pokemon:LocationResource ;
+    rdfs:label "Mt  Moon Square" ;
+    owl:sameAs base:Mt__Moon_Square .
+
+resource:Mt__Mortar a pokemon:LocationResource ;
+    rdfs:label "Mt  Mortar" ;
+    owl:sameAs base:Mt__Mortar .
+
+resource:Mt__Pyre a pokemon:LocationResource ;
+    rdfs:label "Mt  Pyre" ;
+    owl:sameAs base:Mt__Pyre .
+
+resource:Mt__Silver a pokemon:LocationResource ;
+    rdfs:label "Mt  Silver" ;
+    owl:sameAs base:Mt__Silver .
+
+resource:Mt__Silver_Cave a pokemon:LocationResource ;
+    rdfs:label "Mt  Silver Cave" ;
+    owl:sameAs base:Mt__Silver_Cave .
+
+resource:Naranja_Academy a pokemon:LocationResource ;
+    rdfs:label "Naranja Academy" ;
+    owl:sameAs base:Naranja_Academy .
+
+resource:National_Park a pokemon:LocationResource ;
+    rdfs:label "National Park" ;
+    owl:sameAs base:National_Park .
+
+resource:Navel_Rock a pokemon:LocationResource ;
+    rdfs:label "Navel Rock" ;
+    owl:sameAs base:Navel_Rock .
+
+resource:Navi_Squad_s_Base a pokemon:LocationResource ;
+    rdfs:label "Navi Squad s Base" ;
+    owl:sameAs base:Navi_Squad_s_Base .
+
+resource:New_Mauville a pokemon:LocationResource ;
+    rdfs:label "New Mauville" ;
+    owl:sameAs base:New_Mauville .
+
+resource:Newmoon_Island a pokemon:LocationResource ;
+    rdfs:label "Newmoon Island" ;
+    owl:sameAs base:Newmoon_Island .
+
+resource:North_Province__Area_One_ a pokemon:LocationResource ;
+    rdfs:label "North Province  Area One " ;
+    owl:sameAs base:North_Province__Area_One_ .
+
+resource:North_Province__Area_Three_ a pokemon:LocationResource ;
+    rdfs:label "North Province  Area Three " ;
+    owl:sameAs base:North_Province__Area_Three_ .
+
+resource:North_Province__Area_Two_ a pokemon:LocationResource ;
+    rdfs:label "North Province  Area Two " ;
+    owl:sameAs base:North_Province__Area_Two_ .
+
+resource:Oceanic_Museum a pokemon:LocationResource ;
+    rdfs:label "Oceanic Museum" ;
+    owl:sameAs base:Oceanic_Museum .
+
+resource:Olivine_City a pokemon:LocationResource ;
+    rdfs:label "Olivine City" ;
+    owl:sameAs base:Olivine_City .
+
+resource:Oni_Mountain a pokemon:LocationResource ;
+    rdfs:label "Oni Mountain" ;
+    owl:sameAs base:Oni_Mountain .
+
+resource:Oni_s_Maw a pokemon:LocationResource ;
+    rdfs:label "Oni s Maw" ;
+    owl:sameAs base:Oni_s_Maw .
+
+resource:Oreburgh_Gate a pokemon:LocationResource ;
+    rdfs:label "Oreburgh Gate" ;
+    owl:sameAs base:Oreburgh_Gate .
+
+resource:Oreburgh_Mine a pokemon:LocationResource ;
+    rdfs:label "Oreburgh Mine" ;
+    owl:sameAs base:Oreburgh_Mine .
+
+resource:Oreburgh_Mining_Museum a pokemon:LocationResource ;
+    rdfs:label "Oreburgh Mining Museum" ;
+    owl:sameAs base:Oreburgh_Mining_Museum .
+
+resource:Outcast_Island a pokemon:LocationResource ;
+    rdfs:label "Outcast Island" ;
+    owl:sameAs base:Outcast_Island .
+
+resource:P2_Laboratory a pokemon:LocationResource ;
+    rdfs:label "P2 Laboratory" ;
+    owl:sameAs base:P2_Laboratory .
+
+resource:Paradise_Barrens a pokemon:LocationResource ;
+    rdfs:label "Paradise Barrens" ;
+    owl:sameAs base:Paradise_Barrens .
+
+resource:Pattern_Bush a pokemon:LocationResource ;
+    rdfs:label "Pattern Bush" ;
+    owl:sameAs base:Pattern_Bush .
+
+resource:Petalburg_Woods a pokemon:LocationResource ;
+    rdfs:label "Petalburg Woods" ;
+    owl:sameAs base:Petalburg_Woods .
+
+resource:Pewter_Museum_of_Science a pokemon:LocationResource ;
+    rdfs:label "Pewter Museum of Science" ;
+    owl:sameAs base:Pewter_Museum_of_Science .
+
+resource:Pick_a_Peck_of_Colors_Flower_Shop a pokemon:LocationResource ;
+    rdfs:label "Pick a Peck of Colors Flower Shop" ;
+    owl:sameAs base:Pick_a_Peck_of_Colors_Flower_Shop .
+
+resource:Plasma_Frigate a pokemon:LocationResource ;
+    rdfs:label "Plasma Frigate" ;
+    owl:sameAs base:Plasma_Frigate .
+
+resource:Pledge_Grove a pokemon:LocationResource ;
+    rdfs:label "Pledge Grove" ;
+    owl:sameAs base:Pledge_Grove .
+
+resource:Po_Town a pokemon:LocationResource ;
+    rdfs:label "Po Town" ;
+    owl:sameAs base:Po_Town .
+
+resource:Poco_Path a pokemon:LocationResource ;
+    rdfs:label "Poco Path" ;
+    owl:sameAs base:Poco_Path .
+
+resource:Pok%C3%A9_Ball_Factory a pokemon:LocationResource ;
+    rdfs:label "Poké Ball Factory" ;
+    owl:sameAs base:Pok%C3%A9_Ball_Factory .
+
+resource:Pok%C3%A9_Pelago a pokemon:LocationResource ;
+    rdfs:label "Poké Pelago" ;
+    owl:sameAs base:Pok%C3%A9_Pelago .
+
+resource:Pok%C3%A9_Transfer_Lab a pokemon:LocationResource ;
+    rdfs:label "Poké Transfer Lab" ;
+    owl:sameAs base:Pok%C3%A9_Transfer_Lab .
+
+resource:Pok%C3%A9athlon_Dome a pokemon:LocationResource ;
+    rdfs:label "Pokéathlon Dome" ;
+    owl:sameAs base:Pok%C3%A9athlon_Dome .
+
+resource:Pok%C3%A9mon_Communication_Center a pokemon:LocationResource ;
+    rdfs:label "Pokémon Communication Center" ;
+    owl:sameAs base:Pok%C3%A9mon_Communication_Center .
+
+resource:Pok%C3%A9mon_League_Reception_Gate a pokemon:LocationResource ;
+    rdfs:label "Pokémon League Reception Gate" ;
+    owl:sameAs base:Pok%C3%A9mon_League_Reception_Gate .
+
+resource:Pok%C3%A9mon_League__Alola_ a pokemon:LocationResource ;
+    rdfs:label "Pokémon League  Alola " ;
+    owl:sameAs base:Pok%C3%A9mon_League__Alola_ .
+
+resource:Pok%C3%A9mon_League__Kalos_ a pokemon:LocationResource ;
+    rdfs:label "Pokémon League  Kalos " ;
+    owl:sameAs base:Pok%C3%A9mon_League__Kalos_ .
+
+resource:Pok%C3%A9mon_League__Paldea_ a pokemon:LocationResource ;
+    rdfs:label "Pokémon League  Paldea " ;
+    owl:sameAs base:Pok%C3%A9mon_League__Paldea_ .
+
+resource:Pok%C3%A9mon_League__Sinnoh_ a pokemon:LocationResource ;
+    rdfs:label "Pokémon League  Sinnoh " ;
+    owl:sameAs base:Pok%C3%A9mon_League__Sinnoh_ .
+
+resource:Pok%C3%A9mon_League__Unova_ a pokemon:LocationResource ;
+    rdfs:label "Pokémon League  Unova " ;
+    owl:sameAs base:Pok%C3%A9mon_League__Unova_ .
+
+resource:Pok%C3%A9mon_Village a pokemon:LocationResource ;
+    rdfs:label "Pokémon Village" ;
+    owl:sameAs base:Pok%C3%A9mon_Village .
+
+resource:Pok%C3%A9mon_World_Tournament a pokemon:LocationResource ;
+    rdfs:label "Pokémon World Tournament" ;
+    owl:sameAs base:Pok%C3%A9mon_World_Tournament .
+
+resource:Pok%C3%A9star_Studios a pokemon:LocationResource ;
+    rdfs:label "Pokéstar Studios" ;
+    owl:sameAs base:Pok%C3%A9star_Studios .
+
+resource:Pok%C3%A9tch_Company a pokemon:LocationResource ;
+    rdfs:label "Pokétch Company" ;
+    owl:sameAs base:Pok%C3%A9tch_Company .
+
+resource:Polar_Biome a pokemon:LocationResource ;
+    rdfs:label "Polar Biome" ;
+    owl:sameAs base:Polar_Biome .
+
+resource:Polar_Plaza a pokemon:LocationResource ;
+    rdfs:label "Polar Plaza" ;
+    owl:sameAs base:Polar_Plaza .
+
+resource:Poni_Beach a pokemon:LocationResource ;
+    rdfs:label "Poni Beach" ;
+    owl:sameAs base:Poni_Beach .
+
+resource:Poni_Breaker_Coast a pokemon:LocationResource ;
+    rdfs:label "Poni Breaker Coast" ;
+    owl:sameAs base:Poni_Breaker_Coast .
+
+resource:Pretty_Petal_flower_shop a pokemon:LocationResource ;
+    rdfs:label "Pretty Petal flower shop" ;
+    owl:sameAs base:Pretty_Petal_flower_shop .
+
+resource:Pyrite_Bldg a pokemon:LocationResource ;
+    rdfs:label "Pyrite Bldg" ;
+    owl:sameAs base:Pyrite_Bldg .
+
+resource:Pyrite_Cave a pokemon:LocationResource ;
+    rdfs:label "Pyrite Cave" ;
+    owl:sameAs base:Pyrite_Cave .
+
+resource:Ramanas_Park a pokemon:LocationResource ;
+    rdfs:label "Ramanas Park" ;
+    owl:sameAs base:Ramanas_Park .
+
+resource:Ravaged_Path a pokemon:LocationResource ;
+    rdfs:label "Ravaged Path" ;
+    owl:sameAs base:Ravaged_Path .
+
+resource:Realgam_Tower a pokemon:LocationResource ;
+    rdfs:label "Realgam Tower" ;
+    owl:sameAs base:Realgam_Tower .
+
+resource:Reflection_Cave a pokemon:LocationResource ;
+    rdfs:label "Reflection Cave" ;
+    owl:sameAs base:Reflection_Cave .
+
+resource:Resolution_Cave a pokemon:LocationResource ;
+    rdfs:label "Resolution Cave" ;
+    owl:sameAs base:Resolution_Cave .
+
+resource:Resort_Gorgeous a pokemon:LocationResource ;
+    rdfs:label "Resort Gorgeous" ;
+    owl:sameAs base:Resort_Gorgeous .
+
+resource:Reveler_s_Road a pokemon:LocationResource ;
+    rdfs:label "Reveler s Road" ;
+    owl:sameAs base:Reveler_s_Road .
+
+resource:Reversal_Mountain a pokemon:LocationResource ;
+    rdfs:label "Reversal Mountain" ;
+    owl:sameAs base:Reversal_Mountain .
+
+resource:Ribbon_Syndicate a pokemon:LocationResource ;
+    rdfs:label "Ribbon Syndicate" ;
+    owl:sameAs base:Ribbon_Syndicate .
+
+resource:Royal_Avenue a pokemon:LocationResource ;
+    rdfs:label "Royal Avenue" ;
+    owl:sameAs base:Royal_Avenue .
+
+resource:Ruchbah_Squad_s_Base a pokemon:LocationResource ;
+    rdfs:label "Ruchbah Squad s Base" ;
+    owl:sameAs base:Ruchbah_Squad_s_Base .
+
+resource:Ruin_Valley a pokemon:LocationResource ;
+    rdfs:label "Ruin Valley" ;
+    owl:sameAs base:Ruin_Valley .
+
+resource:Rustboro_City a pokemon:LocationResource ;
+    rdfs:label "Rustboro City" ;
+    owl:sameAs base:Rustboro_City .
+
+resource:S_S__Anne a pokemon:LocationResource ;
+    rdfs:label "S S  Anne" ;
+    owl:sameAs base:S_S__Anne .
+
+resource:S_S__Tidal a pokemon:LocationResource ;
+    rdfs:label "S S  Tidal" ;
+    owl:sameAs base:S_S__Tidal .
+
+resource:Safari_Zone_Gate a pokemon:LocationResource ;
+    rdfs:label "Safari Zone Gate" ;
+    owl:sameAs base:Safari_Zone_Gate .
+
+resource:Santalune_Forest a pokemon:LocationResource ;
+    rdfs:label "Santalune Forest" ;
+    owl:sameAs base:Santalune_Forest .
+
+resource:Savanna_Biome a pokemon:LocationResource ;
+    rdfs:label "Savanna Biome" ;
+    owl:sameAs base:Savanna_Biome .
+
+resource:Savanna_Plaza a pokemon:LocationResource ;
+    rdfs:label "Savanna Plaza" ;
+    owl:sameAs base:Savanna_Plaza .
+
+resource:Schedar_Squad_s_Base a pokemon:LocationResource ;
+    rdfs:label "Schedar Squad s Base" ;
+    owl:sameAs base:Schedar_Squad_s_Base .
+
+resource:Scorched_Slab a pokemon:LocationResource ;
+    rdfs:label "Scorched Slab" ;
+    owl:sameAs base:Scorched_Slab .
+
+resource:Sea_Cottage a pokemon:LocationResource ;
+    rdfs:label "Sea Cottage" ;
+    owl:sameAs base:Sea_Cottage .
+
+resource:Sea_Mauville a pokemon:LocationResource ;
+    rdfs:label "Sea Mauville" ;
+    owl:sameAs base:Sea_Mauville .
+
+resource:Sea_Spirit_s_Den a pokemon:LocationResource ;
+    rdfs:label "Sea Spirit s Den" ;
+    owl:sameAs base:Sea_Spirit_s_Den .
+
+resource:Seafloor_Cavern a pokemon:LocationResource ;
+    rdfs:label "Seafloor Cavern" ;
+    owl:sameAs base:Seafloor_Cavern .
+
+resource:Seafoam_Islands a pokemon:LocationResource ;
+    rdfs:label "Seafoam Islands" ;
+    owl:sameAs base:Seafoam_Islands .
+
+resource:Sealed_Chamber a pokemon:LocationResource ;
+    rdfs:label "Sealed Chamber" ;
+    owl:sameAs base:Sealed_Chamber .
+
+resource:Seaside_Cycling_Road a pokemon:LocationResource ;
+    rdfs:label "Seaside Cycling Road" ;
+    owl:sameAs base:Seaside_Cycling_Road .
+
+resource:Secret_Shore a pokemon:LocationResource ;
+    rdfs:label "Secret Shore" ;
+    owl:sameAs base:Secret_Shore .
+
+resource:Segin_Squad_s_Base a pokemon:LocationResource ;
+    rdfs:label "Segin Squad s Base" ;
+    owl:sameAs base:Segin_Squad_s_Base .
+
+resource:Sendoff_Spring a pokemon:LocationResource ;
+    rdfs:label "Sendoff Spring" ;
+    owl:sameAs base:Sendoff_Spring .
+
+resource:Sevault_Canyon a pokemon:LocationResource ;
+    rdfs:label "Sevault Canyon" ;
+    owl:sameAs base:Sevault_Canyon .
+
+resource:Seven_Island a pokemon:LocationResource ;
+    rdfs:label "Seven Island" ;
+    owl:sameAs base:Seven_Island .
+
+resource:Shalour_City a pokemon:LocationResource ;
+    rdfs:label "Shalour City" ;
+    owl:sameAs base:Shalour_City .
+
+resource:Shopping_Mall_Nine a pokemon:LocationResource ;
+    rdfs:label "Shopping Mall Nine" ;
+    owl:sameAs base:Shopping_Mall_Nine .
+
+resource:Silph_Co_ a pokemon:LocationResource ;
+    rdfs:label "Silph Co " ;
+    owl:sameAs base:Silph_Co_ .
+
+resource:Sinjoh_Ruins a pokemon:LocationResource ;
+    rdfs:label "Sinjoh Ruins" ;
+    owl:sameAs base:Sinjoh_Ruins .
+
+resource:Six_Island a pokemon:LocationResource ;
+    rdfs:label "Six Island" ;
+    owl:sameAs base:Six_Island .
+
+resource:Sky_Pillar a pokemon:LocationResource ;
+    rdfs:label "Sky Pillar" ;
+    owl:sameAs base:Sky_Pillar .
+
+resource:Slateport_City a pokemon:LocationResource ;
+    rdfs:label "Slateport City" ;
+    owl:sameAs base:Slateport_City .
+
+resource:Slippery_Slope a pokemon:LocationResource ;
+    rdfs:label "Slippery Slope" ;
+    owl:sameAs base:Slippery_Slope .
+
+resource:Snowpoint_City a pokemon:LocationResource ;
+    rdfs:label "Snowpoint City" ;
+    owl:sameAs base:Snowpoint_City .
+
+resource:Snowslide_Slope a pokemon:LocationResource ;
+    rdfs:label "Snowslide Slope" ;
+    owl:sameAs base:Snowslide_Slope .
+
+resource:Socarrat_Trail a pokemon:LocationResource ;
+    rdfs:label "Socarrat Trail" ;
+    owl:sameAs base:Socarrat_Trail .
+
+resource:South_Province__Area_Five_ a pokemon:LocationResource ;
+    rdfs:label "South Province  Area Five " ;
+    owl:sameAs base:South_Province__Area_Five_ .
+
+resource:South_Province__Area_Four_ a pokemon:LocationResource ;
+    rdfs:label "South Province  Area Four " ;
+    owl:sameAs base:South_Province__Area_Four_ .
+
+resource:South_Province__Area_One_ a pokemon:LocationResource ;
+    rdfs:label "South Province  Area One " ;
+    owl:sameAs base:South_Province__Area_One_ .
+
+resource:South_Province__Area_Six_ a pokemon:LocationResource ;
+    rdfs:label "South Province  Area Six " ;
+    owl:sameAs base:South_Province__Area_Six_ .
+
+resource:South_Province__Area_Three_ a pokemon:LocationResource ;
+    rdfs:label "South Province  Area Three " ;
+    owl:sameAs base:South_Province__Area_Three_ .
+
+resource:South_Province__Area_Two_ a pokemon:LocationResource ;
+    rdfs:label "South Province  Area Two " ;
+    owl:sameAs base:South_Province__Area_Two_ .
+
+resource:Southern_Island a pokemon:LocationResource ;
+    rdfs:label "Southern Island" ;
+    owl:sameAs base:Southern_Island .
+
+resource:Spear_Pillar a pokemon:LocationResource ;
+    rdfs:label "Spear Pillar" ;
+    owl:sameAs base:Spear_Pillar .
+
+resource:Spring_Path a pokemon:LocationResource ;
+    rdfs:label "Spring Path" ;
+    owl:sameAs base:Spring_Path .
+
+resource:Tagtree_Thicket a pokemon:LocationResource ;
+    rdfs:label "Tagtree Thicket" ;
+    owl:sameAs base:Tagtree_Thicket .
+
+resource:Tanoby_Chambers a pokemon:LocationResource ;
+    rdfs:label "Tanoby Chambers" ;
+    owl:sameAs base:Tanoby_Chambers .
+
+resource:Tanoby_Ruins a pokemon:LocationResource ;
+    rdfs:label "Tanoby Ruins" ;
+    owl:sameAs base:Tanoby_Ruins .
+
+resource:Team_Aqua_Hideout a pokemon:LocationResource ;
+    rdfs:label "Team Aqua Hideout" ;
+    owl:sameAs base:Team_Aqua_Hideout .
+
+resource:Team_Rocket_HQ a pokemon:LocationResource ;
+    rdfs:label "Team Rocket HQ" ;
+    owl:sameAs base:Team_Rocket_HQ .
+
+resource:Team_Rocket_Hideout a pokemon:LocationResource ;
+    rdfs:label "Team Rocket Hideout" ;
+    owl:sameAs base:Team_Rocket_Hideout .
+
+resource:Ten_Carat_Hill a pokemon:LocationResource ;
+    rdfs:label "Ten Carat Hill" ;
+    owl:sameAs base:Ten_Carat_Hill .
+
+resource:Terarium a pokemon:LocationResource ;
+    rdfs:label "Terarium" ;
+    owl:sameAs base:Terarium .
+
+resource:Terra_Cave a pokemon:LocationResource ;
+    rdfs:label "Terra Cave" ;
+    owl:sameAs base:Terra_Cave .
+
+resource:The_Heartwood a pokemon:LocationResource ;
+    rdfs:label "The Heartwood" ;
+    owl:sameAs base:The_Heartwood .
+
+resource:Three_Isle_Port a pokemon:LocationResource ;
+    rdfs:label "Three Isle Port" ;
+    owl:sameAs base:Three_Isle_Port .
+
+resource:Three_Point_Pass a pokemon:LocationResource ;
+    rdfs:label "Three Point Pass" ;
+    owl:sameAs base:Three_Point_Pass .
+
+resource:Thrifty_Megamart__Abandoned_Site_ a pokemon:LocationResource ;
+    rdfs:label "Thrifty Megamart  Abandoned Site " ;
+    owl:sameAs base:Thrifty_Megamart__Abandoned_Site_ .
+
+resource:Timeless_Woods a pokemon:LocationResource ;
+    rdfs:label "Timeless Woods" ;
+    owl:sameAs base:Timeless_Woods .
+
+resource:Tohjo_Falls a pokemon:LocationResource ;
+    rdfs:label "Tohjo Falls" ;
+    owl:sameAs base:Tohjo_Falls .
+
+resource:Torchlit_Labyrinth a pokemon:LocationResource ;
+    rdfs:label "Torchlit Labyrinth" ;
+    owl:sameAs base:Torchlit_Labyrinth .
+
+resource:Trainer_Hill a pokemon:LocationResource ;
+    rdfs:label "Trainer Hill" ;
+    owl:sameAs base:Trainer_Hill .
+
+resource:Trainer_Tower a pokemon:LocationResource ;
+    rdfs:label "Trainer Tower" ;
+    owl:sameAs base:Trainer_Tower .
+
+resource:Trainers__School__Alola_ a pokemon:LocationResource ;
+    rdfs:label "Trainers  School  Alola " ;
+    owl:sameAs base:Trainers__School__Alola_ .
+
+resource:Trainers__School__Sinnoh_ a pokemon:LocationResource ;
+    rdfs:label "Trainers  School  Sinnoh " ;
+    owl:sameAs base:Trainers__School__Sinnoh_ .
+
+resource:Treasure_Beach a pokemon:LocationResource ;
+    rdfs:label "Treasure Beach" ;
+    owl:sameAs base:Treasure_Beach .
+
+resource:Trick_House a pokemon:LocationResource ;
+    rdfs:label "Trick House" ;
+    owl:sameAs base:Trick_House .
+
+resource:Trophy_Garden a pokemon:LocationResource ;
+    rdfs:label "Trophy Garden" ;
+    owl:sameAs base:Trophy_Garden .
+
+resource:Two_Island a pokemon:LocationResource ;
+    rdfs:label "Two Island" ;
+    owl:sameAs base:Two_Island .
+
+resource:Ultra_Crater a pokemon:LocationResource ;
+    rdfs:label "Ultra Crater" ;
+    owl:sameAs base:Ultra_Crater .
+
+resource:Ultra_Deep_Sea a pokemon:LocationResource ;
+    rdfs:label "Ultra Deep Sea" ;
+    owl:sameAs base:Ultra_Deep_Sea .
+
+resource:Ultra_Desert a pokemon:LocationResource ;
+    rdfs:label "Ultra Desert" ;
+    owl:sameAs base:Ultra_Desert .
+
+resource:Ultra_Forest a pokemon:LocationResource ;
+    rdfs:label "Ultra Forest" ;
+    owl:sameAs base:Ultra_Forest .
+
+resource:Ultra_Jungle a pokemon:LocationResource ;
+    rdfs:label "Ultra Jungle" ;
+    owl:sameAs base:Ultra_Jungle .
+
+resource:Ultra_Megalopolis a pokemon:LocationResource ;
+    rdfs:label "Ultra Megalopolis" ;
+    owl:sameAs base:Ultra_Megalopolis .
+
+resource:Ultra_Plant a pokemon:LocationResource ;
+    rdfs:label "Ultra Plant" ;
+    owl:sameAs base:Ultra_Plant .
+
+resource:Ultra_Ruin a pokemon:LocationResource ;
+    rdfs:label "Ultra Ruin" ;
+    owl:sameAs base:Ultra_Ruin .
+
+resource:Ultra_Space_Wilds a pokemon:LocationResource ;
+    rdfs:label "Ultra Space Wilds" ;
+    owl:sameAs base:Ultra_Space_Wilds .
+
+resource:Undella_Bay a pokemon:LocationResource ;
+    rdfs:label "Undella Bay" ;
+    owl:sameAs base:Undella_Bay .
+
+resource:Underground a pokemon:LocationResource ;
+    rdfs:label "Underground" ;
+    owl:sameAs base:Underground .
+
+resource:Union_Cave a pokemon:LocationResource ;
+    rdfs:label "Union Cave" ;
+    owl:sameAs base:Union_Cave .
+
+resource:Unity_Tower a pokemon:LocationResource ;
+    rdfs:label "Unity Tower" ;
+    owl:sameAs base:Unity_Tower .
+
+resource:Uva_Academy a pokemon:LocationResource ;
+    rdfs:label "Uva Academy" ;
+    owl:sameAs base:Uva_Academy .
+
+resource:Valley_Windworks a pokemon:LocationResource ;
+    rdfs:label "Valley Windworks" ;
+    owl:sameAs base:Valley_Windworks .
+
+resource:Valor_Lakefront a pokemon:LocationResource ;
+    rdfs:label "Valor Lakefront" ;
+    owl:sameAs base:Valor_Lakefront .
+
+resource:Vast_Poni_Canyon a pokemon:LocationResource ;
+    rdfs:label "Vast Poni Canyon" ;
+    owl:sameAs base:Vast_Poni_Canyon .
+
+resource:Veilstone_City a pokemon:LocationResource ;
+    rdfs:label "Veilstone City" ;
+    owl:sameAs base:Veilstone_City .
+
+resource:Veilstone_Department_Store a pokemon:LocationResource ;
+    rdfs:label "Veilstone Department Store" ;
+    owl:sameAs base:Veilstone_Department_Store .
+
+resource:Veilstone_Game_Corner a pokemon:LocationResource ;
+    rdfs:label "Veilstone Game Corner" ;
+    owl:sameAs base:Veilstone_Game_Corner .
+
+resource:Verity_Lakefront a pokemon:LocationResource ;
+    rdfs:label "Verity Lakefront" ;
+    owl:sameAs base:Verity_Lakefront .
+
+resource:Victory_Road__Black_2_and_White_2_ a pokemon:LocationResource ;
+    rdfs:label "Victory Road  Black 2 and White 2 " ;
+    owl:sameAs base:Victory_Road__Black_2_and_White_2_ .
+
+resource:Victory_Road__Black_and_White_ a pokemon:LocationResource ;
+    rdfs:label "Victory Road  Black and White " ;
+    owl:sameAs base:Victory_Road__Black_and_White_ .
+
+resource:Victory_Road__Hoenn_ a pokemon:LocationResource ;
+    rdfs:label "Victory Road  Hoenn " ;
+    owl:sameAs base:Victory_Road__Hoenn_ .
+
+resource:Victory_Road__Kalos_ a pokemon:LocationResource ;
+    rdfs:label "Victory Road  Kalos " ;
+    owl:sameAs base:Victory_Road__Kalos_ .
+
+resource:Victory_Road__Kanto_ a pokemon:LocationResource ;
+    rdfs:label "Victory Road  Kanto " ;
+    owl:sameAs base:Victory_Road__Kanto_ .
+
+resource:Victory_Road__Sinnoh_ a pokemon:LocationResource ;
+    rdfs:label "Victory Road  Sinnoh " ;
+    owl:sameAs base:Victory_Road__Sinnoh_ .
+
+resource:Village_Bridge a pokemon:LocationResource ;
+    rdfs:label "Village Bridge" ;
+    owl:sameAs base:Village_Bridge .
+
+resource:Violet_City a pokemon:LocationResource ;
+    rdfs:label "Violet City" ;
+    owl:sameAs base:Violet_City .
+
+resource:Virbank_Complex a pokemon:LocationResource ;
+    rdfs:label "Virbank Complex" ;
+    owl:sameAs base:Virbank_Complex .
+
+resource:Viridian_Forest a pokemon:LocationResource ;
+    rdfs:label "Viridian Forest" ;
+    owl:sameAs base:Viridian_Forest .
+
+resource:Vista_Lighthouse a pokemon:LocationResource ;
+    rdfs:label "Vista Lighthouse" ;
+    owl:sameAs base:Vista_Lighthouse .
+
+resource:Water_Path a pokemon:LocationResource ;
+    rdfs:label "Water Path" ;
+    owl:sameAs base:Water_Path .
+
+resource:Weather_Institute a pokemon:LocationResource ;
+    rdfs:label "Weather Institute" ;
+    owl:sameAs base:Weather_Institute .
+
+resource:West_Province__Area_One_ a pokemon:LocationResource ;
+    rdfs:label "West Province  Area One " ;
+    owl:sameAs base:West_Province__Area_One_ .
+
+resource:West_Province__Area_Three_ a pokemon:LocationResource ;
+    rdfs:label "West Province  Area Three " ;
+    owl:sameAs base:West_Province__Area_Three_ .
+
+resource:West_Province__Area_Two_ a pokemon:LocationResource ;
+    rdfs:label "West Province  Area Two " ;
+    owl:sameAs base:West_Province__Area_Two_ .
+
+resource:Whirl_Islands a pokemon:LocationResource ;
+    rdfs:label "Whirl Islands" ;
+    owl:sameAs base:Whirl_Islands .
+
+resource:Wild_Area a pokemon:LocationResource ;
+    rdfs:label "Wild Area" ;
+    owl:sameAs base:Wild_Area .
+
+resource:Wistful_Fields a pokemon:LocationResource ;
+    rdfs:label "Wistful Fields" ;
+    owl:sameAs base:Wistful_Fields .
+
+resource:Zero_Gate a pokemon:LocationResource ;
+    rdfs:label "Zero Gate" ;
+    owl:sameAs base:Zero_Gate .
+
+resource:Zero_Lab a pokemon:LocationResource ;
+    rdfs:label "Zero Lab" ;
+    owl:sameAs base:Zero_Lab .
+
