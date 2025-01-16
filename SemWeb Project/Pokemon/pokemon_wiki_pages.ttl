@@ -1,0 +1,1366 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix pokemon: <http://example.org/pokemon/pokemon/> .
+@prefix pokemon1: <http://example.org/pokemon/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix resource: <http://example.org/pokemon/resource/> .
+@prefix wiki: <https://bulbapedia.bulbagarden.net/wiki/> .
+
+wiki:Abra_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Abra (Pokémon)" ;
+    pokemon1:describes resource:Abra ;
+    foaf:page wiki:Abra_\(Pok%C3%A9mon\) .
+
+wiki:Aerodactyl_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Aerodactyl (Pokémon)" ;
+    pokemon1:describes resource:Aerodactyl ;
+    foaf:page wiki:Aerodactyl_\(Pok%C3%A9mon\) .
+
+wiki:Alakazam_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Alakazam (Pokémon)" ;
+    pokemon1:describes resource:Alakazam ;
+    foaf:page wiki:Alakazam_\(Pok%C3%A9mon\) .
+
+wiki:Arbok_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Arbok (Pokémon)" ;
+    pokemon1:describes resource:Arbok ;
+    foaf:page wiki:Arbok_\(Pok%C3%A9mon\) .
+
+wiki:Arcanine_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Arcanine (Pokémon)" ;
+    pokemon1:describes resource:Arcanine ;
+    foaf:page wiki:Arcanine_\(Pok%C3%A9mon\) .
+
+wiki:Articuno_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Articuno (Pokémon)" ;
+    pokemon1:describes resource:Articuno ;
+    foaf:page wiki:Articuno_\(Pok%C3%A9mon\) .
+
+wiki:Beedrill_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Beedrill (Pokémon)" ;
+    pokemon1:describes resource:Beedrill ;
+    foaf:page wiki:Beedrill_\(Pok%C3%A9mon\) .
+
+wiki:Bellsprout_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Bellsprout (Pokémon)" ;
+    pokemon1:describes resource:Bellsprout ;
+    foaf:page wiki:Bellsprout_\(Pok%C3%A9mon\) .
+
+wiki:Blastoise_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Blastoise (Pokémon)" ;
+    pokemon1:describes resource:Blastoise ;
+    foaf:page wiki:Blastoise_\(Pok%C3%A9mon\) .
+
+wiki:Bulbasaur_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Bulbasaur (Pokémon)" ;
+    pokemon1:describes resource:Bulbasaur ;
+    foaf:page wiki:Bulbasaur_\(Pok%C3%A9mon\) .
+
+wiki:Butterfree_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Butterfree (Pokémon)" ;
+    pokemon1:describes resource:Butterfree ;
+    foaf:page wiki:Butterfree_\(Pok%C3%A9mon\) .
+
+wiki:Caterpie_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Caterpie (Pokémon)" ;
+    pokemon1:describes resource:Caterpie ;
+    foaf:page wiki:Caterpie_\(Pok%C3%A9mon\) .
+
+wiki:Chansey_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Chansey (Pokémon)" ;
+    pokemon1:describes resource:Chansey ;
+    foaf:page wiki:Chansey_\(Pok%C3%A9mon\) .
+
+wiki:Charizard_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Charizard (Pokémon)" ;
+    pokemon1:describes resource:Charizard ;
+    foaf:page wiki:Charizard_\(Pok%C3%A9mon\) .
+
+wiki:Charmander_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Charmander (Pokémon)" ;
+    pokemon1:describes resource:Charmander ;
+    foaf:page wiki:Charmander_\(Pok%C3%A9mon\) .
+
+wiki:Charmeleon_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Charmeleon (Pokémon)" ;
+    pokemon1:describes resource:Charmeleon ;
+    foaf:page wiki:Charmeleon_\(Pok%C3%A9mon\) .
+
+wiki:Clefable_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Clefable (Pokémon)" ;
+    pokemon1:describes resource:Clefable ;
+    foaf:page wiki:Clefable_\(Pok%C3%A9mon\) .
+
+wiki:Clefairy_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Clefairy (Pokémon)" ;
+    pokemon1:describes resource:Clefairy ;
+    foaf:page wiki:Clefairy_\(Pok%C3%A9mon\) .
+
+wiki:Cloyster_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Cloyster (Pokémon)" ;
+    pokemon1:describes resource:Cloyster ;
+    foaf:page wiki:Cloyster_\(Pok%C3%A9mon\) .
+
+wiki:Cubone_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Cubone (Pokémon)" ;
+    pokemon1:describes resource:Cubone ;
+    foaf:page wiki:Cubone_\(Pok%C3%A9mon\) .
+
+wiki:Dewgong_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Dewgong (Pokémon)" ;
+    pokemon1:describes resource:Dewgong .
+
+wiki:Diglett_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Diglett (Pokémon)" ;
+    pokemon1:describes resource:Diglett ;
+    foaf:page wiki:Diglett_\(Pok%C3%A9mon\) .
+
+wiki:Ditto_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Ditto (Pokémon)" ;
+    pokemon1:describes resource:Ditto ;
+    foaf:page wiki:Ditto_\(Pok%C3%A9mon\) .
+
+wiki:Dodrio_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Dodrio (Pokémon)" ;
+    pokemon1:describes resource:Dodrio ;
+    foaf:page wiki:Dodrio_\(Pok%C3%A9mon\) .
+
+wiki:Doduo_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Doduo (Pokémon)" ;
+    pokemon1:describes resource:Doduo ;
+    foaf:page wiki:Doduo_\(Pok%C3%A9mon\) .
+
+wiki:Dragonair_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Dragonair (Pokémon)" ;
+    pokemon1:describes resource:Dragonair ;
+    foaf:page wiki:Dragonair_\(Pok%C3%A9mon\) .
+
+wiki:Dragonite_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Dragonite (Pokémon)" ;
+    pokemon1:describes resource:Dragonite ;
+    foaf:page wiki:Dragonite_\(Pok%C3%A9mon\) .
+
+wiki:Dratini_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Dratini (Pokémon)" ;
+    pokemon1:describes resource:Dratini ;
+    foaf:page wiki:Dratini_\(Pok%C3%A9mon\) .
+
+wiki:Drowzee_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Drowzee (Pokémon)" ;
+    pokemon1:describes resource:Drowzee ;
+    foaf:page wiki:Drowzee_\(Pok%C3%A9mon\) .
+
+wiki:Dugtrio_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Dugtrio (Pokémon)" ;
+    pokemon1:describes resource:Dugtrio ;
+    foaf:page wiki:Dugtrio_\(Pok%C3%A9mon\) .
+
+wiki:Eevee_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Eevee (Pokémon)" ;
+    pokemon1:describes resource:Eevee ;
+    foaf:page wiki:Eevee_\(Pok%C3%A9mon\) .
+
+wiki:Ekans_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Ekans (Pokémon)" ;
+    pokemon1:describes resource:Ekans ;
+    foaf:page wiki:Ekans_\(Pok%C3%A9mon\) .
+
+wiki:Electabuzz_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Electabuzz (Pokémon)" ;
+    pokemon1:describes resource:Electabuzz ;
+    foaf:page wiki:Electabuzz_\(Pok%C3%A9mon\) .
+
+wiki:Electrode_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Electrode (Pokémon)" ;
+    pokemon1:describes resource:Electrode ;
+    foaf:page wiki:Electrode_\(Pok%C3%A9mon\) .
+
+wiki:Exeggcute_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Exeggcute (Pokémon)" ;
+    pokemon1:describes resource:Exeggcute ;
+    foaf:page wiki:Exeggcute_\(Pok%C3%A9mon\) .
+
+wiki:Exeggutor_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Exeggutor (Pokémon)" ;
+    pokemon1:describes resource:Exeggutor ;
+    foaf:page wiki:Exeggutor_\(Pok%C3%A9mon\) .
+
+wiki:Farfetch%27d_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Farfetch'd (Pokémon)" ;
+    pokemon1:describes resource:Farfetch%27d ;
+    foaf:page wiki:Farfetch%27d_\(Pok%C3%A9mon\) .
+
+wiki:Fearow_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Fearow (Pokémon)" ;
+    pokemon1:describes resource:Fearow ;
+    foaf:page wiki:Fearow_\(Pok%C3%A9mon\) .
+
+wiki:Flareon_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Flareon (Pokémon)" ;
+    pokemon1:describes resource:Flareon ;
+    foaf:page wiki:Flareon_\(Pok%C3%A9mon\) .
+
+wiki:Gastly_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Gastly (Pokémon)" ;
+    pokemon1:describes resource:Gastly ;
+    foaf:page wiki:Gastly_\(Pok%C3%A9mon\) .
+
+wiki:Gengar_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Gengar (Pokémon)" ;
+    pokemon1:describes resource:Gengar ;
+    foaf:page wiki:Gengar_\(Pok%C3%A9mon\) .
+
+wiki:Geodude_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Geodude (Pokémon)" ;
+    pokemon1:describes resource:Geodude ;
+    foaf:page wiki:Geodude_\(Pok%C3%A9mon\) .
+
+wiki:Gloom_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Gloom (Pokémon)" ;
+    pokemon1:describes resource:Gloom ;
+    foaf:page wiki:Gloom_\(Pok%C3%A9mon\) .
+
+wiki:Golbat_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Golbat (Pokémon)" ;
+    pokemon1:describes resource:Golbat ;
+    foaf:page wiki:Golbat_\(Pok%C3%A9mon\) .
+
+wiki:Goldeen_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Goldeen (Pokémon)" ;
+    pokemon1:describes resource:Goldeen ;
+    foaf:page wiki:Goldeen_\(Pok%C3%A9mon\) .
+
+wiki:Golduck_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Golduck (Pokémon)" ;
+    pokemon1:describes resource:Golduck ;
+    foaf:page wiki:Golduck_\(Pok%C3%A9mon\) .
+
+wiki:Golem_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Golem (Pokémon)" ;
+    pokemon1:describes resource:Golem ;
+    foaf:page wiki:Golem_\(Pok%C3%A9mon\) .
+
+wiki:Graveler_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Graveler (Pokémon)" ;
+    pokemon1:describes resource:Graveler ;
+    foaf:page wiki:Graveler_\(Pok%C3%A9mon\) .
+
+wiki:Grimer_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Grimer (Pokémon)" ;
+    pokemon1:describes resource:Grimer ;
+    foaf:page wiki:Grimer_\(Pok%C3%A9mon\) .
+
+wiki:Growlithe_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Growlithe (Pokémon)" ;
+    pokemon1:describes resource:Growlithe ;
+    foaf:page wiki:Growlithe_\(Pok%C3%A9mon\) .
+
+wiki:Gyarados_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Gyarados (Pokémon)" ;
+    pokemon1:describes resource:Gyarados ;
+    foaf:page wiki:Gyarados_\(Pok%C3%A9mon\) .
+
+wiki:Haunter_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Haunter (Pokémon)" ;
+    pokemon1:describes resource:Haunter ;
+    foaf:page wiki:Haunter_\(Pok%C3%A9mon\) .
+
+wiki:Hitmonchan_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Hitmonchan (Pokémon)" ;
+    pokemon1:describes resource:Hitmonchan ;
+    foaf:page wiki:Hitmonchan_\(Pok%C3%A9mon\) .
+
+wiki:Hitmonlee_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Hitmonlee (Pokémon)" ;
+    pokemon1:describes resource:Hitmonlee ;
+    foaf:page wiki:Hitmonlee_\(Pok%C3%A9mon\) .
+
+wiki:Horsea_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Horsea (Pokémon)" ;
+    pokemon1:describes resource:Horsea ;
+    foaf:page wiki:Horsea_\(Pok%C3%A9mon\) .
+
+wiki:Hypno_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Hypno (Pokémon)" ;
+    pokemon1:describes resource:Hypno ;
+    foaf:page wiki:Hypno_\(Pok%C3%A9mon\) .
+
+wiki:Ivysaur_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Ivysaur (Pokémon)" ;
+    pokemon1:describes resource:Ivysaur ;
+    foaf:page wiki:Ivysaur_\(Pok%C3%A9mon\) .
+
+wiki:Jigglypuff_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Jigglypuff (Pokémon)" ;
+    pokemon1:describes resource:Jigglypuff ;
+    foaf:page wiki:Jigglypuff_\(Pok%C3%A9mon\) .
+
+wiki:Jolteon_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Jolteon (Pokémon)" ;
+    pokemon1:describes resource:Jolteon ;
+    foaf:page wiki:Jolteon_\(Pok%C3%A9mon\) .
+
+wiki:Jynx_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Jynx (Pokémon)" ;
+    pokemon1:describes resource:Jynx ;
+    foaf:page wiki:Jynx_\(Pok%C3%A9mon\) .
+
+wiki:Kabuto_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Kabuto (Pokémon)" ;
+    pokemon1:describes resource:Kabuto ;
+    foaf:page wiki:Kabuto_\(Pok%C3%A9mon\) .
+
+wiki:Kabutops_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Kabutops (Pokémon)" ;
+    pokemon1:describes resource:Kabutops ;
+    foaf:page wiki:Kabutops_\(Pok%C3%A9mon\) .
+
+wiki:Kadabra_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Kadabra (Pokémon)" ;
+    pokemon1:describes resource:Kadabra ;
+    foaf:page wiki:Kadabra_\(Pok%C3%A9mon\) .
+
+wiki:Kakuna_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Kakuna (Pokémon)" ;
+    pokemon1:describes resource:Kakuna ;
+    foaf:page wiki:Kakuna_\(Pok%C3%A9mon\) .
+
+wiki:Kangaskhan_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Kangaskhan (Pokémon)" ;
+    pokemon1:describes resource:Kangaskhan ;
+    foaf:page wiki:Kangaskhan_\(Pok%C3%A9mon\) .
+
+wiki:Kingler_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Kingler (Pokémon)" ;
+    pokemon1:describes resource:Kingler ;
+    foaf:page wiki:Kingler_\(Pok%C3%A9mon\) .
+
+wiki:Koffing_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Koffing (Pokémon)" ;
+    pokemon1:describes resource:Koffing ;
+    foaf:page wiki:Koffing_\(Pok%C3%A9mon\) .
+
+wiki:Krabby_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Krabby (Pokémon)" ;
+    pokemon1:describes resource:Krabby ;
+    foaf:page wiki:Krabby_\(Pok%C3%A9mon\) .
+
+wiki:Lapras_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Lapras (Pokémon)" ;
+    pokemon1:describes resource:Lapras ;
+    foaf:page wiki:Lapras_\(Pok%C3%A9mon\) .
+
+wiki:Lickitung_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Lickitung (Pokémon)" ;
+    pokemon1:describes resource:Lickitung ;
+    foaf:page wiki:Lickitung_\(Pok%C3%A9mon\) .
+
+wiki:Machamp_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Machamp (Pokémon)" ;
+    pokemon1:describes resource:Machamp ;
+    foaf:page wiki:Machamp_\(Pok%C3%A9mon\) .
+
+wiki:Machoke_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Machoke (Pokémon)" ;
+    pokemon1:describes resource:Machoke ;
+    foaf:page wiki:Machoke_\(Pok%C3%A9mon\) .
+
+wiki:Machop_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Machop (Pokémon)" ;
+    pokemon1:describes resource:Machop ;
+    foaf:page wiki:Machop_\(Pok%C3%A9mon\) .
+
+wiki:Magikarp_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Magikarp (Pokémon)" ;
+    pokemon1:describes resource:Magikarp ;
+    foaf:page wiki:Magikarp_\(Pok%C3%A9mon\) .
+
+wiki:Magmar_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Magmar (Pokémon)" ;
+    pokemon1:describes resource:Magmar ;
+    foaf:page wiki:Magmar_\(Pok%C3%A9mon\) .
+
+wiki:Magnemite_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Magnemite (Pokémon)" ;
+    pokemon1:describes resource:Magnemite ;
+    foaf:page wiki:Magnemite_\(Pok%C3%A9mon\) .
+
+wiki:Magneton_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Magneton (Pokémon)" ;
+    pokemon1:describes resource:Magneton ;
+    foaf:page wiki:Magneton_\(Pok%C3%A9mon\) .
+
+wiki:Mankey_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Mankey (Pokémon)" ;
+    pokemon1:describes resource:Mankey ;
+    foaf:page wiki:Mankey_\(Pok%C3%A9mon\) .
+
+wiki:Marowak_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Marowak (Pokémon)" ;
+    pokemon1:describes resource:Marowak ;
+    foaf:page wiki:Marowak_\(Pok%C3%A9mon\) .
+
+wiki:Meowth_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Meowth (Pokémon)" ;
+    pokemon1:describes resource:Meowth ;
+    foaf:page wiki:Meowth_\(Pok%C3%A9mon\) .
+
+wiki:Metapod_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Metapod (Pokémon)" ;
+    pokemon1:describes resource:Metapod ;
+    foaf:page wiki:Metapod_\(Pok%C3%A9mon\) .
+
+wiki:Mew_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Mew (Pokémon)" ;
+    pokemon1:describes resource:Mew ;
+    foaf:page wiki:Mew_\(Pok%C3%A9mon\) .
+
+wiki:Mewtwo_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Mewtwo (Pokémon)" ;
+    pokemon1:describes resource:Mewtwo ;
+    foaf:page wiki:Mewtwo_\(Pok%C3%A9mon\) .
+
+wiki:Moltres_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Moltres (Pokémon)" ;
+    pokemon1:describes resource:Moltres ;
+    foaf:page wiki:Moltres_\(Pok%C3%A9mon\) .
+
+wiki:Mr._Mime_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Mr._Mime (Pokémon)" ;
+    pokemon1:describes resource:Mr._Mime ;
+    foaf:page wiki:Mr._Mime_\(Pok%C3%A9mon\) .
+
+wiki:Muk_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Muk (Pokémon)" ;
+    pokemon1:describes resource:Muk ;
+    foaf:page wiki:Muk_\(Pok%C3%A9mon\) .
+
+wiki:Nidoking_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Nidoking (Pokémon)" ;
+    pokemon1:describes resource:Nidoking ;
+    foaf:page wiki:Nidoking_\(Pok%C3%A9mon\) .
+
+wiki:Nidoqueen_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Nidoqueen (Pokémon)" ;
+    pokemon1:describes resource:Nidoqueen ;
+    foaf:page wiki:Nidoqueen_\(Pok%C3%A9mon\) .
+
+wiki:Nidoran%E2%99%80_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Nidoran♀ (Pokémon)" ;
+    pokemon1:describes resource:Nidoran%E2%99%80 ;
+    foaf:page wiki:Nidoran%E2%99%80_\(Pok%C3%A9mon\) .
+
+wiki:Nidoran%E2%99%82_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Nidoran♂ (Pokémon)" ;
+    pokemon1:describes resource:Nidoran%E2%99%82 ;
+    foaf:page wiki:Nidoran%E2%99%82_\(Pok%C3%A9mon\) .
+
+wiki:Nidorina_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Nidorina (Pokémon)" ;
+    pokemon1:describes resource:Nidorina ;
+    foaf:page wiki:Nidorina_\(Pok%C3%A9mon\) .
+
+wiki:Nidorino_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Nidorino (Pokémon)" ;
+    pokemon1:describes resource:Nidorino ;
+    foaf:page wiki:Nidorino_\(Pok%C3%A9mon\) .
+
+wiki:Ninetales_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Ninetales (Pokémon)" ;
+    pokemon1:describes resource:Ninetales ;
+    foaf:page wiki:Ninetales_\(Pok%C3%A9mon\) .
+
+wiki:Oddish_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Oddish (Pokémon)" ;
+    pokemon1:describes resource:Oddish ;
+    foaf:page wiki:Oddish_\(Pok%C3%A9mon\) .
+
+wiki:Omanyte_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Omanyte (Pokémon)" ;
+    pokemon1:describes resource:Omanyte ;
+    foaf:page wiki:Omanyte_\(Pok%C3%A9mon\) .
+
+wiki:Omastar_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Omastar (Pokémon)" ;
+    pokemon1:describes resource:Omastar ;
+    foaf:page wiki:Omastar_\(Pok%C3%A9mon\) .
+
+wiki:Onix_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Onix (Pokémon)" ;
+    pokemon1:describes resource:Onix ;
+    foaf:page wiki:Onix_\(Pok%C3%A9mon\) .
+
+wiki:Paras_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Paras (Pokémon)" ;
+    pokemon1:describes resource:Paras ;
+    foaf:page wiki:Paras_\(Pok%C3%A9mon\) .
+
+wiki:Parasect_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Parasect (Pokémon)" ;
+    pokemon1:describes resource:Parasect ;
+    foaf:page wiki:Parasect_\(Pok%C3%A9mon\) .
+
+wiki:Persian_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Persian (Pokémon)" ;
+    pokemon1:describes resource:Persian ;
+    foaf:page wiki:Persian_\(Pok%C3%A9mon\) .
+
+wiki:Pidgeot_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Pidgeot (Pokémon)" ;
+    pokemon1:describes resource:Pidgeot ;
+    foaf:page wiki:Pidgeot_\(Pok%C3%A9mon\) .
+
+wiki:Pidgeotto_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Pidgeotto (Pokémon)" ;
+    pokemon1:describes resource:Pidgeotto ;
+    foaf:page wiki:Pidgeotto_\(Pok%C3%A9mon\) .
+
+wiki:Pidgey_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Pidgey (Pokémon)" ;
+    pokemon1:describes resource:Pidgey ;
+    foaf:page wiki:Pidgey_\(Pok%C3%A9mon\) .
+
+wiki:Pikachu_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Pikachu (Pokémon)" ;
+    pokemon1:describes resource:Pikachu ;
+    foaf:page wiki:Pikachu_\(Pok%C3%A9mon\) .
+
+wiki:Pinsir_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Pinsir (Pokémon)" ;
+    pokemon1:describes resource:Pinsir ;
+    foaf:page wiki:Pinsir_\(Pok%C3%A9mon\) .
+
+wiki:Poliwag_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Poliwag (Pokémon)" ;
+    pokemon1:describes resource:Poliwag ;
+    foaf:page wiki:Poliwag_\(Pok%C3%A9mon\) .
+
+wiki:Poliwhirl_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Poliwhirl (Pokémon)" ;
+    pokemon1:describes resource:Poliwhirl ;
+    foaf:page wiki:Poliwhirl_\(Pok%C3%A9mon\) .
+
+wiki:Poliwrath_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Poliwrath (Pokémon)" ;
+    pokemon1:describes resource:Poliwrath ;
+    foaf:page wiki:Poliwrath_\(Pok%C3%A9mon\) .
+
+wiki:Ponyta_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Ponyta (Pokémon)" ;
+    pokemon1:describes resource:Ponyta ;
+    foaf:page wiki:Ponyta_\(Pok%C3%A9mon\) .
+
+wiki:Porygon_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Porygon (Pokémon)" ;
+    pokemon1:describes resource:Porygon ;
+    foaf:page wiki:Porygon_\(Pok%C3%A9mon\) .
+
+wiki:Primeape_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Primeape (Pokémon)" ;
+    pokemon1:describes resource:Primeape ;
+    foaf:page wiki:Primeape_\(Pok%C3%A9mon\) .
+
+wiki:Psyduck_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Psyduck (Pokémon)" ;
+    pokemon1:describes resource:Psyduck ;
+    foaf:page wiki:Psyduck_\(Pok%C3%A9mon\) .
+
+wiki:Raichu_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Raichu (Pokémon)" ;
+    pokemon1:describes resource:Raichu ;
+    foaf:page wiki:Raichu_\(Pok%C3%A9mon\) .
+
+wiki:Rapidash_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Rapidash (Pokémon)" ;
+    pokemon1:describes resource:Rapidash ;
+    foaf:page wiki:Rapidash_\(Pok%C3%A9mon\) .
+
+wiki:Raticate_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Raticate (Pokémon)" ;
+    pokemon1:describes resource:Raticate ;
+    foaf:page wiki:Raticate_\(Pok%C3%A9mon\) .
+
+wiki:Rattata_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Rattata (Pokémon)" ;
+    pokemon1:describes resource:Rattata ;
+    foaf:page wiki:Rattata_\(Pok%C3%A9mon\) .
+
+wiki:Rhydon_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Rhydon (Pokémon)" ;
+    pokemon1:describes resource:Rhydon ;
+    foaf:page wiki:Rhydon_\(Pok%C3%A9mon\) .
+
+wiki:Rhyhorn_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Rhyhorn (Pokémon)" ;
+    pokemon1:describes resource:Rhyhorn ;
+    foaf:page wiki:Rhyhorn_\(Pok%C3%A9mon\) .
+
+wiki:Sandshrew_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Sandshrew (Pokémon)" ;
+    pokemon1:describes resource:Sandshrew ;
+    foaf:page wiki:Sandshrew_\(Pok%C3%A9mon\) .
+
+wiki:Sandslash_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Sandslash (Pokémon)" ;
+    pokemon1:describes resource:Sandslash ;
+    foaf:page wiki:Sandslash_\(Pok%C3%A9mon\) .
+
+wiki:Scyther_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Scyther (Pokémon)" ;
+    pokemon1:describes resource:Scyther ;
+    foaf:page wiki:Scyther_\(Pok%C3%A9mon\) .
+
+wiki:Seadra_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Seadra (Pokémon)" ;
+    pokemon1:describes resource:Seadra ;
+    foaf:page wiki:Seadra_\(Pok%C3%A9mon\) .
+
+wiki:Seaking_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Seaking (Pokémon)" ;
+    pokemon1:describes resource:Seaking ;
+    foaf:page wiki:Seaking_\(Pok%C3%A9mon\) .
+
+wiki:Seel_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Seel (Pokémon)" ;
+    pokemon1:describes resource:Seel ;
+    foaf:page wiki:Seel_\(Pok%C3%A9mon\) .
+
+wiki:Shellder_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Shellder (Pokémon)" ;
+    pokemon1:describes resource:Shellder ;
+    foaf:page wiki:Shellder_\(Pok%C3%A9mon\) .
+
+wiki:Slowbro_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Slowbro (Pokémon)" ;
+    pokemon1:describes resource:Slowbro ;
+    foaf:page wiki:Slowbro_\(Pok%C3%A9mon\) .
+
+wiki:Slowpoke_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Slowpoke (Pokémon)" ;
+    pokemon1:describes resource:Slowpoke ;
+    foaf:page wiki:Slowpoke_\(Pok%C3%A9mon\) .
+
+wiki:Snorlax_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Snorlax (Pokémon)" ;
+    pokemon1:describes resource:Snorlax ;
+    foaf:page wiki:Snorlax_\(Pok%C3%A9mon\) .
+
+wiki:Spearow_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Spearow (Pokémon)" ;
+    pokemon1:describes resource:Spearow ;
+    foaf:page wiki:Spearow_\(Pok%C3%A9mon\) .
+
+wiki:Squirtle_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Squirtle (Pokémon)" ;
+    pokemon1:describes resource:Squirtle ;
+    foaf:page wiki:Squirtle_\(Pok%C3%A9mon\) .
+
+wiki:Starmie_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Starmie (Pokémon)" ;
+    pokemon1:describes resource:Starmie ;
+    foaf:page wiki:Starmie_\(Pok%C3%A9mon\) .
+
+wiki:Staryu_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Staryu (Pokémon)" ;
+    pokemon1:describes resource:Staryu ;
+    foaf:page wiki:Staryu_\(Pok%C3%A9mon\) .
+
+wiki:Tangela_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Tangela (Pokémon)" ;
+    pokemon1:describes resource:Tangela ;
+    foaf:page wiki:Tangela_\(Pok%C3%A9mon\) .
+
+wiki:Tauros_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Tauros (Pokémon)" ;
+    pokemon1:describes resource:Tauros ;
+    foaf:page wiki:Tauros_\(Pok%C3%A9mon\) .
+
+wiki:Tentacool_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Tentacool (Pokémon)" ;
+    pokemon1:describes resource:Tentacool ;
+    foaf:page wiki:Tentacool_\(Pok%C3%A9mon\) .
+
+wiki:Tentacruel_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Tentacruel (Pokémon)" ;
+    pokemon1:describes resource:Tentacruel ;
+    foaf:page wiki:Tentacruel_\(Pok%C3%A9mon\) .
+
+wiki:Vaporeon_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Vaporeon (Pokémon)" ;
+    pokemon1:describes resource:Vaporeon ;
+    foaf:page wiki:Vaporeon_\(Pok%C3%A9mon\) .
+
+wiki:Venomoth_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Venomoth (Pokémon)" ;
+    pokemon1:describes resource:Venomoth ;
+    foaf:page wiki:Venomoth_\(Pok%C3%A9mon\) .
+
+wiki:Venonat_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Venonat (Pokémon)" ;
+    pokemon1:describes resource:Venonat ;
+    foaf:page wiki:Venonat_\(Pok%C3%A9mon\) .
+
+wiki:Venusaur_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Venusaur (Pokémon)" ;
+    pokemon1:describes resource:Venusaur ;
+    foaf:page wiki:Venusaur_\(Pok%C3%A9mon\) .
+
+wiki:Victreebel_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Victreebel (Pokémon)" ;
+    pokemon1:describes resource:Victreebel ;
+    foaf:page wiki:Victreebel_\(Pok%C3%A9mon\) .
+
+wiki:Vileplume_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Vileplume (Pokémon)" ;
+    pokemon1:describes resource:Vileplume ;
+    foaf:page wiki:Vileplume_\(Pok%C3%A9mon\) .
+
+wiki:Voltorb_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Voltorb (Pokémon)" ;
+    pokemon1:describes resource:Voltorb ;
+    foaf:page wiki:Voltorb_\(Pok%C3%A9mon\) .
+
+wiki:Vulpix_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Vulpix (Pokémon)" ;
+    pokemon1:describes resource:Vulpix ;
+    foaf:page wiki:Vulpix_\(Pok%C3%A9mon\) .
+
+wiki:Wartortle_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Wartortle (Pokémon)" ;
+    pokemon1:describes resource:Wartortle ;
+    foaf:page wiki:Wartortle_\(Pok%C3%A9mon\) .
+
+wiki:Weedle_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Weedle (Pokémon)" ;
+    pokemon1:describes resource:Weedle ;
+    foaf:page wiki:Weedle_\(Pok%C3%A9mon\) .
+
+wiki:Weepinbell_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Weepinbell (Pokémon)" ;
+    pokemon1:describes resource:Weepinbell ;
+    foaf:page wiki:Weepinbell_\(Pok%C3%A9mon\) .
+
+wiki:Weezing_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Weezing (Pokémon)" ;
+    pokemon1:describes resource:Weezing ;
+    foaf:page wiki:Weezing_\(Pok%C3%A9mon\) .
+
+wiki:Wigglytuff_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Wigglytuff (Pokémon)" ;
+    pokemon1:describes resource:Wigglytuff ;
+    foaf:page wiki:Wigglytuff_\(Pok%C3%A9mon\) .
+
+wiki:Zapdos_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Zapdos (Pokémon)" ;
+    pokemon1:describes resource:Zapdos ;
+    foaf:page wiki:Zapdos_\(Pok%C3%A9mon\) .
+
+wiki:Zubat_%28Pok%C3%A9mon%29 a pokemon1:WikiPage ;
+    rdfs:label "Zubat (Pokémon)" ;
+    pokemon1:describes resource:Zubat ;
+    foaf:page wiki:Zubat_\(Pok%C3%A9mon\) .
+
+resource:Abra a pokemon1:WikiResource ;
+    rdfs:label "Abra" ;
+    owl:sameAs pokemon:Abra .
+
+resource:Aerodactyl a pokemon1:WikiResource ;
+    rdfs:label "Aerodactyl" ;
+    owl:sameAs pokemon:Aerodactyl .
+
+resource:Alakazam a pokemon1:WikiResource ;
+    rdfs:label "Alakazam" ;
+    owl:sameAs pokemon:Alakazam .
+
+resource:Arbok a pokemon1:WikiResource ;
+    rdfs:label "Arbok" ;
+    owl:sameAs pokemon:Arbok .
+
+resource:Arcanine a pokemon1:WikiResource ;
+    rdfs:label "Arcanine" ;
+    owl:sameAs pokemon:Arcanine .
+
+resource:Articuno a pokemon1:WikiResource ;
+    rdfs:label "Articuno" ;
+    owl:sameAs pokemon:Articuno .
+
+resource:Beedrill a pokemon1:WikiResource ;
+    rdfs:label "Beedrill" ;
+    owl:sameAs pokemon:Beedrill .
+
+resource:Bellsprout a pokemon1:WikiResource ;
+    rdfs:label "Bellsprout" ;
+    owl:sameAs pokemon:Bellsprout .
+
+resource:Blastoise a pokemon1:WikiResource ;
+    rdfs:label "Blastoise" ;
+    owl:sameAs pokemon:Blastoise .
+
+resource:Bulbasaur a pokemon1:WikiResource ;
+    rdfs:label "Bulbasaur" ;
+    owl:sameAs pokemon:Bulbasaur .
+
+resource:Butterfree a pokemon1:WikiResource ;
+    rdfs:label "Butterfree" ;
+    owl:sameAs pokemon:Butterfree .
+
+resource:Caterpie a pokemon1:WikiResource ;
+    rdfs:label "Caterpie" ;
+    owl:sameAs pokemon:Caterpie .
+
+resource:Chansey a pokemon1:WikiResource ;
+    rdfs:label "Chansey" ;
+    owl:sameAs pokemon:Chansey .
+
+resource:Charizard a pokemon1:WikiResource ;
+    rdfs:label "Charizard" ;
+    owl:sameAs pokemon:Charizard .
+
+resource:Charmander a pokemon1:WikiResource ;
+    rdfs:label "Charmander" ;
+    owl:sameAs pokemon:Charmander .
+
+resource:Charmeleon a pokemon1:WikiResource ;
+    rdfs:label "Charmeleon" ;
+    owl:sameAs pokemon:Charmeleon .
+
+resource:Clefable a pokemon1:WikiResource ;
+    rdfs:label "Clefable" ;
+    owl:sameAs pokemon:Clefable .
+
+resource:Clefairy a pokemon1:WikiResource ;
+    rdfs:label "Clefairy" ;
+    owl:sameAs pokemon:Clefairy .
+
+resource:Cloyster a pokemon1:WikiResource ;
+    rdfs:label "Cloyster" ;
+    owl:sameAs pokemon:Cloyster .
+
+resource:Cubone a pokemon1:WikiResource ;
+    rdfs:label "Cubone" ;
+    owl:sameAs pokemon:Cubone .
+
+resource:Dewgong a pokemon1:WikiResource ;
+    rdfs:label "Dewgong" ;
+    owl:sameAs pokemon:Dewgong .
+
+resource:Diglett a pokemon1:WikiResource ;
+    rdfs:label "Diglett" ;
+    owl:sameAs pokemon:Diglett .
+
+resource:Ditto a pokemon1:WikiResource ;
+    rdfs:label "Ditto" ;
+    owl:sameAs pokemon:Ditto .
+
+resource:Dodrio a pokemon1:WikiResource ;
+    rdfs:label "Dodrio" ;
+    owl:sameAs pokemon:Dodrio .
+
+resource:Doduo a pokemon1:WikiResource ;
+    rdfs:label "Doduo" ;
+    owl:sameAs pokemon:Doduo .
+
+resource:Dragonair a pokemon1:WikiResource ;
+    rdfs:label "Dragonair" ;
+    owl:sameAs pokemon:Dragonair .
+
+resource:Dragonite a pokemon1:WikiResource ;
+    rdfs:label "Dragonite" ;
+    owl:sameAs pokemon:Dragonite .
+
+resource:Dratini a pokemon1:WikiResource ;
+    rdfs:label "Dratini" ;
+    owl:sameAs pokemon:Dratini .
+
+resource:Drowzee a pokemon1:WikiResource ;
+    rdfs:label "Drowzee" ;
+    owl:sameAs pokemon:Drowzee .
+
+resource:Dugtrio a pokemon1:WikiResource ;
+    rdfs:label "Dugtrio" ;
+    owl:sameAs pokemon:Dugtrio .
+
+resource:Eevee a pokemon1:WikiResource ;
+    rdfs:label "Eevee" ;
+    owl:sameAs pokemon:Eevee .
+
+resource:Ekans a pokemon1:WikiResource ;
+    rdfs:label "Ekans" ;
+    owl:sameAs pokemon:Ekans .
+
+resource:Electabuzz a pokemon1:WikiResource ;
+    rdfs:label "Electabuzz" ;
+    owl:sameAs pokemon:Electabuzz .
+
+resource:Electrode a pokemon1:WikiResource ;
+    rdfs:label "Electrode" ;
+    owl:sameAs pokemon:Electrode .
+
+resource:Exeggcute a pokemon1:WikiResource ;
+    rdfs:label "Exeggcute" ;
+    owl:sameAs pokemon:Exeggcute .
+
+resource:Exeggutor a pokemon1:WikiResource ;
+    rdfs:label "Exeggutor" ;
+    owl:sameAs pokemon:Exeggutor .
+
+resource:Farfetch%27d a pokemon1:WikiResource ;
+    rdfs:label "Farfetch'd" ;
+    owl:sameAs pokemon:Farfetch%27d .
+
+resource:Fearow a pokemon1:WikiResource ;
+    rdfs:label "Fearow" ;
+    owl:sameAs pokemon:Fearow .
+
+resource:Flareon a pokemon1:WikiResource ;
+    rdfs:label "Flareon" ;
+    owl:sameAs pokemon:Flareon .
+
+resource:Gastly a pokemon1:WikiResource ;
+    rdfs:label "Gastly" ;
+    owl:sameAs pokemon:Gastly .
+
+resource:Gengar a pokemon1:WikiResource ;
+    rdfs:label "Gengar" ;
+    owl:sameAs pokemon:Gengar .
+
+resource:Geodude a pokemon1:WikiResource ;
+    rdfs:label "Geodude" ;
+    owl:sameAs pokemon:Geodude .
+
+resource:Gloom a pokemon1:WikiResource ;
+    rdfs:label "Gloom" ;
+    owl:sameAs pokemon:Gloom .
+
+resource:Golbat a pokemon1:WikiResource ;
+    rdfs:label "Golbat" ;
+    owl:sameAs pokemon:Golbat .
+
+resource:Goldeen a pokemon1:WikiResource ;
+    rdfs:label "Goldeen" ;
+    owl:sameAs pokemon:Goldeen .
+
+resource:Golduck a pokemon1:WikiResource ;
+    rdfs:label "Golduck" ;
+    owl:sameAs pokemon:Golduck .
+
+resource:Golem a pokemon1:WikiResource ;
+    rdfs:label "Golem" ;
+    owl:sameAs pokemon:Golem .
+
+resource:Graveler a pokemon1:WikiResource ;
+    rdfs:label "Graveler" ;
+    owl:sameAs pokemon:Graveler .
+
+resource:Grimer a pokemon1:WikiResource ;
+    rdfs:label "Grimer" ;
+    owl:sameAs pokemon:Grimer .
+
+resource:Growlithe a pokemon1:WikiResource ;
+    rdfs:label "Growlithe" ;
+    owl:sameAs pokemon:Growlithe .
+
+resource:Gyarados a pokemon1:WikiResource ;
+    rdfs:label "Gyarados" ;
+    owl:sameAs pokemon:Gyarados .
+
+resource:Haunter a pokemon1:WikiResource ;
+    rdfs:label "Haunter" ;
+    owl:sameAs pokemon:Haunter .
+
+resource:Hitmonchan a pokemon1:WikiResource ;
+    rdfs:label "Hitmonchan" ;
+    owl:sameAs pokemon:Hitmonchan .
+
+resource:Hitmonlee a pokemon1:WikiResource ;
+    rdfs:label "Hitmonlee" ;
+    owl:sameAs pokemon:Hitmonlee .
+
+resource:Horsea a pokemon1:WikiResource ;
+    rdfs:label "Horsea" ;
+    owl:sameAs pokemon:Horsea .
+
+resource:Hypno a pokemon1:WikiResource ;
+    rdfs:label "Hypno" ;
+    owl:sameAs pokemon:Hypno .
+
+resource:Ivysaur a pokemon1:WikiResource ;
+    rdfs:label "Ivysaur" ;
+    owl:sameAs pokemon:Ivysaur .
+
+resource:Jigglypuff a pokemon1:WikiResource ;
+    rdfs:label "Jigglypuff" ;
+    owl:sameAs pokemon:Jigglypuff .
+
+resource:Jolteon a pokemon1:WikiResource ;
+    rdfs:label "Jolteon" ;
+    owl:sameAs pokemon:Jolteon .
+
+resource:Jynx a pokemon1:WikiResource ;
+    rdfs:label "Jynx" ;
+    owl:sameAs pokemon:Jynx .
+
+resource:Kabuto a pokemon1:WikiResource ;
+    rdfs:label "Kabuto" ;
+    owl:sameAs pokemon:Kabuto .
+
+resource:Kabutops a pokemon1:WikiResource ;
+    rdfs:label "Kabutops" ;
+    owl:sameAs pokemon:Kabutops .
+
+resource:Kadabra a pokemon1:WikiResource ;
+    rdfs:label "Kadabra" ;
+    owl:sameAs pokemon:Kadabra .
+
+resource:Kakuna a pokemon1:WikiResource ;
+    rdfs:label "Kakuna" ;
+    owl:sameAs pokemon:Kakuna .
+
+resource:Kangaskhan a pokemon1:WikiResource ;
+    rdfs:label "Kangaskhan" ;
+    owl:sameAs pokemon:Kangaskhan .
+
+resource:Kingler a pokemon1:WikiResource ;
+    rdfs:label "Kingler" ;
+    owl:sameAs pokemon:Kingler .
+
+resource:Koffing a pokemon1:WikiResource ;
+    rdfs:label "Koffing" ;
+    owl:sameAs pokemon:Koffing .
+
+resource:Krabby a pokemon1:WikiResource ;
+    rdfs:label "Krabby" ;
+    owl:sameAs pokemon:Krabby .
+
+resource:Lapras a pokemon1:WikiResource ;
+    rdfs:label "Lapras" ;
+    owl:sameAs pokemon:Lapras .
+
+resource:Lickitung a pokemon1:WikiResource ;
+    rdfs:label "Lickitung" ;
+    owl:sameAs pokemon:Lickitung .
+
+resource:Machamp a pokemon1:WikiResource ;
+    rdfs:label "Machamp" ;
+    owl:sameAs pokemon:Machamp .
+
+resource:Machoke a pokemon1:WikiResource ;
+    rdfs:label "Machoke" ;
+    owl:sameAs pokemon:Machoke .
+
+resource:Machop a pokemon1:WikiResource ;
+    rdfs:label "Machop" ;
+    owl:sameAs pokemon:Machop .
+
+resource:Magikarp a pokemon1:WikiResource ;
+    rdfs:label "Magikarp" ;
+    owl:sameAs pokemon:Magikarp .
+
+resource:Magmar a pokemon1:WikiResource ;
+    rdfs:label "Magmar" ;
+    owl:sameAs pokemon:Magmar .
+
+resource:Magnemite a pokemon1:WikiResource ;
+    rdfs:label "Magnemite" ;
+    owl:sameAs pokemon:Magnemite .
+
+resource:Magneton a pokemon1:WikiResource ;
+    rdfs:label "Magneton" ;
+    owl:sameAs pokemon:Magneton .
+
+resource:Mankey a pokemon1:WikiResource ;
+    rdfs:label "Mankey" ;
+    owl:sameAs pokemon:Mankey .
+
+resource:Marowak a pokemon1:WikiResource ;
+    rdfs:label "Marowak" ;
+    owl:sameAs pokemon:Marowak .
+
+resource:Meowth a pokemon1:WikiResource ;
+    rdfs:label "Meowth" ;
+    owl:sameAs pokemon:Meowth .
+
+resource:Metapod a pokemon1:WikiResource ;
+    rdfs:label "Metapod" ;
+    owl:sameAs pokemon:Metapod .
+
+resource:Mew a pokemon1:WikiResource ;
+    rdfs:label "Mew" ;
+    owl:sameAs pokemon:Mew .
+
+resource:Mewtwo a pokemon1:WikiResource ;
+    rdfs:label "Mewtwo" ;
+    owl:sameAs pokemon:Mewtwo .
+
+resource:Moltres a pokemon1:WikiResource ;
+    rdfs:label "Moltres" ;
+    owl:sameAs pokemon:Moltres .
+
+resource:Mr._Mime a pokemon1:WikiResource ;
+    rdfs:label "Mr._Mime" ;
+    owl:sameAs pokemon:Mr._Mime .
+
+resource:Muk a pokemon1:WikiResource ;
+    rdfs:label "Muk" ;
+    owl:sameAs pokemon:Muk .
+
+resource:Nidoking a pokemon1:WikiResource ;
+    rdfs:label "Nidoking" ;
+    owl:sameAs pokemon:Nidoking .
+
+resource:Nidoqueen a pokemon1:WikiResource ;
+    rdfs:label "Nidoqueen" ;
+    owl:sameAs pokemon:Nidoqueen .
+
+resource:Nidoran%E2%99%80 a pokemon1:WikiResource ;
+    rdfs:label "Nidoran♀" ;
+    owl:sameAs pokemon:Nidoran%E2%99%80 .
+
+resource:Nidoran%E2%99%82 a pokemon1:WikiResource ;
+    rdfs:label "Nidoran♂" ;
+    owl:sameAs pokemon:Nidoran%E2%99%82 .
+
+resource:Nidorina a pokemon1:WikiResource ;
+    rdfs:label "Nidorina" ;
+    owl:sameAs pokemon:Nidorina .
+
+resource:Nidorino a pokemon1:WikiResource ;
+    rdfs:label "Nidorino" ;
+    owl:sameAs pokemon:Nidorino .
+
+resource:Ninetales a pokemon1:WikiResource ;
+    rdfs:label "Ninetales" ;
+    owl:sameAs pokemon:Ninetales .
+
+resource:Oddish a pokemon1:WikiResource ;
+    rdfs:label "Oddish" ;
+    owl:sameAs pokemon:Oddish .
+
+resource:Omanyte a pokemon1:WikiResource ;
+    rdfs:label "Omanyte" ;
+    owl:sameAs pokemon:Omanyte .
+
+resource:Omastar a pokemon1:WikiResource ;
+    rdfs:label "Omastar" ;
+    owl:sameAs pokemon:Omastar .
+
+resource:Onix a pokemon1:WikiResource ;
+    rdfs:label "Onix" ;
+    owl:sameAs pokemon:Onix .
+
+resource:Paras a pokemon1:WikiResource ;
+    rdfs:label "Paras" ;
+    owl:sameAs pokemon:Paras .
+
+resource:Parasect a pokemon1:WikiResource ;
+    rdfs:label "Parasect" ;
+    owl:sameAs pokemon:Parasect .
+
+resource:Persian a pokemon1:WikiResource ;
+    rdfs:label "Persian" ;
+    owl:sameAs pokemon:Persian .
+
+resource:Pidgeot a pokemon1:WikiResource ;
+    rdfs:label "Pidgeot" ;
+    owl:sameAs pokemon:Pidgeot .
+
+resource:Pidgeotto a pokemon1:WikiResource ;
+    rdfs:label "Pidgeotto" ;
+    owl:sameAs pokemon:Pidgeotto .
+
+resource:Pidgey a pokemon1:WikiResource ;
+    rdfs:label "Pidgey" ;
+    owl:sameAs pokemon:Pidgey .
+
+resource:Pikachu a pokemon1:WikiResource ;
+    rdfs:label "Pikachu" ;
+    owl:sameAs pokemon:Pikachu .
+
+resource:Pinsir a pokemon1:WikiResource ;
+    rdfs:label "Pinsir" ;
+    owl:sameAs pokemon:Pinsir .
+
+resource:Poliwag a pokemon1:WikiResource ;
+    rdfs:label "Poliwag" ;
+    owl:sameAs pokemon:Poliwag .
+
+resource:Poliwhirl a pokemon1:WikiResource ;
+    rdfs:label "Poliwhirl" ;
+    owl:sameAs pokemon:Poliwhirl .
+
+resource:Poliwrath a pokemon1:WikiResource ;
+    rdfs:label "Poliwrath" ;
+    owl:sameAs pokemon:Poliwrath .
+
+resource:Ponyta a pokemon1:WikiResource ;
+    rdfs:label "Ponyta" ;
+    owl:sameAs pokemon:Ponyta .
+
+resource:Porygon a pokemon1:WikiResource ;
+    rdfs:label "Porygon" ;
+    owl:sameAs pokemon:Porygon .
+
+resource:Primeape a pokemon1:WikiResource ;
+    rdfs:label "Primeape" ;
+    owl:sameAs pokemon:Primeape .
+
+resource:Psyduck a pokemon1:WikiResource ;
+    rdfs:label "Psyduck" ;
+    owl:sameAs pokemon:Psyduck .
+
+resource:Raichu a pokemon1:WikiResource ;
+    rdfs:label "Raichu" ;
+    owl:sameAs pokemon:Raichu .
+
+resource:Rapidash a pokemon1:WikiResource ;
+    rdfs:label "Rapidash" ;
+    owl:sameAs pokemon:Rapidash .
+
+resource:Raticate a pokemon1:WikiResource ;
+    rdfs:label "Raticate" ;
+    owl:sameAs pokemon:Raticate .
+
+resource:Rattata a pokemon1:WikiResource ;
+    rdfs:label "Rattata" ;
+    owl:sameAs pokemon:Rattata .
+
+resource:Rhydon a pokemon1:WikiResource ;
+    rdfs:label "Rhydon" ;
+    owl:sameAs pokemon:Rhydon .
+
+resource:Rhyhorn a pokemon1:WikiResource ;
+    rdfs:label "Rhyhorn" ;
+    owl:sameAs pokemon:Rhyhorn .
+
+resource:Sandshrew a pokemon1:WikiResource ;
+    rdfs:label "Sandshrew" ;
+    owl:sameAs pokemon:Sandshrew .
+
+resource:Sandslash a pokemon1:WikiResource ;
+    rdfs:label "Sandslash" ;
+    owl:sameAs pokemon:Sandslash .
+
+resource:Scyther a pokemon1:WikiResource ;
+    rdfs:label "Scyther" ;
+    owl:sameAs pokemon:Scyther .
+
+resource:Seadra a pokemon1:WikiResource ;
+    rdfs:label "Seadra" ;
+    owl:sameAs pokemon:Seadra .
+
+resource:Seaking a pokemon1:WikiResource ;
+    rdfs:label "Seaking" ;
+    owl:sameAs pokemon:Seaking .
+
+resource:Seel a pokemon1:WikiResource ;
+    rdfs:label "Seel" ;
+    owl:sameAs pokemon:Seel .
+
+resource:Shellder a pokemon1:WikiResource ;
+    rdfs:label "Shellder" ;
+    owl:sameAs pokemon:Shellder .
+
+resource:Slowbro a pokemon1:WikiResource ;
+    rdfs:label "Slowbro" ;
+    owl:sameAs pokemon:Slowbro .
+
+resource:Slowpoke a pokemon1:WikiResource ;
+    rdfs:label "Slowpoke" ;
+    owl:sameAs pokemon:Slowpoke .
+
+resource:Snorlax a pokemon1:WikiResource ;
+    rdfs:label "Snorlax" ;
+    owl:sameAs pokemon:Snorlax .
+
+resource:Spearow a pokemon1:WikiResource ;
+    rdfs:label "Spearow" ;
+    owl:sameAs pokemon:Spearow .
+
+resource:Squirtle a pokemon1:WikiResource ;
+    rdfs:label "Squirtle" ;
+    owl:sameAs pokemon:Squirtle .
+
+resource:Starmie a pokemon1:WikiResource ;
+    rdfs:label "Starmie" ;
+    owl:sameAs pokemon:Starmie .
+
+resource:Staryu a pokemon1:WikiResource ;
+    rdfs:label "Staryu" ;
+    owl:sameAs pokemon:Staryu .
+
+resource:Tangela a pokemon1:WikiResource ;
+    rdfs:label "Tangela" ;
+    owl:sameAs pokemon:Tangela .
+
+resource:Tauros a pokemon1:WikiResource ;
+    rdfs:label "Tauros" ;
+    owl:sameAs pokemon:Tauros .
+
+resource:Tentacool a pokemon1:WikiResource ;
+    rdfs:label "Tentacool" ;
+    owl:sameAs pokemon:Tentacool .
+
+resource:Tentacruel a pokemon1:WikiResource ;
+    rdfs:label "Tentacruel" ;
+    owl:sameAs pokemon:Tentacruel .
+
+resource:Vaporeon a pokemon1:WikiResource ;
+    rdfs:label "Vaporeon" ;
+    owl:sameAs pokemon:Vaporeon .
+
+resource:Venomoth a pokemon1:WikiResource ;
+    rdfs:label "Venomoth" ;
+    owl:sameAs pokemon:Venomoth .
+
+resource:Venonat a pokemon1:WikiResource ;
+    rdfs:label "Venonat" ;
+    owl:sameAs pokemon:Venonat .
+
+resource:Venusaur a pokemon1:WikiResource ;
+    rdfs:label "Venusaur" ;
+    owl:sameAs pokemon:Venusaur .
+
+resource:Victreebel a pokemon1:WikiResource ;
+    rdfs:label "Victreebel" ;
+    owl:sameAs pokemon:Victreebel .
+
+resource:Vileplume a pokemon1:WikiResource ;
+    rdfs:label "Vileplume" ;
+    owl:sameAs pokemon:Vileplume .
+
+resource:Voltorb a pokemon1:WikiResource ;
+    rdfs:label "Voltorb" ;
+    owl:sameAs pokemon:Voltorb .
+
+resource:Vulpix a pokemon1:WikiResource ;
+    rdfs:label "Vulpix" ;
+    owl:sameAs pokemon:Vulpix .
+
+resource:Wartortle a pokemon1:WikiResource ;
+    rdfs:label "Wartortle" ;
+    owl:sameAs pokemon:Wartortle .
+
+resource:Weedle a pokemon1:WikiResource ;
+    rdfs:label "Weedle" ;
+    owl:sameAs pokemon:Weedle .
+
+resource:Weepinbell a pokemon1:WikiResource ;
+    rdfs:label "Weepinbell" ;
+    owl:sameAs pokemon:Weepinbell .
+
+resource:Weezing a pokemon1:WikiResource ;
+    rdfs:label "Weezing" ;
+    owl:sameAs pokemon:Weezing .
+
+resource:Wigglytuff a pokemon1:WikiResource ;
+    rdfs:label "Wigglytuff" ;
+    owl:sameAs pokemon:Wigglytuff .
+
+resource:Zapdos a pokemon1:WikiResource ;
+    rdfs:label "Zapdos" ;
+    owl:sameAs pokemon:Zapdos .
+
+resource:Zubat a pokemon1:WikiResource ;
+    rdfs:label "Zubat" ;
+    owl:sameAs pokemon:Zubat .
+

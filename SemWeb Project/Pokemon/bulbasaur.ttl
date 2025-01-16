@@ -1,0 +1,13 @@
+@prefix pokemon: <http://example.org/pokemon#> .
+@prefix schema1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+pokemon:Bulbasaur a pokemon:Pokemon ;
+    pokemon:height "0.7"^^schema1:Float,
+        "0.7"^^xsd:float ;
+    pokemon:japaneseName "フシギダネ"@ja ;
+    pokemon:type1 "Grass"@en ;
+    pokemon:type2 "Poison"@en ;
+    pokemon:weight "6.9"^^xsd:float ;
+    schema1:name "Bulbasaur"@en .
+

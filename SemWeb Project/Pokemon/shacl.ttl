@@ -1,0 +1,470 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix pokemon: <http://example.org/pokemon#> .
+
+pokemon:PokemonTemplateShape
+    a sh:NodeShape ;
+    sh:targetClass pokemon:Pokemon ;
+    sh:property [
+        sh:path pokemon:name ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:description "The Pokémon's name in English." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:jname ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:description "The Pokémon's name in Japanese." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:tmname ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:description "Translation of the Japanese name. " ;
+    ] ;
+    sh:property [
+        sh:path pokemon:jtranslit ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Japanese name in rōmaji. " ;
+    ] ;
+    sh:property [
+        sh:path pokemon:category ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:description "Category name from the Pokédex." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:ndex ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+        sh:description "National Pokédex number." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:forme ;
+        sh:datatype xsd:integer ;
+        sh:maxCount 1 ;
+        sh:description "Number of forms the Pokémon has. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:image ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:description "Main image of the Pokémon." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:type1 ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:description "The Pokémon's primary type." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:type2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "The Pokémon's secondary type. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form2type1 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form2type2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form3type1 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form3type2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form4type1 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form4type2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form5type1 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form5type2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form6type1 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form6type2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:ability1 ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:description "The Pokémon's first standard ability." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:ability2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "The Pokémon's second standard ability. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:ability2-1 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "The Pokémon's second form's first (or only) Ability." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:ability2-2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "The Pokémon's second form's second Ability." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:ability3-1 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "The Pokémon's third  form's first (or only) Ability." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:ability3-2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "The Pokémon's third  form's second Ability." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:abilitym ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "The Pokémon's first Mega Evolution's Ability." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:abilitym2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "The Pokémon's second Mega Evolution's Ability." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:abilityd ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "The Pokémon's Hidden Ability." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:abilitydcaption ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "A caption prefixed to the label for abilityd." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:abilityd2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "A Hidden Ability for an alternate form." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:abilityd2caption ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "A caption prefixed to the label for abilityd2." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:abilityold ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Name of a further Ability. Added on a new row, below other the other Abilities." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:abilityoldcaption ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "A caption for abilityold." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:catchrate ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+        sh:description "The Pokémon's catch rate." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:gendercode ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+        sh:in ( 256 255 254 223 191 127 63 31 0 ) ;
+        sh:description """
+            Gender code:
+            256 = Unknown
+            255 = Genderless
+            254 = All female
+            223 = 1 male : 7 female
+            191 = 1 male : 3 female
+            127 = 1 male : 1 female
+            63 = 3 male : 1 female
+            31 = 7 male : 1 female
+            0 = Male only
+        """ ;
+    ] ;
+    sh:property [
+        sh:path pokemon:height_m ;
+        sh:datatype xsd:decimal ;
+        sh:minCount 1 ;
+        sh:description "The Pokémon's height in meters." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:height-ftin;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:weight_kg ;
+        sh:datatype xsd:decimal ;
+        sh:minCount 1 ;
+        sh:description "The Pokémon's weight in kilograms." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:weight_lbs ;
+        sh:datatype xsd:decimal ;
+        sh:minCount 1 ;
+    ] ;
+    sh:property [
+        sh:path pokemon:mega ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Name of the Mega Stone. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:mega2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Name of the second Mega Stone. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:generation ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+        sh:maxInclusive 10 ;  # Adapte si le nombre maximum de générations change
+        sh:minCount 1 ;
+        sh:description "The generation the Pokémon first appeared in. Should be an integer between 1 and 10."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:expyield ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+        sh:minCount 1 ;
+        sh:description "Base Experience yield. Must be a positive integer."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:oldexp ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+        sh:maxCount 1 ;
+        sh:description "Optional. Experience yield prior to Generation V."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:g4exp ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+        sh:maxCount 1 ;
+        sh:description "Optional. Experience yield in Generation IV, if different from earlier generations."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:lv100exp ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+        sh:minCount 1 ;
+        sh:description "Total experience required to reach level 100. Must be a positive integer."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:evforms ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+        sh:maxInclusive 4 ;
+        sh:minCount 1 ;
+        sh:defaultValue 1 ;
+        sh:description "The number of forms with different EV yields. Must be between 1 and 4. Defaults to 1."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:evtotal ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+        sh:minCount 1 ;
+        sh:description "The total EV yield. Must be a positive integer or 0. Defaults to Unknown."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:evhp ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+        sh:minCount 1 ;
+        sh:defaultValue 0 ;
+        sh:description "The HP EV yield. Defaults to 0."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:evat ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+        sh:minCount 1 ;
+        sh:defaultValue 0 ;
+        sh:description "The Attack EV yield. Defaults to 0."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:evde ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+        sh:minCount 1 ;
+        sh:defaultValue 0 ;
+        sh:description "The Defense EV yield. Defaults to 0."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:evsa ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+        sh:minCount 1 ;
+        sh:defaultValue 0 ;
+        sh:description "The Special Attack EV yield. Defaults to 0."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:evsd ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+        sh:minCount 1 ;
+        sh:defaultValue 0 ;
+        sh:description "The Special Defense EV yield. Defaults to 0."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:evsp ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+        sh:minCount 1 ;
+        sh:defaultValue 0 ;
+        sh:description "The Speed EV yield. Defaults to 0."@en ;
+    ] ;
+    sh:property [
+        sh:path pokemon:color ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:description "The Pokémon's color listed in the Pokédex." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:friendship ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+        sh:description "The base friendship value. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form1 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Name of the first form. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Name of the second form. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form3 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Name of the third form. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form4 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Name of the fourth form. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form5 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Name of the fifth form. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:form6 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Name of the sixth form. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:image2 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Image of the second form. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:image3 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Image of the third form. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:image4 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Image of the fourth form. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:image5 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Image of the fifth form. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:image6 ;
+        sh:datatype xsd:string ;
+        sh:maxCount 1 ;
+        sh:description "Image of the sixth form. Optional." ;
+    ] ;
+    sh:property [
+        sh:path pokemon:egggroupn ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 2 ;
+        sh:minCount 1 ;
+        sh:defaultValue 1 ;
+        sh:description "The number of Egg Groups the Pokémon is in. Type 0 if in the No Eggs Discovered group."@en ;
+    ] ;
+
+    sh:property [
+        sh:path pokemon:egggroup1 ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:in ( "Monster" "Human-Like" "Water 1" "Water 3" "Bug" "Mineral" "Flying" "Amorphous" "Field" "Water 2" "Fairy" "Ditto" "Grass" "Dragon" "No Eggs Discovered" ) ;
+        sh:description "The Pokémon's first egg group."@en ;
+    ] ;
+
+    sh:property [
+        sh:path pokemon:egggroup2 ;
+        sh:datatype xsd:string ;
+        sh:minCount 0 ;
+        sh:in ( "Monster" "Human-Like" "Water 1" "Water 3" "Bug" "Mineral" "Flying" "Amorphous" "Field" "Water 2" "Fairy" "Ditto" "Grass" "Dragon" ) ;
+        sh:description "The Pokémon's second egg group, if applicable."@en ;
+    ] ;
+
+    sh:property [
+        sh:path pokemon:eggcycles ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+        sh:minCount 1 ;
+        sh:description "The number of egg cycles it takes for an egg to hatch."@en ;
+    ] .
