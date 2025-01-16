@@ -1,0 +1,208 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix ex: <http://example.org/pokemon/move/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+ex:MoveShape
+    a sh:NodeShape ;
+    sh:targetClass ex:Move ;
+    
+    # Property constraints
+    sh:property [
+        sh:path ex:n ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+        sh:description "Move number. No leading zeros allowed." ;
+    ] ;
+    sh:property [
+        sh:path ex:name ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:description "Name of the move in English." ;
+    ] ;
+    sh:property [
+        sh:path ex:jname ;
+        sh:datatype xsd:string ;
+        sh:description "Name of the move in Japanese." ;
+    ] ;
+    sh:property [
+        sh:path ex:jtrans ;
+        sh:datatype xsd:string ;
+        sh:description "Translation of the Japanese name." ;
+    ] ;
+    sh:property [
+        sh:path ex:jtranslit ;
+        sh:datatype xsd:string ;
+        sh:description "Japanese name in rōmaji." ;
+    ] ;
+    sh:property [
+        sh:path ex:gameimage ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:description "Screenshot showing the move. Should not include 'File:'." ;
+    ] ;
+    sh:property [
+        sh:path ex:gameimage2 ;
+        sh:datatype xsd:string ;
+        sh:description "Optional second screenshot." ;
+    ] ;
+    sh:property [
+        sh:path ex:gameimagewidth ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+        sh:description "Width of the images in pixels." ;
+    ] ;
+    sh:property [
+        sh:path ex:type ;
+        sh:in ("Normal" "Fire" "Fighting" "Water" "Flying" "Grass" "Poison" "Electric" "Ground"
+               "Psychic" "Rock" "Ice" "Bug" "Dragon" "Ghost" "Dark" "Steel" "Fairy" "Shadow" "Unknown") ;
+        sh:description "The type of the move." ;
+    ] ;
+    sh:property [
+        sh:path ex:damagecategory ;
+        sh:in ("Physical" "Special" "Status") ;
+        sh:minCount 1 ;
+        sh:description "The category of the move." ;
+    ] ;
+    sh:property [
+        sh:path ex:basepp ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+        sh:description "Base PP of the move." ;
+    ] ;
+    sh:property [
+        sh:path ex:maxpp ;
+        sh:datatype xsd:integer ;
+        sh:description "Maximum PP, usually 160% of base PP." ;
+    ] ;
+    sh:property [
+        sh:path ex:power ;
+        sh:datatype xsd:integer ;
+        sh:description "Move power. Use '—' if no power is applicable." ;
+    ] ;
+    sh:property [
+        sh:path ex:accuracy ;
+        sh:datatype xsd:integer ;
+        sh:description "Move accuracy. Use '—' if no accuracy is applicable." ;
+    ] ;
+    sh:property [
+        sh:path ex:priority ;
+        sh:in ("+5" "+4" "+3" "+2" "+1" "0" "-1" "-3" "-4" "-5" "-6" "-7") ;
+        sh:description "Priority of the move. Moves with 0 priority can omit this parameter." ;
+    ] ;
+    sh:property [
+        sh:path ex:touches ;
+        sh:in ("yes" "no") ;
+        sh:description "Indicates if the move makes contact with the opponent." ;
+    ] ;
+    sh:property [
+        sh:path ex:protect ;
+        sh:in ("yes" "no") ;
+        sh:description "Indicates if the move is affected by Protect." ;
+    ] ;
+    sh:property [
+        sh:path ex:magiccoat ;
+        sh:in ("yes" "no") ;
+        sh:description "Indicates if Magic Coat or Magic Bounce protect against the move." ;
+    ] ;
+    sh:property [
+        sh:path ex:snatch ;
+        sh:in ("yes" "no") ;
+        sh:description "Indicates if the move is affected by Snatch." ;
+    ] ;
+    sh:property [
+        sh:path ex:mirrormove ;
+        sh:in ("yes" "no") ;
+        sh:description "Indicates if the move is affected by Mirror Move." ;
+    ] ;
+    sh:property [
+        sh:path ex:kingsrock ;
+        sh:in ("yes" "no") ;
+        sh:description "Indicates if the move causes flinching with King's Rock." ;
+    ] ;
+    sh:property [
+        sh:path ex:sound ;
+        sh:in ("yes" "no") ;
+        sh:description "Indicates if the move is a sound-based move." ;
+    ] ;
+    sh:property [
+        sh:path ex:field ;
+        sh:in ("yes" "no") ;
+        sh:description "Indicates if the move is usable outside of battle." ;
+    ] ;
+    sh:property [
+        sh:path ex:target ;
+        sh:in ("anyadjacent" "any" "selfadjacentally" "adjacentally" "adjacentfoe"
+               "alladjacent" "adjacentfoes" "team" "allies" "self" "all" "random"
+               "allfield" "foes" "allyfield" "varies") ;
+        sh:description "The target range of the move." ;
+    ] ;
+    sh:property [
+        sh:path ex:gen ;
+        sh:datatype xsd:string ;
+        sh:description "The generation the move was introduced in, as a Roman numeral." ;
+    ] ;
+    sh:property [
+        sh:path ex:category ;
+        sh:in ("Cool" "Beautiful" "Cute" "Clever" "Tough") ;
+        sh:description "Contest condition of the move." ;
+    ] ;
+    sh:property [
+        sh:path ex:appeal ;
+        sh:datatype xsd:integer ;
+        sh:description "The number of Appeal Points the move scores in Pokémon Contest." ;
+    ] ;
+    sh:property [
+        sh:path ex:jam ;
+        sh:datatype xsd:integer ;
+        sh:description "The number of Appeal Points lost when the move is used for jamming in Pokémon Contest." ;
+    ] ;
+    sh:property [
+        sh:path ex:cdesc ;
+        sh:datatype xsd:string ;
+        sh:description "The move description from Pokémon Contest." ;
+    ] ;
+    
+    sh:property [
+        sh:path ex:appealsc ;
+        sh:datatype xsd:integer ;
+        sh:description "The number of Appeal Points the move scores in Pokémon Super Contest." ;
+    ] ;
+    sh:property [
+        sh:path ex:scdesc ;
+        sh:datatype xsd:string ;
+        sh:description "The move description from Pokémon Super Contest." ;
+    ] ;
+
+    sh:property [
+        sh:path ex:category6 ;
+        sh:in ("Cool" "Beautiful" "Cute" "Clever" "Tough") ;
+        sh:description "Optional. Contest condition in Pokémon Contest Spectaculars, if different from the category parameter." ;
+    ] ;
+    sh:property [
+        sh:path ex:appeal6 ;
+        sh:datatype xsd:integer ;
+        sh:description "The number of Appeal Points the move scores in Pokémon Contest Spectaculars." ;
+    ] ;
+    sh:property [
+        sh:path ex:jam6 ;
+        sh:datatype xsd:integer ;
+        sh:description "The number of Appeal Points lost when the move is used for jamming in Pokémon Contest Spectaculars." ;
+    ] ;
+    sh:property [
+        sh:path ex:cdesc6 ;
+        sh:datatype xsd:string ;
+        sh:description "The move description from Pokémon Contest Spectaculars." ;
+    ] ;
+
+    sh:property [
+        sh:path ex:footnotes ;
+        sh:datatype xsd:string ;
+        sh:description "Optional. Allows for footnotes to be added to the bottom of the infobox." ;
+    ] ;
+    sh:property [
+        sh:path ex:spm ;
+        sh:datatype xsd:integer ;
+        sh:in ("0" "1") ;
+        sh:description "Hides the links to Smogon's Movedex if set to 1. Defaults to 0." ;
+    ] .
